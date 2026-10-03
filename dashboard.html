@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Paris Basketball — Soirs à 100 points & boutique</title>
+    <link rel="stylesheet" href="/dashboard.css" />
+  </head>
+  <body>
+    <main>
+      <div class="top">
+        <div class="sub">
+          <div class="eyebrow">Paris Basketball · saison 2025–26</div>
+          <h1>
+            Matchs à 100 points ou plus, quel impact <br />
+            sur les recettes de la boutique?
+          </h1>
+          <p>
+            Recettes de la boutique physique sur place et fréquentation des
+            matchs à domicile. <br />L’offre de 10 % est étudiée comme une
+            hypothèse à vérifier dans les tickets de caisse.
+          </p>
+        </div>
+        <label
+          ><span class="kpi-label">Filtrer par compétition</span><br /><select
+            id="competition"
+            class="filter"
+            aria-label="Filtrer par compétition"
+          >
+            <option value="Toutes">Toutes les compétitions</option>
+          </select></label
+        >
+      </div>
+
+      <section class="notice" role="note">
+        <strong
+          >À lire comme une comparaison descriptive, pas comme l’effet causal de
+          la réduction.</strong
+        >
+        <p>
+          Le chiffre d’affaires couvre toute la journée du match, y compris
+          avant le coup d’envoi. Le fichier ne donne pas d’identifiant propre à
+          l’offre « 100 points » ; les codes génériques de 10 % ne permettent
+          donc pas de confirmer seuls son utilisation.
+        </p>
+      </section>
+
+      <section
+        class="grid kpis"
+        id="kpis"
+        aria-label="Indicateurs clés"
+      ></section>
+
+      <section class="grid two">
+        <article class="card">
+          <div class="section-head">
+            <div>
+              <h2>Recettes boutique par scénario</h2>
+              <p>
+                Comparaison des quatre scénarios sur la journée entière en jour
+                de match
+              </p>
+            </div>
+            <span class="tag">Magasin physique ARENA</span>
+          </div>
+          <div id="group-chart" class="group-list"></div>
+          <div class="callout" id="group-note"></div>
+        </article>
+        <article class="card">
+          <div class="section-head">
+            <div>
+              <h2>Fréquentation et recettes boutique, match par match</h2>
+              <p>
+                Survole un point pour son détail ;<br />
+                clique pour retrouver le match dans le tableau.
+              </p>
+            </div>
+            <span class="tag">Recettes nettes de la journée</span>
+          </div>
+          <div id="scatter"></div>
+          <div class="legend" id="legend"></div>
+        </article>
+      </section>
+
+      <section class="grid two">
+        <section class="card">
+          <div class="section-head">
+            <div>
+              <h2>Recettes boutique autour de la sortie*</h2>
+              <p>
+                Comparaison des recettes médianes dans les quatre scénarios.
+              </p>
+            </div>
+            <span class="tag">Magasin physique ARENA</span>
+          </div>
+          <div id="exit-chart" class="group-list"></div>
+          <div class="callout" id="exit-note"></div>
+        </section>
+        <section class="card">
+          <div class="section-head">
+            <div>
+              <h2>Fréquentation et recettes boutique à la sortie du match</h2>
+              <p>
+                Survole un point pour son détail ;<br />
+                clique pour retrouver le match dans le tableau.
+              </p>
+            </div>
+              <span class="tag">Fenêtre de sortie estimée*</span>
+          </div>
+          <div id="scatter-after"></div>
+          <div class="legend" id="legend-after"></div>
+        </section>
+      </section>
+      <div class="foot">
+        * Fenêtre estimée faute d’heure réelle de fin : ventes entre T+1 h 40 et
+        T+2 h 40 après le coup d’envoi. Elle peut inclure des ventes réalisées
+        avant le coup de sifflet final.
+      </div>
+
+      <section class="card">
+        <div class="section-head">
+          <div>
+            <h2>Détail par match</h2>
+            <p>
+              Les avoirs validés sont soustraits des ventes dans le chiffre
+              d’affaires net.
+            </p>
+          </div>
+          <span class="tag" id="table-count"></span>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Date</th>
+                <th>Compétition</th>
+                <th>Adversaire</th>
+                <th>Salle</th>
+                <th>Score Paris</th>
+                <th>Résultat</th>
+                <th>100 points ou plus ?</th>
+                <th>Scans uniques</th>
+                <th>Remplissage</th>
+                <th>Ventes</th>
+                <th>Avoirs</th>
+                <th>CA boutique jour</th>
+                <th>Code 10 %¹</th>
+                <th>CA/1 000 scans</th>
+                <th>CA boutique T+1h40–2h40</th>
+              </tr>
+            </thead>
+            <tbody id="match-table"></tbody>
+          </table>
+        </div>
+        <div class="foot">
+          ¹ Compte les tickets de caisse avec le type générique CODE_PROMO à 10
+          %. Le jeu de données ne prouve pas qu’il s’agit de la réduction
+          déclenchée par le score. Tous les montants et taux sont descriptifs.
+        </div>
+      </section>
+      <div class="foot">
+        Sources : exports fournis (résultats, calendrier, scans, boutique) et
+        archive Open-Meteo locale. Le chiffre d’affaires boutique porte sur le
+        magasin physique `ARENA` ; les commandes `ESHOP` sont exclues.
+        Fréquentation estimée par codes-barres uniques avec un scan OK. Généré
+        automatiquement par le pipeline du projet.
+      </div>
+    </main>
+    <div id="tooltip" class="tooltip" role="status"></div>
+    <script src="/dashboard.js" defer></script>
+  </body>
+</html>

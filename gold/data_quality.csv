@@ -1,0 +1,44 @@
+﻿source,rows_read,rows_used,rows_excluded,detail
+dataset/boutique_ventes_avoirs.csv,51251,44453,6798,ARENA uniquement; ventes/avoirs validés; lignes de synthèse sans identifiant écartées; 305 doublons de ligne sans conflit fusionnés; 0 identifiants de ligne ambigus conservés.
+dataset\sftp\scan_20251009.csv,4822,4718,104,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20251012.csv,6311,6154,157,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20251015.csv,5221,5085,136,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20251017.csv,7164,0,7164,Colonnes obligatoires absentes; fichier ignoré.
+dataset\sftp\scan_20251019.csv,2985,2929,56,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20251028.csv,5598,5458,140,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20251106.csv,5952,5816,136,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20251109.csv,5584,5437,147,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20251111.csv,5641,5511,130,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20251113.csv,6391,6225,166,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20251207.csv,3989,3893,96,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20251209.csv,4510,4397,113,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20251211.csv,7171,6969,202,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20251216.csv,7049,6871,178,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20251221.csv,6166,5985,181,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20251223.csv,6198,6025,173,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20251224.csv,0,0,0,Fichier vide ignoré.
+dataset\sftp\scan_20260113.csv,5620,5446,174,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20260115.csv,13309,12959,350,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20260118.csv,6483,6303,180,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20260122.csv,6411,6253,158,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20260127.csv,13156,12796,360,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20260201.csv,5323,5183,140,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20260205.csv,13233,12883,350,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20260207.csv,6595,6430,165,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20260310.csv,13131,12751,380,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20260312.csv,4174,4070,104,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20260315.csv,5662,5499,163,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20260319.csv,6536,6347,189,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20260322.csv,6580,6422,158,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20260402.csv,5814,5675,139,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20260404.csv,6544,6386,158,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20260409.csv,5787,5620,167,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20260502.csv,5638,5489,149,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20260516.csv,5800,5664,136,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20260526.csv,5397,5274,123,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20260530.csv,5625,5486,139,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20260602.csv,6924,6737,187,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20260604.csv,6017,5856,161,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20260614.csv,7066,6895,171,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20260617.csv,7065,6883,182,Scans OK comptés; fréquentation estimée par codes-barres uniques.
+dataset\sftp\scan_20260623.csv,7014,6833,181,Scans OK comptés; fréquentation estimée par codes-barres uniques.
