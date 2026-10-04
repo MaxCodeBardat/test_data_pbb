@@ -1,0 +1,163 @@
+[
+ {
+  "nom": "Paris 1er Arrondissement",
+  "code": "75101",
+  "codesPostaux": [
+   "75001"
+  ],
+  "population": 15114
+ },
+ {
+  "nom": "Paris 2e Arrondissement",
+  "code": "75102",
+  "codesPostaux": [
+   "75002"
+  ],
+  "population": 19847
+ },
+ {
+  "nom": "Paris 3e Arrondissement",
+  "code": "75103",
+  "codesPostaux": [
+   "75003"
+  ],
+  "population": 32179
+ },
+ {
+  "nom": "Paris 4e Arrondissement",
+  "code": "75104",
+  "codesPostaux": [
+   "75004"
+  ],
+  "population": 27332
+ },
+ {
+  "nom": "Paris 5e Arrondissement",
+  "code": "75105",
+  "codesPostaux": [
+   "75005"
+  ],
+  "population": 55252
+ },
+ {
+  "nom": "Paris 6e Arrondissement",
+  "code": "75106",
+  "codesPostaux": [
+   "75006"
+  ],
+  "population": 40389
+ },
+ {
+  "nom": "Paris 7e Arrondissement",
+  "code": "75107",
+  "codesPostaux": [
+   "75007"
+  ],
+  "population": 48015
+ },
+ {
+  "nom": "Paris 8e Arrondissement",
+  "code": "75108",
+  "codesPostaux": [
+   "75008"
+  ],
+  "population": 35317
+ },
+ {
+  "nom": "Paris 9e Arrondissement",
+  "code": "75109",
+  "codesPostaux": [
+   "75009"
+  ],
+  "population": 57271
+ },
+ {
+  "nom": "Paris 10e Arrondissement",
+  "code": "75110",
+  "codesPostaux": [
+   "75010"
+  ],
+  "population": 83873
+ },
+ {
+  "nom": "Paris 11e Arrondissement",
+  "code": "75111",
+  "codesPostaux": [
+   "75011"
+  ],
+  "population": 138170
+ },
+ {
+  "nom": "Paris 12e Arrondissement",
+  "code": "75112",
+  "codesPostaux": [
+   "75012"
+  ],
+  "population": 138024
+ },
+ {
+  "nom": "Paris 13e Arrondissement",
+  "code": "75113",
+  "codesPostaux": [
+   "75013"
+  ],
+  "population": 181271
+ },
+ {
+  "nom": "Paris 14e Arrondissement",
+  "code": "75114",
+  "codesPostaux": [
+   "75014"
+  ],
+  "population": 136455
+ },
+ {
+  "nom": "Paris 15e Arrondissement",
+  "code": "75115",
+  "codesPostaux": [
+   "75015"
+  ],
+  "population": 229713
+ },
+ {
+  "nom": "Paris 16e Arrondissement",
+  "code": "75116",
+  "codesPostaux": [
+   "75016",
+   "75116"
+  ],
+  "population": 159386
+ },
+ {
+  "nom": "Paris 17e Arrondissement",
+  "code": "75117",
+  "codesPostaux": [
+   "75017"
+  ],
+  "population": 159212
+ },
+ {
+  "nom": "Paris 18e Arrondissement",
+  "code": "75118",
+  "codesPostaux": [
+   "75018"
+  ],
+  "population": 183127
+ },
+ {
+  "nom": "Paris 19e Arrondissement",
+  "code": "75119",
+  "codesPostaux": [
+   "75019"
+  ],
+  "population": 178691
+ },
+ {
+  "nom": "Paris 20e Arrondissement",
+  "code": "75120",
+  "codesPostaux": [
+   "75020"
+  ],
+  "population": 185140
+ }
+]

@@ -1,0 +1,735 @@
+{
+ "winner": {
+  "code": "OLY",
+  "name": "Olympiacos Piraeus",
+  "abbreviatedName": "Olympiacos",
+  "editorialName": "Olympiacos",
+  "tvCode": "OLY",
+  "isVirtual": false,
+  "images": {
+   "crest": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
+  }
+ },
+ "teams": [
+  {
+   "position": 1,
+   "positionChange": "Up",
+   "gamesPlayed": 20,
+   "gamesWon": 14,
+   "gamesLost": 6,
+   "qualified": false,
+   "club": {
+    "code": "HTA",
+    "name": "Hapoel IBI Tel Aviv",
+    "abbreviatedName": "Hapoel Tel Aviv",
+    "editorialName": "Hapoel Tel Aviv",
+    "tvCode": "HTA",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/cbb1c3ad-03d5-426a-b5ef-2832a4eee484.png"
+    }
+   },
+   "winPercentage": "70%",
+   "pointsDifference": "+115",
+   "pointsFor": 1758,
+   "pointsAgainst": 1643,
+   "homeRecord": "7-3",
+   "awayRecord": "7-3",
+   "neutralRecord": "0-0",
+   "overtimeRecord": "0-0",
+   "lastTenRecord": "6-4",
+   "groupName": "Regular Season",
+   "last5Form": [
+    "W",
+    "L",
+    "W",
+    "L",
+    "W"
+   ]
+  },
+  {
+   "position": 2,
+   "positionChange": "Down",
+   "gamesPlayed": 20,
+   "gamesWon": 14,
+   "gamesLost": 6,
+   "qualified": false,
+   "club": {
+    "code": "PAM",
+    "name": "Valencia Basket",
+    "abbreviatedName": "Valencia",
+    "editorialName": "Valencia",
+    "tvCode": "VBC",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHL/bc3e00b2-fea4-40be-a7ec-1e633129bde3.png"
+    }
+   },
+   "winPercentage": "70%",
+   "pointsDifference": "+108",
+   "pointsFor": 1804,
+   "pointsAgainst": 1696,
+   "homeRecord": "9-1",
+   "awayRecord": "5-5",
+   "neutralRecord": "0-0",
+   "overtimeRecord": "0-0",
+   "lastTenRecord": "8-2",
+   "groupName": "Regular Season",
+   "last5Form": [
+    "W",
+    "L",
+    "W",
+    "W",
+    "W"
+   ]
+  },
+  {
+   "position": 3,
+   "positionChange": "Equal",
+   "gamesPlayed": 20,
+   "gamesWon": 13,
+   "gamesLost": 7,
+   "qualified": false,
+   "club": {
+    "code": "MCO",
+    "name": "AS Monaco",
+    "abbreviatedName": "Monaco",
+    "editorialName": "Monaco",
+    "tvCode": "ASM",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/89ed276a-2ba3-413f-8ea2-b3be209ca129.png"
+    }
+   },
+   "winPercentage": "65%",
+   "pointsDifference": "+148",
+   "pointsFor": 1808,
+   "pointsAgainst": 1660,
+   "homeRecord": "8-2",
+   "awayRecord": "5-5",
+   "neutralRecord": "0-0",
+   "overtimeRecord": "1-0",
+   "lastTenRecord": "7-3",
+   "groupName": "Regular Season",
+   "last5Form": [
+    "L",
+    "W",
+    "W",
+    "W",
+    "W"
+   ]
+  },
+  {
+   "position": 4,
+   "positionChange": "Up",
+   "gamesPlayed": 20,
+   "gamesWon": 13,
+   "gamesLost": 7,
+   "qualified": false,
+   "club": {
+    "code": "BAR",
+    "name": "FC Barcelona",
+    "abbreviatedName": "Barcelona",
+    "editorialName": "Barcelona",
+    "tvCode": "BAR",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/35dfa503-e417-481f-963a-bdf6f013763e.png"
+    }
+   },
+   "winPercentage": "65%",
+   "pointsDifference": "+42",
+   "pointsFor": 1716,
+   "pointsAgainst": 1674,
+   "homeRecord": "7-3",
+   "awayRecord": "6-4",
+   "neutralRecord": "0-0",
+   "overtimeRecord": "1-0",
+   "lastTenRecord": "7-3",
+   "groupName": "Regular Season",
+   "last5Form": [
+    "W",
+    "W",
+    "L",
+    "L",
+    "W"
+   ]
+  },
+  {
+   "position": 5,
+   "positionChange": "Up",
+   "gamesPlayed": 20,
+   "gamesWon": 13,
+   "gamesLost": 7,
+   "qualified": false,
+   "club": {
+    "code": "ULK",
+    "name": "Fenerbahce Beko Istanbul",
+    "abbreviatedName": "Fenerbahce",
+    "editorialName": "Fenerbahce",
+    "tvCode": "FBB",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHN/c91466d1-a620-4c0c-b47b-4a0cd9eee944.png"
+    }
+   },
+   "winPercentage": "65%",
+   "pointsDifference": "+38",
+   "pointsFor": 1646,
+   "pointsAgainst": 1608,
+   "homeRecord": "8-3",
+   "awayRecord": "5-4",
+   "neutralRecord": "0-0",
+   "overtimeRecord": "0-0",
+   "lastTenRecord": "8-2",
+   "groupName": "Regular Season",
+   "last5Form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "L"
+   ]
+  },
+  {
+   "position": 6,
+   "positionChange": "Down",
+   "gamesPlayed": 20,
+   "gamesWon": 12,
+   "gamesLost": 8,
+   "qualified": false,
+   "club": {
+    "code": "OLY",
+    "name": "Olympiacos Piraeus",
+    "abbreviatedName": "Olympiacos",
+    "editorialName": "Olympiacos",
+    "tvCode": "OLY",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
+    }
+   },
+   "winPercentage": "60%",
+   "pointsDifference": "+80",
+   "pointsFor": 1775,
+   "pointsAgainst": 1695,
+   "homeRecord": "7-3",
+   "awayRecord": "5-5",
+   "neutralRecord": "0-0",
+   "overtimeRecord": "0-0",
+   "lastTenRecord": "5-5",
+   "groupName": "Regular Season",
+   "last5Form": [
+    "W",
+    "W",
+    "W",
+    "L",
+    "W"
+   ]
+  },
+  {
+   "position": 7,
+   "positionChange": "Up",
+   "gamesPlayed": 20,
+   "gamesWon": 12,
+   "gamesLost": 8,
+   "qualified": false,
+   "club": {
+    "code": "MAD",
+    "name": "Real Madrid",
+    "abbreviatedName": "Real",
+    "editorialName": "Real",
+    "tvCode": "RMB",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/371b0d9b-9250-4c09-bda7-0686cf024657.png"
+    }
+   },
+   "winPercentage": "60%",
+   "pointsDifference": "+49",
+   "pointsFor": 1732,
+   "pointsAgainst": 1683,
+   "homeRecord": "8-1",
+   "awayRecord": "4-7",
+   "neutralRecord": "0-0",
+   "overtimeRecord": "0-0",
+   "lastTenRecord": "7-3",
+   "groupName": "Regular Season",
+   "last5Form": [
+    "L",
+    "W",
+    "L",
+    "W",
+    "W"
+   ]
+  },
+  {
+   "position": 8,
+   "positionChange": "Down",
+   "gamesPlayed": 20,
+   "gamesWon": 12,
+   "gamesLost": 8,
+   "qualified": false,
+   "club": {
+    "code": "PAN",
+    "name": "Panathinaikos AKTOR Athens",
+    "abbreviatedName": "Panathinaikos",
+    "editorialName": "Panathinaikos",
+    "tvCode": "PAO",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/e3dff28a-9ec6-4faf-9d96-ecbc68f75780.png"
+    }
+   },
+   "winPercentage": "60%",
+   "pointsDifference": "+40",
+   "pointsFor": 1753,
+   "pointsAgainst": 1713,
+   "homeRecord": "6-4",
+   "awayRecord": "6-4",
+   "neutralRecord": "0-0",
+   "overtimeRecord": "0-0",
+   "lastTenRecord": "6-4",
+   "groupName": "Regular Season",
+   "last5Form": [
+    "W",
+    "W",
+    "W",
+    "L",
+    "L"
+   ]
+  },
+  {
+   "position": 9,
+   "positionChange": "Down",
+   "gamesPlayed": 20,
+   "gamesWon": 11,
+   "gamesLost": 9,
+   "qualified": false,
+   "club": {
+    "code": "ZAL",
+    "name": "Zalgiris Kaunas",
+    "abbreviatedName": "Zalgiris",
+    "editorialName": "Zalgiris",
+    "tvCode": "ZAL",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/0aa09358-3847-4c4e-b228-3582ee4e536d.png"
+    }
+   },
+   "winPercentage": "55%",
+   "pointsDifference": "+94",
+   "pointsFor": 1735,
+   "pointsAgainst": 1641,
+   "homeRecord": "6-4",
+   "awayRecord": "5-5",
+   "neutralRecord": "0-0",
+   "overtimeRecord": "0-0",
+   "lastTenRecord": "4-6",
+   "groupName": "Regular Season",
+   "last5Form": [
+    "L",
+    "W",
+    "L",
+    "W",
+    "L"
+   ]
+  },
+  {
+   "position": 10,
+   "positionChange": "Down",
+   "gamesPlayed": 20,
+   "gamesWon": 11,
+   "gamesLost": 9,
+   "qualified": false,
+   "club": {
+    "code": "RED",
+    "name": "Crvena Zvezda Meridianbet Belgrade",
+    "abbreviatedName": "Crvena Zvezda",
+    "editorialName": "Crvena Zvezda",
+    "tvCode": "CZV",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/d2eef4a8-62df-4fdd-9076-276004268515.png"
+    }
+   },
+   "winPercentage": "55%",
+   "pointsDifference": "+48",
+   "pointsFor": 1720,
+   "pointsAgainst": 1672,
+   "homeRecord": "8-3",
+   "awayRecord": "3-6",
+   "neutralRecord": "0-0",
+   "overtimeRecord": "0-0",
+   "lastTenRecord": "4-6",
+   "groupName": "Regular Season",
+   "last5Form": [
+    "L",
+    "W",
+    "L",
+    "W",
+    "L"
+   ]
+  },
+  {
+   "position": 11,
+   "positionChange": "Equal",
+   "gamesPlayed": 20,
+   "gamesWon": 10,
+   "gamesLost": 10,
+   "qualified": false,
+   "club": {
+    "code": "VIR",
+    "name": "Virtus Bologna",
+    "abbreviatedName": "Virtus",
+    "editorialName": "Virtus",
+    "tvCode": "VIR",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.cortextech.io/1362801d-dd09-4fd0-932d-ead56063ab77.png"
+    }
+   },
+   "winPercentage": "50%",
+   "pointsDifference": "+3",
+   "pointsFor": 1662,
+   "pointsAgainst": 1659,
+   "homeRecord": "8-2",
+   "awayRecord": "2-8",
+   "neutralRecord": "0-0",
+   "overtimeRecord": "0-0",
+   "lastTenRecord": "5-5",
+   "groupName": "Regular Season",
+   "last5Form": [
+    "W",
+    "L",
+    "L",
+    "W",
+    "W"
+   ]
+  },
+  {
+   "position": 12,
+   "positionChange": "Equal",
+   "gamesPlayed": 20,
+   "gamesWon": 10,
+   "gamesLost": 10,
+   "qualified": false,
+   "club": {
+    "code": "MIL",
+    "name": "EA7 Emporio Armani Milan",
+    "abbreviatedName": "Milan",
+    "editorialName": "Milan",
+    "tvCode": "EA7",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/5c2f0ab6-f86a-4df0-b2f3-f9ab92f7267b.png"
+    }
+   },
+   "winPercentage": "50%",
+   "pointsDifference": "-7",
+   "pointsFor": 1674,
+   "pointsAgainst": 1681,
+   "homeRecord": "5-4",
+   "awayRecord": "5-6",
+   "neutralRecord": "0-0",
+   "overtimeRecord": "1-0",
+   "lastTenRecord": "5-5",
+   "groupName": "Regular Season",
+   "last5Form": [
+    "W",
+    "L",
+    "L",
+    "L",
+    "W"
+   ]
+  },
+  {
+   "position": 13,
+   "positionChange": "Equal",
+   "gamesPlayed": 20,
+   "gamesWon": 9,
+   "gamesLost": 11,
+   "qualified": false,
+   "club": {
+    "code": "DUB",
+    "name": "Dubai Basketball",
+    "abbreviatedName": "Dubai",
+    "editorialName": "Dubai",
+    "tvCode": "DUB",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/1efae090-16e2-4963-ae47-4b94f249c244.png"
+    }
+   },
+   "winPercentage": "45%",
+   "pointsDifference": "-54",
+   "pointsFor": 1715,
+   "pointsAgainst": 1769,
+   "homeRecord": "7-2",
+   "awayRecord": "2-9",
+   "neutralRecord": "0-0",
+   "overtimeRecord": "0-0",
+   "lastTenRecord": "5-5",
+   "groupName": "Regular Season",
+   "last5Form": [
+    "L",
+    "W",
+    "W",
+    "L",
+    "L"
+   ]
+  },
+  {
+   "position": 14,
+   "positionChange": "Equal",
+   "gamesPlayed": 20,
+   "gamesWon": 8,
+   "gamesLost": 12,
+   "qualified": false,
+   "club": {
+    "code": "TEL",
+    "name": "Maccabi Rapyd Tel Aviv",
+    "abbreviatedName": "Maccabi",
+    "editorialName": "Maccabi",
+    "tvCode": "MTA",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.cortextech.io/1b533342-78f5-4932-b714-a7d80b5826b5.png"
+    }
+   },
+   "winPercentage": "40%",
+   "pointsDifference": "-48",
+   "pointsFor": 1769,
+   "pointsAgainst": 1817,
+   "homeRecord": "4-6",
+   "awayRecord": "4-6",
+   "neutralRecord": "0-0",
+   "overtimeRecord": "0-1",
+   "lastTenRecord": "6-4",
+   "groupName": "Regular Season",
+   "last5Form": [
+    "W",
+    "W",
+    "W",
+    "L",
+    "L"
+   ]
+  },
+  {
+   "position": 15,
+   "positionChange": "Equal",
+   "gamesPlayed": 20,
+   "gamesWon": 7,
+   "gamesLost": 13,
+   "qualified": false,
+   "club": {
+    "code": "PRS",
+    "name": "Paris Basketball",
+    "abbreviatedName": "Paris",
+    "editorialName": "Paris",
+    "tvCode": "PBB",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/a033e5b3-0de7-48a3-98d9-d9a4b9df1f39.png"
+    }
+   },
+   "winPercentage": "35%",
+   "pointsDifference": "-39",
+   "pointsFor": 1804,
+   "pointsAgainst": 1843,
+   "homeRecord": "4-6",
+   "awayRecord": "3-7",
+   "neutralRecord": "0-0",
+   "overtimeRecord": "0-0",
+   "lastTenRecord": "3-7",
+   "groupName": "Regular Season",
+   "last5Form": [
+    "L",
+    "L",
+    "W",
+    "L",
+    "W"
+   ]
+  },
+  {
+   "position": 16,
+   "positionChange": "Up",
+   "gamesPlayed": 20,
+   "gamesWon": 7,
+   "gamesLost": 13,
+   "qualified": false,
+   "club": {
+    "code": "MUN",
+    "name": "FC Bayern Munich",
+    "abbreviatedName": "Bayern",
+    "editorialName": "Bayern",
+    "tvCode": "BAY",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/817b0e58-d595-4b09-ab0b-1e7cc26249ff.png"
+    }
+   },
+   "winPercentage": "35%",
+   "pointsDifference": "-96",
+   "pointsFor": 1586,
+   "pointsAgainst": 1682,
+   "homeRecord": "6-4",
+   "awayRecord": "1-9",
+   "neutralRecord": "0-0",
+   "overtimeRecord": "0-0",
+   "lastTenRecord": "2-8",
+   "groupName": "Regular Season",
+   "last5Form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "W"
+   ]
+  },
+  {
+   "position": 17,
+   "positionChange": "Down",
+   "gamesPlayed": 20,
+   "gamesWon": 6,
+   "gamesLost": 14,
+   "qualified": false,
+   "club": {
+    "code": "BAS",
+    "name": "Kosner Baskonia Vitoria-Gasteiz",
+    "abbreviatedName": "Baskonia",
+    "editorialName": "Baskonia",
+    "tvCode": "KBA",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.cortextech.io/cbc49cb0-99ce-4462-bdb7-56983ee03cf4.png"
+    }
+   },
+   "winPercentage": "30%",
+   "pointsDifference": "-75",
+   "pointsFor": 1732,
+   "pointsAgainst": 1807,
+   "homeRecord": "6-4",
+   "awayRecord": "0-10",
+   "neutralRecord": "0-0",
+   "overtimeRecord": "0-1",
+   "lastTenRecord": "3-7",
+   "groupName": "Regular Season",
+   "last5Form": [
+    "W",
+    "L",
+    "L",
+    "L",
+    "L"
+   ]
+  },
+  {
+   "position": 18,
+   "positionChange": "Down",
+   "gamesPlayed": 20,
+   "gamesWon": 6,
+   "gamesLost": 14,
+   "qualified": false,
+   "club": {
+    "code": "IST",
+    "name": "Anadolu Efes Istanbul",
+    "abbreviatedName": "Anadolu Efes",
+    "editorialName": "Efes",
+    "tvCode": "EFS",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCxM/a844756c-a58d-4666-93b8-48f7337bc79d.png"
+    }
+   },
+   "winPercentage": "30%",
+   "pointsDifference": "-95",
+   "pointsFor": 1570,
+   "pointsAgainst": 1665,
+   "homeRecord": "3-8",
+   "awayRecord": "3-6",
+   "neutralRecord": "0-0",
+   "overtimeRecord": "0-2",
+   "lastTenRecord": "3-7",
+   "groupName": "Regular Season",
+   "last5Form": [
+    "W",
+    "L",
+    "L",
+    "L",
+    "L"
+   ]
+  },
+  {
+   "position": 19,
+   "positionChange": "Equal",
+   "gamesPlayed": 20,
+   "gamesWon": 6,
+   "gamesLost": 14,
+   "qualified": false,
+   "club": {
+    "code": "ASV",
+    "name": "LDLC ASVEL Villeurbanne",
+    "abbreviatedName": "ASVEL",
+    "editorialName": "ASVEL",
+    "tvCode": "ASV",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/e33c6d1a-95ca-4dbc-b8cb-0201812104cc.png"
+    }
+   },
+   "winPercentage": "30%",
+   "pointsDifference": "-172",
+   "pointsFor": 1552,
+   "pointsAgainst": 1724,
+   "homeRecord": "6-4",
+   "awayRecord": "0-10",
+   "neutralRecord": "0-0",
+   "overtimeRecord": "1-0",
+   "lastTenRecord": "4-6",
+   "groupName": "Regular Season",
+   "last5Form": [
+    "W",
+    "L",
+    "W",
+    "W",
+    "L"
+   ]
+  },
+  {
+   "position": 20,
+   "positionChange": "Equal",
+   "gamesPlayed": 20,
+   "gamesWon": 6,
+   "gamesLost": 14,
+   "qualified": false,
+   "club": {
+    "code": "PAR",
+    "name": "Partizan Mozzart Bet Belgrade",
+    "abbreviatedName": "Partizan",
+    "editorialName": "Partizan",
+    "tvCode": "PAR",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/2681304e-77dd-4331-88b1-683078c0fb49.png"
+    }
+   },
+   "winPercentage": "30%",
+   "pointsDifference": "-179",
+   "pointsFor": 1612,
+   "pointsAgainst": 1791,
+   "homeRecord": "5-5",
+   "awayRecord": "1-9",
+   "neutralRecord": "0-0",
+   "overtimeRecord": "0-0",
+   "lastTenRecord": "2-8",
+   "groupName": "Regular Season",
+   "last5Form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "L"
+   ]
+  }
+ ]
+}

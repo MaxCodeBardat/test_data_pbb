@@ -1,0 +1,11427 @@
+[
+ {
+  "nom": "Paris",
+  "code": "75056",
+  "codesPostaux": [
+   "75001",
+   "75002",
+   "75003",
+   "75004",
+   "75005",
+   "75006",
+   "75007",
+   "75008",
+   "75009",
+   "75010",
+   "75011",
+   "75012",
+   "75013",
+   "75014",
+   "75015",
+   "75016",
+   "75017",
+   "75018",
+   "75019",
+   "75020",
+   "75116"
+  ],
+  "codeDepartement": "75",
+  "population": 2103778
+ },
+ {
+  "nom": "Achères-la-Forêt",
+  "code": "77001",
+  "codesPostaux": [
+   "77760"
+  ],
+  "codeDepartement": "77",
+  "population": 1191
+ },
+ {
+  "nom": "Amillis",
+  "code": "77002",
+  "codesPostaux": [
+   "77120"
+  ],
+  "codeDepartement": "77",
+  "population": 830
+ },
+ {
+  "nom": "Amponville",
+  "code": "77003",
+  "codesPostaux": [
+   "77760"
+  ],
+  "codeDepartement": "77",
+  "population": 349
+ },
+ {
+  "nom": "Andrezel",
+  "code": "77004",
+  "codesPostaux": [
+   "77390"
+  ],
+  "codeDepartement": "77",
+  "population": 336
+ },
+ {
+  "nom": "Annet-sur-Marne",
+  "code": "77005",
+  "codesPostaux": [
+   "77410"
+  ],
+  "codeDepartement": "77",
+  "population": 3408
+ },
+ {
+  "nom": "Arbonne-la-Forêt",
+  "code": "77006",
+  "codesPostaux": [
+   "77630"
+  ],
+  "codeDepartement": "77",
+  "population": 1021
+ },
+ {
+  "nom": "Argentières",
+  "code": "77007",
+  "codesPostaux": [
+   "77390"
+  ],
+  "codeDepartement": "77",
+  "population": 361
+ },
+ {
+  "nom": "Armentières-en-Brie",
+  "code": "77008",
+  "codesPostaux": [
+   "77440"
+  ],
+  "codeDepartement": "77",
+  "population": 1176
+ },
+ {
+  "nom": "Arville",
+  "code": "77009",
+  "codesPostaux": [
+   "77890"
+  ],
+  "codeDepartement": "77",
+  "population": 145
+ },
+ {
+  "nom": "Aubepierre-Ozouer-le-Repos",
+  "code": "77010",
+  "codesPostaux": [
+   "77720"
+  ],
+  "codeDepartement": "77",
+  "population": 984
+ },
+ {
+  "nom": "Aufferville",
+  "code": "77011",
+  "codesPostaux": [
+   "77570"
+  ],
+  "codeDepartement": "77",
+  "population": 482
+ },
+ {
+  "nom": "Augers-en-Brie",
+  "code": "77012",
+  "codesPostaux": [
+   "77560"
+  ],
+  "codeDepartement": "77",
+  "population": 265
+ },
+ {
+  "nom": "Aulnoy",
+  "code": "77013",
+  "codesPostaux": [
+   "77120"
+  ],
+  "codeDepartement": "77",
+  "population": 362
+ },
+ {
+  "nom": "Avon",
+  "code": "77014",
+  "codesPostaux": [
+   "77210"
+  ],
+  "codeDepartement": "77",
+  "population": 13651
+ },
+ {
+  "nom": "Baby",
+  "code": "77015",
+  "codesPostaux": [
+   "77480"
+  ],
+  "codeDepartement": "77",
+  "population": 113
+ },
+ {
+  "nom": "Bagneaux-sur-Loing",
+  "code": "77016",
+  "codesPostaux": [
+   "77167"
+  ],
+  "codeDepartement": "77",
+  "population": 1570
+ },
+ {
+  "nom": "Bailly-Romainvilliers",
+  "code": "77018",
+  "codesPostaux": [
+   "77700"
+  ],
+  "codeDepartement": "77",
+  "population": 6980
+ },
+ {
+  "nom": "Balloy",
+  "code": "77019",
+  "codesPostaux": [
+   "77118"
+  ],
+  "codeDepartement": "77",
+  "population": 359
+ },
+ {
+  "nom": "Bannost-Villegagnon",
+  "code": "77020",
+  "codesPostaux": [
+   "77970"
+  ],
+  "codeDepartement": "77",
+  "population": 667
+ },
+ {
+  "nom": "Barbey",
+  "code": "77021",
+  "codesPostaux": [
+   "77130"
+  ],
+  "codeDepartement": "77",
+  "population": 153
+ },
+ {
+  "nom": "Barbizon",
+  "code": "77022",
+  "codesPostaux": [
+   "77630"
+  ],
+  "codeDepartement": "77",
+  "population": 1261
+ },
+ {
+  "nom": "Barcy",
+  "code": "77023",
+  "codesPostaux": [
+   "77910"
+  ],
+  "codeDepartement": "77",
+  "population": 387
+ },
+ {
+  "nom": "Bassevelle",
+  "code": "77024",
+  "codesPostaux": [
+   "77750"
+  ],
+  "codeDepartement": "77",
+  "population": 374
+ },
+ {
+  "nom": "Bazoches-lès-Bray",
+  "code": "77025",
+  "codesPostaux": [
+   "77118"
+  ],
+  "codeDepartement": "77",
+  "population": 878
+ },
+ {
+  "nom": "Beauchery-Saint-Martin",
+  "code": "77026",
+  "codesPostaux": [
+   "77560"
+  ],
+  "codeDepartement": "77",
+  "population": 384
+ },
+ {
+  "nom": "Beaumont-du-Gâtinais",
+  "code": "77027",
+  "codesPostaux": [
+   "77890"
+  ],
+  "codeDepartement": "77",
+  "population": 1129
+ },
+ {
+  "nom": "Beauvoir",
+  "code": "77029",
+  "codesPostaux": [
+   "77390"
+  ],
+  "codeDepartement": "77",
+  "population": 185
+ },
+ {
+  "nom": "Bellot",
+  "code": "77030",
+  "codesPostaux": [
+   "77510"
+  ],
+  "codeDepartement": "77",
+  "population": 777
+ },
+ {
+  "nom": "Bernay-Vilbert",
+  "code": "77031",
+  "codesPostaux": [
+   "77540"
+  ],
+  "codeDepartement": "77",
+  "population": 1005
+ },
+ {
+  "nom": "Beton-Bazoches",
+  "code": "77032",
+  "codesPostaux": [
+   "77320"
+  ],
+  "codeDepartement": "77",
+  "population": 890
+ },
+ {
+  "nom": "Bezalles",
+  "code": "77033",
+  "codesPostaux": [
+   "77970"
+  ],
+  "codeDepartement": "77",
+  "population": 221
+ },
+ {
+  "nom": "Blandy",
+  "code": "77034",
+  "codesPostaux": [
+   "77115"
+  ],
+  "codeDepartement": "77",
+  "population": 763
+ },
+ {
+  "nom": "Blennes",
+  "code": "77035",
+  "codesPostaux": [
+   "77940"
+  ],
+  "codeDepartement": "77",
+  "population": 546
+ },
+ {
+  "nom": "Boisdon",
+  "code": "77036",
+  "codesPostaux": [
+   "77970"
+  ],
+  "codeDepartement": "77",
+  "population": 131
+ },
+ {
+  "nom": "Bois-le-Roi",
+  "code": "77037",
+  "codesPostaux": [
+   "77590"
+  ],
+  "codeDepartement": "77",
+  "population": 6072
+ },
+ {
+  "nom": "Boissettes",
+  "code": "77038",
+  "codesPostaux": [
+   "77350"
+  ],
+  "codeDepartement": "77",
+  "population": 437
+ },
+ {
+  "nom": "Boissise-la-Bertrand",
+  "code": "77039",
+  "codesPostaux": [
+   "77350"
+  ],
+  "codeDepartement": "77",
+  "population": 1206
+ },
+ {
+  "nom": "Boissise-le-Roi",
+  "code": "77040",
+  "codesPostaux": [
+   "77310"
+  ],
+  "codeDepartement": "77",
+  "population": 3941
+ },
+ {
+  "nom": "Boissy-aux-Cailles",
+  "code": "77041",
+  "codesPostaux": [
+   "77760"
+  ],
+  "codeDepartement": "77",
+  "population": 272
+ },
+ {
+  "nom": "Boissy-le-Châtel",
+  "code": "77042",
+  "codesPostaux": [
+   "77169"
+  ],
+  "codeDepartement": "77",
+  "population": 3346
+ },
+ {
+  "nom": "Boitron",
+  "code": "77043",
+  "codesPostaux": [
+   "77750"
+  ],
+  "codeDepartement": "77",
+  "population": 322
+ },
+ {
+  "nom": "Bombon",
+  "code": "77044",
+  "codesPostaux": [
+   "77720"
+  ],
+  "codeDepartement": "77",
+  "population": 935
+ },
+ {
+  "nom": "Bougligny",
+  "code": "77045",
+  "codesPostaux": [
+   "77570"
+  ],
+  "codeDepartement": "77",
+  "population": 738
+ },
+ {
+  "nom": "Boulancourt",
+  "code": "77046",
+  "codesPostaux": [
+   "77760"
+  ],
+  "codeDepartement": "77",
+  "population": 350
+ },
+ {
+  "nom": "Bouleurs",
+  "code": "77047",
+  "codesPostaux": [
+   "77580"
+  ],
+  "codeDepartement": "77",
+  "population": 1743
+ },
+ {
+  "nom": "Bourron-Marlotte",
+  "code": "77048",
+  "codesPostaux": [
+   "77780"
+  ],
+  "codeDepartement": "77",
+  "population": 2774
+ },
+ {
+  "nom": "Boutigny",
+  "code": "77049",
+  "codesPostaux": [
+   "77470"
+  ],
+  "codeDepartement": "77",
+  "population": 874
+ },
+ {
+  "nom": "Bransles",
+  "code": "77050",
+  "codesPostaux": [
+   "77620"
+  ],
+  "codeDepartement": "77",
+  "population": 526
+ },
+ {
+  "nom": "Bray-sur-Seine",
+  "code": "77051",
+  "codesPostaux": [
+   "77480"
+  ],
+  "codeDepartement": "77",
+  "population": 2344
+ },
+ {
+  "nom": "Bréau",
+  "code": "77052",
+  "codesPostaux": [
+   "77720"
+  ],
+  "codeDepartement": "77",
+  "population": 384
+ },
+ {
+  "nom": "Brie-Comte-Robert",
+  "code": "77053",
+  "codesPostaux": [
+   "77170"
+  ],
+  "codeDepartement": "77",
+  "population": 19003
+ },
+ {
+  "nom": "La Brosse-Montceaux",
+  "code": "77054",
+  "codesPostaux": [
+   "77940"
+  ],
+  "codeDepartement": "77",
+  "population": 776
+ },
+ {
+  "nom": "Brou-sur-Chantereine",
+  "code": "77055",
+  "codesPostaux": [
+   "77177"
+  ],
+  "codeDepartement": "77",
+  "population": 5196
+ },
+ {
+  "nom": "Burcy",
+  "code": "77056",
+  "codesPostaux": [
+   "77760"
+  ],
+  "codeDepartement": "77",
+  "population": 150
+ },
+ {
+  "nom": "Bussières",
+  "code": "77057",
+  "codesPostaux": [
+   "77750"
+  ],
+  "codeDepartement": "77",
+  "population": 600
+ },
+ {
+  "nom": "Bussy-Saint-Georges",
+  "code": "77058",
+  "codesPostaux": [
+   "77600"
+  ],
+  "codeDepartement": "77",
+  "population": 27498
+ },
+ {
+  "nom": "Bussy-Saint-Martin",
+  "code": "77059",
+  "codesPostaux": [
+   "77600"
+  ],
+  "codeDepartement": "77",
+  "population": 738
+ },
+ {
+  "nom": "Buthiers",
+  "code": "77060",
+  "codesPostaux": [
+   "77760"
+  ],
+  "codeDepartement": "77",
+  "population": 792
+ },
+ {
+  "nom": "Cannes-Écluse",
+  "code": "77061",
+  "codesPostaux": [
+   "77130"
+  ],
+  "codeDepartement": "77",
+  "population": 2742
+ },
+ {
+  "nom": "Carnetin",
+  "code": "77062",
+  "codesPostaux": [
+   "77400"
+  ],
+  "codeDepartement": "77",
+  "population": 461
+ },
+ {
+  "nom": "La Celle-sur-Morin",
+  "code": "77063",
+  "codesPostaux": [
+   "77515"
+  ],
+  "codeDepartement": "77",
+  "population": 1235
+ },
+ {
+  "nom": "Cély",
+  "code": "77065",
+  "codesPostaux": [
+   "77930"
+  ],
+  "codeDepartement": "77",
+  "population": 1259
+ },
+ {
+  "nom": "Cerneux",
+  "code": "77066",
+  "codesPostaux": [
+   "77320"
+  ],
+  "codeDepartement": "77",
+  "population": 272
+ },
+ {
+  "nom": "Cesson",
+  "code": "77067",
+  "codesPostaux": [
+   "77240"
+  ],
+  "codeDepartement": "77",
+  "population": 11222
+ },
+ {
+  "nom": "Cessoy-en-Montois",
+  "code": "77068",
+  "codesPostaux": [
+   "77520"
+  ],
+  "codeDepartement": "77",
+  "population": 213
+ },
+ {
+  "nom": "Chailly-en-Bière",
+  "code": "77069",
+  "codesPostaux": [
+   "77930"
+  ],
+  "codeDepartement": "77",
+  "population": 2162
+ },
+ {
+  "nom": "Chailly-en-Brie",
+  "code": "77070",
+  "codesPostaux": [
+   "77120"
+  ],
+  "codeDepartement": "77",
+  "population": 1576
+ },
+ {
+  "nom": "Chaintreaux",
+  "code": "77071",
+  "codesPostaux": [
+   "77460"
+  ],
+  "codeDepartement": "77",
+  "population": 821
+ },
+ {
+  "nom": "Chalautre-la-Grande",
+  "code": "77072",
+  "codesPostaux": [
+   "77171"
+  ],
+  "codeDepartement": "77",
+  "population": 644
+ },
+ {
+  "nom": "Chalautre-la-Petite",
+  "code": "77073",
+  "codesPostaux": [
+   "77160"
+  ],
+  "codeDepartement": "77",
+  "population": 541
+ },
+ {
+  "nom": "Chalifert",
+  "code": "77075",
+  "codesPostaux": [
+   "77144"
+  ],
+  "codeDepartement": "77",
+  "population": 1584
+ },
+ {
+  "nom": "Chalmaison",
+  "code": "77076",
+  "codesPostaux": [
+   "77650"
+  ],
+  "codeDepartement": "77",
+  "population": 749
+ },
+ {
+  "nom": "Chambry",
+  "code": "77077",
+  "codesPostaux": [
+   "77910"
+  ],
+  "codeDepartement": "77",
+  "population": 1064
+ },
+ {
+  "nom": "Chamigny",
+  "code": "77078",
+  "codesPostaux": [
+   "77260"
+  ],
+  "codeDepartement": "77",
+  "population": 1480
+ },
+ {
+  "nom": "Champagne-sur-Seine",
+  "code": "77079",
+  "codesPostaux": [
+   "77430"
+  ],
+  "codeDepartement": "77",
+  "population": 6497
+ },
+ {
+  "nom": "Champcenest",
+  "code": "77080",
+  "codesPostaux": [
+   "77560"
+  ],
+  "codeDepartement": "77",
+  "population": 205
+ },
+ {
+  "nom": "Champdeuil",
+  "code": "77081",
+  "codesPostaux": [
+   "77390"
+  ],
+  "codeDepartement": "77",
+  "population": 739
+ },
+ {
+  "nom": "Champeaux",
+  "code": "77082",
+  "codesPostaux": [
+   "77720"
+  ],
+  "codeDepartement": "77",
+  "population": 810
+ },
+ {
+  "nom": "Champs-sur-Marne",
+  "code": "77083",
+  "codesPostaux": [
+   "77420"
+  ],
+  "codeDepartement": "77",
+  "population": 27451
+ },
+ {
+  "nom": "Changis-sur-Marne",
+  "code": "77084",
+  "codesPostaux": [
+   "77660"
+  ],
+  "codeDepartement": "77",
+  "population": 1335
+ },
+ {
+  "nom": "Chanteloup-en-Brie",
+  "code": "77085",
+  "codesPostaux": [
+   "77600"
+  ],
+  "codeDepartement": "77",
+  "population": 4130
+ },
+ {
+  "nom": "La Chapelle-Gauthier",
+  "code": "77086",
+  "codesPostaux": [
+   "77720"
+  ],
+  "codeDepartement": "77",
+  "population": 1400
+ },
+ {
+  "nom": "La Chapelle-Iger",
+  "code": "77087",
+  "codesPostaux": [
+   "77540"
+  ],
+  "codeDepartement": "77",
+  "population": 191
+ },
+ {
+  "nom": "La Chapelle-la-Reine",
+  "code": "77088",
+  "codesPostaux": [
+   "77760"
+  ],
+  "codeDepartement": "77",
+  "population": 2170
+ },
+ {
+  "nom": "La Chapelle-Rablais",
+  "code": "77089",
+  "codesPostaux": [
+   "77370"
+  ],
+  "codeDepartement": "77",
+  "population": 913
+ },
+ {
+  "nom": "La Chapelle-Saint-Sulpice",
+  "code": "77090",
+  "codesPostaux": [
+   "77160"
+  ],
+  "codeDepartement": "77",
+  "population": 239
+ },
+ {
+  "nom": "Les Chapelles-Bourbon",
+  "code": "77091",
+  "codesPostaux": [
+   "77610"
+  ],
+  "codeDepartement": "77",
+  "population": 459
+ },
+ {
+  "nom": "La Chapelle-Moutils",
+  "code": "77093",
+  "codesPostaux": [
+   "77320"
+  ],
+  "codeDepartement": "77",
+  "population": 400
+ },
+ {
+  "nom": "Charmentray",
+  "code": "77094",
+  "codesPostaux": [
+   "77410"
+  ],
+  "codeDepartement": "77",
+  "population": 291
+ },
+ {
+  "nom": "Charny",
+  "code": "77095",
+  "codesPostaux": [
+   "77410"
+  ],
+  "codeDepartement": "77",
+  "population": 1585
+ },
+ {
+  "nom": "Chartrettes",
+  "code": "77096",
+  "codesPostaux": [
+   "77590"
+  ],
+  "codeDepartement": "77",
+  "population": 2633
+ },
+ {
+  "nom": "Chartronges",
+  "code": "77097",
+  "codesPostaux": [
+   "77320"
+  ],
+  "codeDepartement": "77",
+  "population": 304
+ },
+ {
+  "nom": "Châteaubleau",
+  "code": "77098",
+  "codesPostaux": [
+   "77370"
+  ],
+  "codeDepartement": "77",
+  "population": 363
+ },
+ {
+  "nom": "Château-Landon",
+  "code": "77099",
+  "codesPostaux": [
+   "77570"
+  ],
+  "codeDepartement": "77",
+  "population": 3149
+ },
+ {
+  "nom": "Le Châtelet-en-Brie",
+  "code": "77100",
+  "codesPostaux": [
+   "77820"
+  ],
+  "codeDepartement": "77",
+  "population": 4207
+ },
+ {
+  "nom": "Châtenay-sur-Seine",
+  "code": "77101",
+  "codesPostaux": [
+   "77126"
+  ],
+  "codeDepartement": "77",
+  "population": 1049
+ },
+ {
+  "nom": "Châtenoy",
+  "code": "77102",
+  "codesPostaux": [
+   "77167"
+  ],
+  "codeDepartement": "77",
+  "population": 155
+ },
+ {
+  "nom": "Châtillon-la-Borde",
+  "code": "77103",
+  "codesPostaux": [
+   "77820"
+  ],
+  "codeDepartement": "77",
+  "population": 226
+ },
+ {
+  "nom": "Châtres",
+  "code": "77104",
+  "codesPostaux": [
+   "77610"
+  ],
+  "codeDepartement": "77",
+  "population": 714
+ },
+ {
+  "nom": "Chauffry",
+  "code": "77106",
+  "codesPostaux": [
+   "77169"
+  ],
+  "codeDepartement": "77",
+  "population": 994
+ },
+ {
+  "nom": "Chaumes-en-Brie",
+  "code": "77107",
+  "codesPostaux": [
+   "77390"
+  ],
+  "codeDepartement": "77",
+  "population": 3503
+ },
+ {
+  "nom": "Chelles",
+  "code": "77108",
+  "codesPostaux": [
+   "77500"
+  ],
+  "codeDepartement": "77",
+  "population": 54620
+ },
+ {
+  "nom": "Chenoise-Cucharmoy",
+  "code": "77109",
+  "codesPostaux": [
+   "77160"
+  ],
+  "codeDepartement": "77",
+  "population": 1607
+ },
+ {
+  "nom": "Chenou",
+  "code": "77110",
+  "codesPostaux": [
+   "77570"
+  ],
+  "codeDepartement": "77",
+  "population": 291
+ },
+ {
+  "nom": "Chessy",
+  "code": "77111",
+  "codesPostaux": [
+   "77700"
+  ],
+  "codeDepartement": "77",
+  "population": 7771
+ },
+ {
+  "nom": "Chevrainvilliers",
+  "code": "77112",
+  "codesPostaux": [
+   "77760"
+  ],
+  "codeDepartement": "77",
+  "population": 255
+ },
+ {
+  "nom": "Chevru",
+  "code": "77113",
+  "codesPostaux": [
+   "77320"
+  ],
+  "codeDepartement": "77",
+  "population": 1012
+ },
+ {
+  "nom": "Chevry-Cossigny",
+  "code": "77114",
+  "codesPostaux": [
+   "77173"
+  ],
+  "codeDepartement": "77",
+  "population": 4075
+ },
+ {
+  "nom": "Chevry-en-Sereine",
+  "code": "77115",
+  "codesPostaux": [
+   "77710"
+  ],
+  "codeDepartement": "77",
+  "population": 498
+ },
+ {
+  "nom": "Choisy-en-Brie",
+  "code": "77116",
+  "codesPostaux": [
+   "77320"
+  ],
+  "codeDepartement": "77",
+  "population": 1354
+ },
+ {
+  "nom": "Citry",
+  "code": "77117",
+  "codesPostaux": [
+   "77730"
+  ],
+  "codeDepartement": "77",
+  "population": 922
+ },
+ {
+  "nom": "Claye-Souilly",
+  "code": "77118",
+  "codesPostaux": [
+   "77410"
+  ],
+  "codeDepartement": "77",
+  "population": 13353
+ },
+ {
+  "nom": "Clos-Fontaine",
+  "code": "77119",
+  "codesPostaux": [
+   "77370"
+  ],
+  "codeDepartement": "77",
+  "population": 244
+ },
+ {
+  "nom": "Cocherel",
+  "code": "77120",
+  "codesPostaux": [
+   "77440"
+  ],
+  "codeDepartement": "77",
+  "population": 618
+ },
+ {
+  "nom": "Collégien",
+  "code": "77121",
+  "codesPostaux": [
+   "77090"
+  ],
+  "codeDepartement": "77",
+  "population": 3354
+ },
+ {
+  "nom": "Combs-la-Ville",
+  "code": "77122",
+  "codesPostaux": [
+   "77380"
+  ],
+  "codeDepartement": "77",
+  "population": 23350
+ },
+ {
+  "nom": "Compans",
+  "code": "77123",
+  "codesPostaux": [
+   "77290"
+  ],
+  "codeDepartement": "77",
+  "population": 754
+ },
+ {
+  "nom": "Conches-sur-Gondoire",
+  "code": "77124",
+  "codesPostaux": [
+   "77600"
+  ],
+  "codeDepartement": "77",
+  "population": 1761
+ },
+ {
+  "nom": "Condé-Sainte-Libiaire",
+  "code": "77125",
+  "codesPostaux": [
+   "77450"
+  ],
+  "codeDepartement": "77",
+  "population": 1500
+ },
+ {
+  "nom": "Congis-sur-Thérouanne",
+  "code": "77126",
+  "codesPostaux": [
+   "77440"
+  ],
+  "codeDepartement": "77",
+  "population": 1772
+ },
+ {
+  "nom": "Coubert",
+  "code": "77127",
+  "codesPostaux": [
+   "77170"
+  ],
+  "codeDepartement": "77",
+  "population": 2005
+ },
+ {
+  "nom": "Couilly-Pont-aux-Dames",
+  "code": "77128",
+  "codesPostaux": [
+   "77860"
+  ],
+  "codeDepartement": "77",
+  "population": 2064
+ },
+ {
+  "nom": "Coulombs-en-Valois",
+  "code": "77129",
+  "codesPostaux": [
+   "77840"
+  ],
+  "codeDepartement": "77",
+  "population": 576
+ },
+ {
+  "nom": "Coulommes",
+  "code": "77130",
+  "codesPostaux": [
+   "77580"
+  ],
+  "codeDepartement": "77",
+  "population": 542
+ },
+ {
+  "nom": "Coulommiers",
+  "code": "77131",
+  "codesPostaux": [
+   "77120"
+  ],
+  "codeDepartement": "77",
+  "population": 16374
+ },
+ {
+  "nom": "Coupvray",
+  "code": "77132",
+  "codesPostaux": [
+   "77700"
+  ],
+  "codeDepartement": "77",
+  "population": 3066
+ },
+ {
+  "nom": "Courcelles-en-Bassée",
+  "code": "77133",
+  "codesPostaux": [
+   "77126"
+  ],
+  "codeDepartement": "77",
+  "population": 223
+ },
+ {
+  "nom": "Courchamp",
+  "code": "77134",
+  "codesPostaux": [
+   "77560"
+  ],
+  "codeDepartement": "77",
+  "population": 151
+ },
+ {
+  "nom": "Courpalay",
+  "code": "77135",
+  "codesPostaux": [
+   "77540"
+  ],
+  "codeDepartement": "77",
+  "population": 1610
+ },
+ {
+  "nom": "Courquetaine",
+  "code": "77136",
+  "codesPostaux": [
+   "77390"
+  ],
+  "codeDepartement": "77",
+  "population": 184
+ },
+ {
+  "nom": "Courtacon",
+  "code": "77137",
+  "codesPostaux": [
+   "77560"
+  ],
+  "codeDepartement": "77",
+  "population": 245
+ },
+ {
+  "nom": "Courtomer",
+  "code": "77138",
+  "codesPostaux": [
+   "77390"
+  ],
+  "codeDepartement": "77",
+  "population": 591
+ },
+ {
+  "nom": "Courtry",
+  "code": "77139",
+  "codesPostaux": [
+   "77181"
+  ],
+  "codeDepartement": "77",
+  "population": 7330
+ },
+ {
+  "nom": "Coutençon",
+  "code": "77140",
+  "codesPostaux": [
+   "77154"
+  ],
+  "codeDepartement": "77",
+  "population": 260
+ },
+ {
+  "nom": "Coutevroult",
+  "code": "77141",
+  "codesPostaux": [
+   "77580"
+  ],
+  "codeDepartement": "77",
+  "population": 1187
+ },
+ {
+  "nom": "Crécy-la-Chapelle",
+  "code": "77142",
+  "codesPostaux": [
+   "77580"
+  ],
+  "codeDepartement": "77",
+  "population": 4973
+ },
+ {
+  "nom": "Crégy-lès-Meaux",
+  "code": "77143",
+  "codesPostaux": [
+   "77124"
+  ],
+  "codeDepartement": "77",
+  "population": 5446
+ },
+ {
+  "nom": "Crèvecœur-en-Brie",
+  "code": "77144",
+  "codesPostaux": [
+   "77610"
+  ],
+  "codeDepartement": "77",
+  "population": 437
+ },
+ {
+  "nom": "Crisenoy",
+  "code": "77145",
+  "codesPostaux": [
+   "77390"
+  ],
+  "codeDepartement": "77",
+  "population": 611
+ },
+ {
+  "nom": "Croissy-Beaubourg",
+  "code": "77146",
+  "codesPostaux": [
+   "77183"
+  ],
+  "codeDepartement": "77",
+  "population": 2018
+ },
+ {
+  "nom": "La Croix-en-Brie",
+  "code": "77147",
+  "codesPostaux": [
+   "77370"
+  ],
+  "codeDepartement": "77",
+  "population": 681
+ },
+ {
+  "nom": "Crouy-sur-Ourcq",
+  "code": "77148",
+  "codesPostaux": [
+   "77840"
+  ],
+  "codeDepartement": "77",
+  "population": 1811
+ },
+ {
+  "nom": "Cuisy",
+  "code": "77150",
+  "codesPostaux": [
+   "77165"
+  ],
+  "codeDepartement": "77",
+  "population": 476
+ },
+ {
+  "nom": "Dagny",
+  "code": "77151",
+  "codesPostaux": [
+   "77320"
+  ],
+  "codeDepartement": "77",
+  "population": 305
+ },
+ {
+  "nom": "Dammarie-les-Lys",
+  "code": "77152",
+  "codesPostaux": [
+   "77190"
+  ],
+  "codeDepartement": "77",
+  "population": 23559
+ },
+ {
+  "nom": "Dammartin-en-Goële",
+  "code": "77153",
+  "codesPostaux": [
+   "77230"
+  ],
+  "codeDepartement": "77",
+  "population": 11907
+ },
+ {
+  "nom": "Dammartin-sur-Tigeaux",
+  "code": "77154",
+  "codesPostaux": [
+   "77163"
+  ],
+  "codeDepartement": "77",
+  "population": 1280
+ },
+ {
+  "nom": "Dampmart",
+  "code": "77155",
+  "codesPostaux": [
+   "77400"
+  ],
+  "codeDepartement": "77",
+  "population": 3677
+ },
+ {
+  "nom": "Darvault",
+  "code": "77156",
+  "codesPostaux": [
+   "77140"
+  ],
+  "codeDepartement": "77",
+  "population": 987
+ },
+ {
+  "nom": "Dhuisy",
+  "code": "77157",
+  "codesPostaux": [
+   "77440"
+  ],
+  "codeDepartement": "77",
+  "population": 334
+ },
+ {
+  "nom": "Diant",
+  "code": "77158",
+  "codesPostaux": [
+   "77940"
+  ],
+  "codeDepartement": "77",
+  "population": 194
+ },
+ {
+  "nom": "Donnemarie-Dontilly",
+  "code": "77159",
+  "codesPostaux": [
+   "77520"
+  ],
+  "codeDepartement": "77",
+  "population": 2706
+ },
+ {
+  "nom": "Dormelles",
+  "code": "77161",
+  "codesPostaux": [
+   "77130"
+  ],
+  "codeDepartement": "77",
+  "population": 816
+ },
+ {
+  "nom": "Doue",
+  "code": "77162",
+  "codesPostaux": [
+   "77510"
+  ],
+  "codeDepartement": "77",
+  "population": 1122
+ },
+ {
+  "nom": "Douy-la-Ramée",
+  "code": "77163",
+  "codesPostaux": [
+   "77139"
+  ],
+  "codeDepartement": "77",
+  "population": 395
+ },
+ {
+  "nom": "Échouboulains",
+  "code": "77164",
+  "codesPostaux": [
+   "77830"
+  ],
+  "codeDepartement": "77",
+  "population": 555
+ },
+ {
+  "nom": "Les Écrennes",
+  "code": "77165",
+  "codesPostaux": [
+   "77820"
+  ],
+  "codeDepartement": "77",
+  "population": 628
+ },
+ {
+  "nom": "Égligny",
+  "code": "77167",
+  "codesPostaux": [
+   "77126"
+  ],
+  "codeDepartement": "77",
+  "population": 310
+ },
+ {
+  "nom": "Égreville",
+  "code": "77168",
+  "codesPostaux": [
+   "77620"
+  ],
+  "codeDepartement": "77",
+  "population": 2186
+ },
+ {
+  "nom": "Émerainville",
+  "code": "77169",
+  "codesPostaux": [
+   "77184"
+  ],
+  "codeDepartement": "77",
+  "population": 7690
+ },
+ {
+  "nom": "Esbly",
+  "code": "77171",
+  "codesPostaux": [
+   "77450"
+  ],
+  "codeDepartement": "77",
+  "population": 6072
+ },
+ {
+  "nom": "Esmans",
+  "code": "77172",
+  "codesPostaux": [
+   "77940"
+  ],
+  "codeDepartement": "77",
+  "population": 934
+ },
+ {
+  "nom": "Étrépilly",
+  "code": "77173",
+  "codesPostaux": [
+   "77139"
+  ],
+  "codeDepartement": "77",
+  "population": 805
+ },
+ {
+  "nom": "Everly",
+  "code": "77174",
+  "codesPostaux": [
+   "77157"
+  ],
+  "codeDepartement": "77",
+  "population": 566
+ },
+ {
+  "nom": "Évry-Grégy-sur-Yerre",
+  "code": "77175",
+  "codesPostaux": [
+   "77166"
+  ],
+  "codeDepartement": "77",
+  "population": 3321
+ },
+ {
+  "nom": "Faremoutiers",
+  "code": "77176",
+  "codesPostaux": [
+   "77515"
+  ],
+  "codeDepartement": "77",
+  "population": 3057
+ },
+ {
+  "nom": "Favières",
+  "code": "77177",
+  "codesPostaux": [
+   "77220"
+  ],
+  "codeDepartement": "77",
+  "population": 1316
+ },
+ {
+  "nom": "Faÿ-lès-Nemours",
+  "code": "77178",
+  "codesPostaux": [
+   "77167"
+  ],
+  "codeDepartement": "77",
+  "population": 524
+ },
+ {
+  "nom": "Féricy",
+  "code": "77179",
+  "codesPostaux": [
+   "77133"
+  ],
+  "codeDepartement": "77",
+  "population": 625
+ },
+ {
+  "nom": "Férolles-Attilly",
+  "code": "77180",
+  "codesPostaux": [
+   "77150"
+  ],
+  "codeDepartement": "77",
+  "population": 1248
+ },
+ {
+  "nom": "Ferrières-en-Brie",
+  "code": "77181",
+  "codesPostaux": [
+   "77164"
+  ],
+  "codeDepartement": "77",
+  "population": 3932
+ },
+ {
+  "nom": "La Ferté-Gaucher",
+  "code": "77182",
+  "codesPostaux": [
+   "77320"
+  ],
+  "codeDepartement": "77",
+  "population": 4743
+ },
+ {
+  "nom": "La Ferté-sous-Jouarre",
+  "code": "77183",
+  "codesPostaux": [
+   "77260"
+  ],
+  "codeDepartement": "77",
+  "population": 10254
+ },
+ {
+  "nom": "Flagy",
+  "code": "77184",
+  "codesPostaux": [
+   "77940"
+  ],
+  "codeDepartement": "77",
+  "population": 584
+ },
+ {
+  "nom": "Fleury-en-Bière",
+  "code": "77185",
+  "codesPostaux": [
+   "77930"
+  ],
+  "codeDepartement": "77",
+  "population": 652
+ },
+ {
+  "nom": "Fontainebleau",
+  "code": "77186",
+  "codesPostaux": [
+   "77300"
+  ],
+  "codeDepartement": "77",
+  "population": 15583
+ },
+ {
+  "nom": "Fontaine-Fourches",
+  "code": "77187",
+  "codesPostaux": [
+   "77480"
+  ],
+  "codeDepartement": "77",
+  "population": 576
+ },
+ {
+  "nom": "Fontaine-le-Port",
+  "code": "77188",
+  "codesPostaux": [
+   "77590"
+  ],
+  "codeDepartement": "77",
+  "population": 1025
+ },
+ {
+  "nom": "Fontains",
+  "code": "77190",
+  "codesPostaux": [
+   "77370"
+  ],
+  "codeDepartement": "77",
+  "population": 256
+ },
+ {
+  "nom": "Fontenailles",
+  "code": "77191",
+  "codesPostaux": [
+   "77370"
+  ],
+  "codeDepartement": "77",
+  "population": 1109
+ },
+ {
+  "nom": "Fontenay-Trésigny",
+  "code": "77192",
+  "codesPostaux": [
+   "77610"
+  ],
+  "codeDepartement": "77",
+  "population": 5994
+ },
+ {
+  "nom": "Forfry",
+  "code": "77193",
+  "codesPostaux": [
+   "77165"
+  ],
+  "codeDepartement": "77",
+  "population": 238
+ },
+ {
+  "nom": "Forges",
+  "code": "77194",
+  "codesPostaux": [
+   "77130"
+  ],
+  "codeDepartement": "77",
+  "population": 443
+ },
+ {
+  "nom": "Fouju",
+  "code": "77195",
+  "codesPostaux": [
+   "77390"
+  ],
+  "codeDepartement": "77",
+  "population": 655
+ },
+ {
+  "nom": "Fresnes-sur-Marne",
+  "code": "77196",
+  "codesPostaux": [
+   "77410"
+  ],
+  "codeDepartement": "77",
+  "population": 948
+ },
+ {
+  "nom": "Frétoy",
+  "code": "77197",
+  "codesPostaux": [
+   "77320"
+  ],
+  "codeDepartement": "77",
+  "population": 173
+ },
+ {
+  "nom": "Fromont",
+  "code": "77198",
+  "codesPostaux": [
+   "77760"
+  ],
+  "codeDepartement": "77",
+  "population": 230
+ },
+ {
+  "nom": "Fublaines",
+  "code": "77199",
+  "codesPostaux": [
+   "77470"
+  ],
+  "codeDepartement": "77",
+  "population": 1370
+ },
+ {
+  "nom": "Garentreville",
+  "code": "77200",
+  "codesPostaux": [
+   "77890"
+  ],
+  "codeDepartement": "77",
+  "population": 123
+ },
+ {
+  "nom": "Gastins",
+  "code": "77201",
+  "codesPostaux": [
+   "77370"
+  ],
+  "codeDepartement": "77",
+  "population": 741
+ },
+ {
+  "nom": "La Genevraye",
+  "code": "77202",
+  "codesPostaux": [
+   "77690"
+  ],
+  "codeDepartement": "77",
+  "population": 840
+ },
+ {
+  "nom": "Germigny-l'Évêque",
+  "code": "77203",
+  "codesPostaux": [
+   "77910"
+  ],
+  "codeDepartement": "77",
+  "population": 1352
+ },
+ {
+  "nom": "Germigny-sous-Coulombs",
+  "code": "77204",
+  "codesPostaux": [
+   "77840"
+  ],
+  "codeDepartement": "77",
+  "population": 201
+ },
+ {
+  "nom": "Gesvres-le-Chapitre",
+  "code": "77205",
+  "codesPostaux": [
+   "77165"
+  ],
+  "codeDepartement": "77",
+  "population": 145
+ },
+ {
+  "nom": "Giremoutiers",
+  "code": "77206",
+  "codesPostaux": [
+   "77120"
+  ],
+  "codeDepartement": "77",
+  "population": 188
+ },
+ {
+  "nom": "Gironville",
+  "code": "77207",
+  "codesPostaux": [
+   "77890"
+  ],
+  "codeDepartement": "77",
+  "population": 166
+ },
+ {
+  "nom": "Gouaix",
+  "code": "77208",
+  "codesPostaux": [
+   "77114"
+  ],
+  "codeDepartement": "77",
+  "population": 1299
+ },
+ {
+  "nom": "Gouvernes",
+  "code": "77209",
+  "codesPostaux": [
+   "77400"
+  ],
+  "codeDepartement": "77",
+  "population": 1177
+ },
+ {
+  "nom": "La Grande-Paroisse",
+  "code": "77210",
+  "codesPostaux": [
+   "77130"
+  ],
+  "codeDepartement": "77",
+  "population": 2893
+ },
+ {
+  "nom": "Grandpuits-Bailly-Carrois",
+  "code": "77211",
+  "codesPostaux": [
+   "77720"
+  ],
+  "codeDepartement": "77",
+  "population": 1009
+ },
+ {
+  "nom": "Gravon",
+  "code": "77212",
+  "codesPostaux": [
+   "77118"
+  ],
+  "codeDepartement": "77",
+  "population": 156
+ },
+ {
+  "nom": "Gressy",
+  "code": "77214",
+  "codesPostaux": [
+   "77410"
+  ],
+  "codeDepartement": "77",
+  "population": 807
+ },
+ {
+  "nom": "Gretz-Armainvilliers",
+  "code": "77215",
+  "codesPostaux": [
+   "77220"
+  ],
+  "codeDepartement": "77",
+  "population": 8825
+ },
+ {
+  "nom": "Grez-sur-Loing",
+  "code": "77216",
+  "codesPostaux": [
+   "77880"
+  ],
+  "codeDepartement": "77",
+  "population": 1432
+ },
+ {
+  "nom": "Grisy-Suisnes",
+  "code": "77217",
+  "codesPostaux": [
+   "77166"
+  ],
+  "codeDepartement": "77",
+  "population": 2948
+ },
+ {
+  "nom": "Grisy-sur-Seine",
+  "code": "77218",
+  "codesPostaux": [
+   "77480"
+  ],
+  "codeDepartement": "77",
+  "population": 123
+ },
+ {
+  "nom": "Guérard",
+  "code": "77219",
+  "codesPostaux": [
+   "77580"
+  ],
+  "codeDepartement": "77",
+  "population": 2688
+ },
+ {
+  "nom": "Guercheville",
+  "code": "77220",
+  "codesPostaux": [
+   "77760"
+  ],
+  "codeDepartement": "77",
+  "population": 268
+ },
+ {
+  "nom": "Guermantes",
+  "code": "77221",
+  "codesPostaux": [
+   "77600"
+  ],
+  "codeDepartement": "77",
+  "population": 1153
+ },
+ {
+  "nom": "Guignes",
+  "code": "77222",
+  "codesPostaux": [
+   "77390"
+  ],
+  "codeDepartement": "77",
+  "population": 4448
+ },
+ {
+  "nom": "Gurcy-le-Châtel",
+  "code": "77223",
+  "codesPostaux": [
+   "77520"
+  ],
+  "codeDepartement": "77",
+  "population": 559
+ },
+ {
+  "nom": "Hautefeuille",
+  "code": "77224",
+  "codesPostaux": [
+   "77515"
+  ],
+  "codeDepartement": "77",
+  "population": 253
+ },
+ {
+  "nom": "La Haute-Maison",
+  "code": "77225",
+  "codesPostaux": [
+   "77580"
+  ],
+  "codeDepartement": "77",
+  "population": 352
+ },
+ {
+  "nom": "Héricy",
+  "code": "77226",
+  "codesPostaux": [
+   "77850"
+  ],
+  "codeDepartement": "77",
+  "population": 2507
+ },
+ {
+  "nom": "Hermé",
+  "code": "77227",
+  "codesPostaux": [
+   "77114"
+  ],
+  "codeDepartement": "77",
+  "population": 647
+ },
+ {
+  "nom": "Hondevilliers",
+  "code": "77228",
+  "codesPostaux": [
+   "77510"
+  ],
+  "codeDepartement": "77",
+  "population": 256
+ },
+ {
+  "nom": "La Houssaye-en-Brie",
+  "code": "77229",
+  "codesPostaux": [
+   "77610"
+  ],
+  "codeDepartement": "77",
+  "population": 1731
+ },
+ {
+  "nom": "Ichy",
+  "code": "77230",
+  "codesPostaux": [
+   "77890"
+  ],
+  "codeDepartement": "77",
+  "population": 157
+ },
+ {
+  "nom": "Isles-les-Meldeuses",
+  "code": "77231",
+  "codesPostaux": [
+   "77440"
+  ],
+  "codeDepartement": "77",
+  "population": 760
+ },
+ {
+  "nom": "Isles-lès-Villenoy",
+  "code": "77232",
+  "codesPostaux": [
+   "77450"
+  ],
+  "codeDepartement": "77",
+  "population": 1129
+ },
+ {
+  "nom": "Iverny",
+  "code": "77233",
+  "codesPostaux": [
+   "77165"
+  ],
+  "codeDepartement": "77",
+  "population": 618
+ },
+ {
+  "nom": "Jablines",
+  "code": "77234",
+  "codesPostaux": [
+   "77450"
+  ],
+  "codeDepartement": "77",
+  "population": 647
+ },
+ {
+  "nom": "Jaignes",
+  "code": "77235",
+  "codesPostaux": [
+   "77440"
+  ],
+  "codeDepartement": "77",
+  "population": 322
+ },
+ {
+  "nom": "Jaulnes",
+  "code": "77236",
+  "codesPostaux": [
+   "77480"
+  ],
+  "codeDepartement": "77",
+  "population": 344
+ },
+ {
+  "nom": "Jossigny",
+  "code": "77237",
+  "codesPostaux": [
+   "77600"
+  ],
+  "codeDepartement": "77",
+  "population": 650
+ },
+ {
+  "nom": "Jouarre",
+  "code": "77238",
+  "codesPostaux": [
+   "77640"
+  ],
+  "codeDepartement": "77",
+  "population": 4221
+ },
+ {
+  "nom": "Jouy-le-Châtel",
+  "code": "77239",
+  "codesPostaux": [
+   "77970"
+  ],
+  "codeDepartement": "77",
+  "population": 1630
+ },
+ {
+  "nom": "Jouy-sur-Morin",
+  "code": "77240",
+  "codesPostaux": [
+   "77320"
+  ],
+  "codeDepartement": "77",
+  "population": 2230
+ },
+ {
+  "nom": "Juilly",
+  "code": "77241",
+  "codesPostaux": [
+   "77230"
+  ],
+  "codeDepartement": "77",
+  "population": 2036
+ },
+ {
+  "nom": "Jutigny",
+  "code": "77242",
+  "codesPostaux": [
+   "77650"
+  ],
+  "codeDepartement": "77",
+  "population": 547
+ },
+ {
+  "nom": "Lagny-sur-Marne",
+  "code": "77243",
+  "codesPostaux": [
+   "77400"
+  ],
+  "codeDepartement": "77",
+  "population": 21461
+ },
+ {
+  "nom": "Larchant",
+  "code": "77244",
+  "codesPostaux": [
+   "77760"
+  ],
+  "codeDepartement": "77",
+  "population": 730
+ },
+ {
+  "nom": "Laval-en-Brie",
+  "code": "77245",
+  "codesPostaux": [
+   "77148"
+  ],
+  "codeDepartement": "77",
+  "population": 412
+ },
+ {
+  "nom": "Léchelle",
+  "code": "77246",
+  "codesPostaux": [
+   "77171"
+  ],
+  "codeDepartement": "77",
+  "population": 572
+ },
+ {
+  "nom": "Lescherolles",
+  "code": "77247",
+  "codesPostaux": [
+   "77320"
+  ],
+  "codeDepartement": "77",
+  "population": 464
+ },
+ {
+  "nom": "Lesches",
+  "code": "77248",
+  "codesPostaux": [
+   "77450"
+  ],
+  "codeDepartement": "77",
+  "population": 763
+ },
+ {
+  "nom": "Lésigny",
+  "code": "77249",
+  "codesPostaux": [
+   "77150"
+  ],
+  "codeDepartement": "77",
+  "population": 6923
+ },
+ {
+  "nom": "Leudon-en-Brie",
+  "code": "77250",
+  "codesPostaux": [
+   "77320"
+  ],
+  "codeDepartement": "77",
+  "population": 168
+ },
+ {
+  "nom": "Lieusaint",
+  "code": "77251",
+  "codesPostaux": [
+   "77127"
+  ],
+  "codeDepartement": "77",
+  "population": 14017
+ },
+ {
+  "nom": "Limoges-Fourches",
+  "code": "77252",
+  "codesPostaux": [
+   "77550"
+  ],
+  "codeDepartement": "77",
+  "population": 625
+ },
+ {
+  "nom": "Lissy",
+  "code": "77253",
+  "codesPostaux": [
+   "77550"
+  ],
+  "codeDepartement": "77",
+  "population": 352
+ },
+ {
+  "nom": "Liverdy-en-Brie",
+  "code": "77254",
+  "codesPostaux": [
+   "77220"
+  ],
+  "codeDepartement": "77",
+  "population": 1410
+ },
+ {
+  "nom": "Livry-sur-Seine",
+  "code": "77255",
+  "codesPostaux": [
+   "77000"
+  ],
+  "codeDepartement": "77",
+  "population": 2226
+ },
+ {
+  "nom": "Lizines",
+  "code": "77256",
+  "codesPostaux": [
+   "77650"
+  ],
+  "codeDepartement": "77",
+  "population": 174
+ },
+ {
+  "nom": "Lizy-sur-Ourcq",
+  "code": "77257",
+  "codesPostaux": [
+   "77440"
+  ],
+  "codeDepartement": "77",
+  "population": 3627
+ },
+ {
+  "nom": "Lognes",
+  "code": "77258",
+  "codesPostaux": [
+   "77185"
+  ],
+  "codeDepartement": "77",
+  "population": 15074
+ },
+ {
+  "nom": "Longperrier",
+  "code": "77259",
+  "codesPostaux": [
+   "77230"
+  ],
+  "codeDepartement": "77",
+  "population": 3152
+ },
+ {
+  "nom": "Longueville",
+  "code": "77260",
+  "codesPostaux": [
+   "77650"
+  ],
+  "codeDepartement": "77",
+  "population": 1804
+ },
+ {
+  "nom": "Lorrez-le-Bocage-Préaux",
+  "code": "77261",
+  "codesPostaux": [
+   "77710"
+  ],
+  "codeDepartement": "77",
+  "population": 1274
+ },
+ {
+  "nom": "Louan-Villegruis-Fontaine",
+  "code": "77262",
+  "codesPostaux": [
+   "77560"
+  ],
+  "codeDepartement": "77",
+  "population": 491
+ },
+ {
+  "nom": "Luisetaines",
+  "code": "77263",
+  "codesPostaux": [
+   "77520"
+  ],
+  "codeDepartement": "77",
+  "population": 229
+ },
+ {
+  "nom": "Lumigny-Nesles-Ormeaux",
+  "code": "77264",
+  "codesPostaux": [
+   "77540"
+  ],
+  "codeDepartement": "77",
+  "population": 1468
+ },
+ {
+  "nom": "Luzancy",
+  "code": "77265",
+  "codesPostaux": [
+   "77138"
+  ],
+  "codeDepartement": "77",
+  "population": 1036
+ },
+ {
+  "nom": "Machault",
+  "code": "77266",
+  "codesPostaux": [
+   "77133"
+  ],
+  "codeDepartement": "77",
+  "population": 815
+ },
+ {
+  "nom": "La Madeleine-sur-Loing",
+  "code": "77267",
+  "codesPostaux": [
+   "77570"
+  ],
+  "codeDepartement": "77",
+  "population": 347
+ },
+ {
+  "nom": "Magny-le-Hongre",
+  "code": "77268",
+  "codesPostaux": [
+   "77700"
+  ],
+  "codeDepartement": "77",
+  "population": 9060
+ },
+ {
+  "nom": "Maincy",
+  "code": "77269",
+  "codesPostaux": [
+   "77950"
+  ],
+  "codeDepartement": "77",
+  "population": 1828
+ },
+ {
+  "nom": "Maisoncelles-en-Brie",
+  "code": "77270",
+  "codesPostaux": [
+   "77580"
+  ],
+  "codeDepartement": "77",
+  "population": 977
+ },
+ {
+  "nom": "Maisoncelles-en-Gâtinais",
+  "code": "77271",
+  "codesPostaux": [
+   "77570"
+  ],
+  "codeDepartement": "77",
+  "population": 141
+ },
+ {
+  "nom": "Maison-Rouge",
+  "code": "77272",
+  "codesPostaux": [
+   "77370"
+  ],
+  "codeDepartement": "77",
+  "population": 880
+ },
+ {
+  "nom": "Marchémoret",
+  "code": "77273",
+  "codesPostaux": [
+   "77230"
+  ],
+  "codeDepartement": "77",
+  "population": 659
+ },
+ {
+  "nom": "Marcilly",
+  "code": "77274",
+  "codesPostaux": [
+   "77139"
+  ],
+  "codeDepartement": "77",
+  "population": 489
+ },
+ {
+  "nom": "Les Marêts",
+  "code": "77275",
+  "codesPostaux": [
+   "77560"
+  ],
+  "codeDepartement": "77",
+  "population": 152
+ },
+ {
+  "nom": "Mareuil-lès-Meaux",
+  "code": "77276",
+  "codesPostaux": [
+   "77100"
+  ],
+  "codeDepartement": "77",
+  "population": 3345
+ },
+ {
+  "nom": "Marles-en-Brie",
+  "code": "77277",
+  "codesPostaux": [
+   "77610"
+  ],
+  "codeDepartement": "77",
+  "population": 1898
+ },
+ {
+  "nom": "Marolles-en-Brie",
+  "code": "77278",
+  "codesPostaux": [
+   "77120"
+  ],
+  "codeDepartement": "77",
+  "population": 412
+ },
+ {
+  "nom": "Marolles-sur-Seine",
+  "code": "77279",
+  "codesPostaux": [
+   "77130"
+  ],
+  "codeDepartement": "77",
+  "population": 1774
+ },
+ {
+  "nom": "Mary-sur-Marne",
+  "code": "77280",
+  "codesPostaux": [
+   "77440"
+  ],
+  "codeDepartement": "77",
+  "population": 1155
+ },
+ {
+  "nom": "Mauperthuis",
+  "code": "77281",
+  "codesPostaux": [
+   "77120"
+  ],
+  "codeDepartement": "77",
+  "population": 495
+ },
+ {
+  "nom": "Mauregard",
+  "code": "77282",
+  "codesPostaux": [
+   "77990"
+  ],
+  "codeDepartement": "77",
+  "population": 341
+ },
+ {
+  "nom": "May-en-Multien",
+  "code": "77283",
+  "codesPostaux": [
+   "77145"
+  ],
+  "codeDepartement": "77",
+  "population": 877
+ },
+ {
+  "nom": "Meaux",
+  "code": "77284",
+  "codesPostaux": [
+   "77100"
+  ],
+  "codeDepartement": "77",
+  "population": 56905
+ },
+ {
+  "nom": "Le Mée-sur-Seine",
+  "code": "77285",
+  "codesPostaux": [
+   "77350"
+  ],
+  "codeDepartement": "77",
+  "population": 19527
+ },
+ {
+  "nom": "Meigneux",
+  "code": "77286",
+  "codesPostaux": [
+   "77520"
+  ],
+  "codeDepartement": "77",
+  "population": 236
+ },
+ {
+  "nom": "Meilleray",
+  "code": "77287",
+  "codesPostaux": [
+   "77320"
+  ],
+  "codeDepartement": "77",
+  "population": 504
+ },
+ {
+  "nom": "Melun",
+  "code": "77288",
+  "codesPostaux": [
+   "77000"
+  ],
+  "codeDepartement": "77",
+  "population": 45995
+ },
+ {
+  "nom": "Melz-sur-Seine",
+  "code": "77289",
+  "codesPostaux": [
+   "77171"
+  ],
+  "codeDepartement": "77",
+  "population": 345
+ },
+ {
+  "nom": "Méry-sur-Marne",
+  "code": "77290",
+  "codesPostaux": [
+   "77730"
+  ],
+  "codeDepartement": "77",
+  "population": 679
+ },
+ {
+  "nom": "Le Mesnil-Amelot",
+  "code": "77291",
+  "codesPostaux": [
+   "77990"
+  ],
+  "codeDepartement": "77",
+  "population": 992
+ },
+ {
+  "nom": "Messy",
+  "code": "77292",
+  "codesPostaux": [
+   "77410"
+  ],
+  "codeDepartement": "77",
+  "population": 1219
+ },
+ {
+  "nom": "Misy-sur-Yonne",
+  "code": "77293",
+  "codesPostaux": [
+   "77130"
+  ],
+  "codeDepartement": "77",
+  "population": 834
+ },
+ {
+  "nom": "Mitry-Mory",
+  "code": "77294",
+  "codesPostaux": [
+   "77290"
+  ],
+  "codeDepartement": "77",
+  "population": 20456
+ },
+ {
+  "nom": "Moisenay",
+  "code": "77295",
+  "codesPostaux": [
+   "77950"
+  ],
+  "codeDepartement": "77",
+  "population": 1362
+ },
+ {
+  "nom": "Moissy-Cramayel",
+  "code": "77296",
+  "codesPostaux": [
+   "77550"
+  ],
+  "codeDepartement": "77",
+  "population": 18511
+ },
+ {
+  "nom": "Mondreville",
+  "code": "77297",
+  "codesPostaux": [
+   "77570"
+  ],
+  "codeDepartement": "77",
+  "population": 334
+ },
+ {
+  "nom": "Mons-en-Montois",
+  "code": "77298",
+  "codesPostaux": [
+   "77520"
+  ],
+  "codeDepartement": "77",
+  "population": 454
+ },
+ {
+  "nom": "Montceaux-lès-Meaux",
+  "code": "77300",
+  "codesPostaux": [
+   "77470"
+  ],
+  "codeDepartement": "77",
+  "population": 669
+ },
+ {
+  "nom": "Montceaux-lès-Provins",
+  "code": "77301",
+  "codesPostaux": [
+   "77151"
+  ],
+  "codeDepartement": "77",
+  "population": 320
+ },
+ {
+  "nom": "Moncourt-Fromonville",
+  "code": "77302",
+  "codesPostaux": [
+   "77140"
+  ],
+  "codeDepartement": "77",
+  "population": 1891
+ },
+ {
+  "nom": "Montdauphin",
+  "code": "77303",
+  "codesPostaux": [
+   "77320"
+  ],
+  "codeDepartement": "77",
+  "population": 235
+ },
+ {
+  "nom": "Montenils",
+  "code": "77304",
+  "codesPostaux": [
+   "77320"
+  ],
+  "codeDepartement": "77",
+  "population": 34
+ },
+ {
+  "nom": "Montereau-Fault-Yonne",
+  "code": "77305",
+  "codesPostaux": [
+   "77130"
+  ],
+  "codeDepartement": "77",
+  "population": 22279
+ },
+ {
+  "nom": "Montereau-sur-le-Jard",
+  "code": "77306",
+  "codesPostaux": [
+   "77950"
+  ],
+  "codeDepartement": "77",
+  "population": 499
+ },
+ {
+  "nom": "Montévrain",
+  "code": "77307",
+  "codesPostaux": [
+   "77144"
+  ],
+  "codeDepartement": "77",
+  "population": 15687
+ },
+ {
+  "nom": "Montgé-en-Goële",
+  "code": "77308",
+  "codesPostaux": [
+   "77230"
+  ],
+  "codeDepartement": "77",
+  "population": 717
+ },
+ {
+  "nom": "Monthyon",
+  "code": "77309",
+  "codesPostaux": [
+   "77122"
+  ],
+  "codeDepartement": "77",
+  "population": 1756
+ },
+ {
+  "nom": "Montigny-le-Guesdier",
+  "code": "77310",
+  "codesPostaux": [
+   "77480"
+  ],
+  "codeDepartement": "77",
+  "population": 295
+ },
+ {
+  "nom": "Montigny-Lencoup",
+  "code": "77311",
+  "codesPostaux": [
+   "77520"
+  ],
+  "codeDepartement": "77",
+  "population": 1358
+ },
+ {
+  "nom": "Montigny-sur-Loing",
+  "code": "77312",
+  "codesPostaux": [
+   "77690"
+  ],
+  "codeDepartement": "77",
+  "population": 2669
+ },
+ {
+  "nom": "Montmachoux",
+  "code": "77313",
+  "codesPostaux": [
+   "77940"
+  ],
+  "codeDepartement": "77",
+  "population": 213
+ },
+ {
+  "nom": "Montolivet",
+  "code": "77314",
+  "codesPostaux": [
+   "77320"
+  ],
+  "codeDepartement": "77",
+  "population": 257
+ },
+ {
+  "nom": "Montry",
+  "code": "77315",
+  "codesPostaux": [
+   "77450"
+  ],
+  "codeDepartement": "77",
+  "population": 3945
+ },
+ {
+  "nom": "Moret-Loing-et-Orvanne",
+  "code": "77316",
+  "codesPostaux": [
+   "77250"
+  ],
+  "codeDepartement": "77",
+  "population": 12810
+ },
+ {
+  "nom": "Mormant",
+  "code": "77317",
+  "codesPostaux": [
+   "77720"
+  ],
+  "codeDepartement": "77",
+  "population": 5282
+ },
+ {
+  "nom": "Mortcerf",
+  "code": "77318",
+  "codesPostaux": [
+   "77163"
+  ],
+  "codeDepartement": "77",
+  "population": 1400
+ },
+ {
+  "nom": "Mortery",
+  "code": "77319",
+  "codesPostaux": [
+   "77160"
+  ],
+  "codeDepartement": "77",
+  "population": 137
+ },
+ {
+  "nom": "Mouroux",
+  "code": "77320",
+  "codesPostaux": [
+   "77120"
+  ],
+  "codeDepartement": "77",
+  "population": 5810
+ },
+ {
+  "nom": "Mousseaux-lès-Bray",
+  "code": "77321",
+  "codesPostaux": [
+   "77480"
+  ],
+  "codeDepartement": "77",
+  "population": 682
+ },
+ {
+  "nom": "Moussy-le-Neuf",
+  "code": "77322",
+  "codesPostaux": [
+   "77230"
+  ],
+  "codeDepartement": "77",
+  "population": 3253
+ },
+ {
+  "nom": "Moussy-le-Vieux",
+  "code": "77323",
+  "codesPostaux": [
+   "77230"
+  ],
+  "codeDepartement": "77",
+  "population": 1469
+ },
+ {
+  "nom": "Mouy-sur-Seine",
+  "code": "77325",
+  "codesPostaux": [
+   "77480"
+  ],
+  "codeDepartement": "77",
+  "population": 353
+ },
+ {
+  "nom": "Nandy",
+  "code": "77326",
+  "codesPostaux": [
+   "77176"
+  ],
+  "codeDepartement": "77",
+  "population": 6350
+ },
+ {
+  "nom": "Nangis",
+  "code": "77327",
+  "codesPostaux": [
+   "77370"
+  ],
+  "codeDepartement": "77",
+  "population": 8867
+ },
+ {
+  "nom": "Nanteau-sur-Essonne",
+  "code": "77328",
+  "codesPostaux": [
+   "77760"
+  ],
+  "codeDepartement": "77",
+  "population": 414
+ },
+ {
+  "nom": "Nanteau-sur-Lunain",
+  "code": "77329",
+  "codesPostaux": [
+   "77710"
+  ],
+  "codeDepartement": "77",
+  "population": 702
+ },
+ {
+  "nom": "Nanteuil-lès-Meaux",
+  "code": "77330",
+  "codesPostaux": [
+   "77100"
+  ],
+  "codeDepartement": "77",
+  "population": 7308
+ },
+ {
+  "nom": "Nanteuil-sur-Marne",
+  "code": "77331",
+  "codesPostaux": [
+   "77730"
+  ],
+  "codeDepartement": "77",
+  "population": 406
+ },
+ {
+  "nom": "Nantouillet",
+  "code": "77332",
+  "codesPostaux": [
+   "77230"
+  ],
+  "codeDepartement": "77",
+  "population": 302
+ },
+ {
+  "nom": "Nemours",
+  "code": "77333",
+  "codesPostaux": [
+   "77140"
+  ],
+  "codeDepartement": "77",
+  "population": 12889
+ },
+ {
+  "nom": "Chauconin-Neufmontiers",
+  "code": "77335",
+  "codesPostaux": [
+   "77124"
+  ],
+  "codeDepartement": "77",
+  "population": 3784
+ },
+ {
+  "nom": "Neufmoutiers-en-Brie",
+  "code": "77336",
+  "codesPostaux": [
+   "77610"
+  ],
+  "codeDepartement": "77",
+  "population": 1338
+ },
+ {
+  "nom": "Noisiel",
+  "code": "77337",
+  "codesPostaux": [
+   "77186"
+  ],
+  "codeDepartement": "77",
+  "population": 16053
+ },
+ {
+  "nom": "Noisy-Rudignon",
+  "code": "77338",
+  "codesPostaux": [
+   "77940"
+  ],
+  "codeDepartement": "77",
+  "population": 580
+ },
+ {
+  "nom": "Noisy-sur-École",
+  "code": "77339",
+  "codesPostaux": [
+   "77123"
+  ],
+  "codeDepartement": "77",
+  "population": 1797
+ },
+ {
+  "nom": "Nonville",
+  "code": "77340",
+  "codesPostaux": [
+   "77140"
+  ],
+  "codeDepartement": "77",
+  "population": 591
+ },
+ {
+  "nom": "Noyen-sur-Seine",
+  "code": "77341",
+  "codesPostaux": [
+   "77114"
+  ],
+  "codeDepartement": "77",
+  "population": 369
+ },
+ {
+  "nom": "Obsonville",
+  "code": "77342",
+  "codesPostaux": [
+   "77890"
+  ],
+  "codeDepartement": "77",
+  "population": 126
+ },
+ {
+  "nom": "Ocquerre",
+  "code": "77343",
+  "codesPostaux": [
+   "77440"
+  ],
+  "codeDepartement": "77",
+  "population": 378
+ },
+ {
+  "nom": "Oissery",
+  "code": "77344",
+  "codesPostaux": [
+   "77178"
+  ],
+  "codeDepartement": "77",
+  "population": 2496
+ },
+ {
+  "nom": "Orly-sur-Morin",
+  "code": "77345",
+  "codesPostaux": [
+   "77750"
+  ],
+  "codeDepartement": "77",
+  "population": 656
+ },
+ {
+  "nom": "Les Ormes-sur-Voulzie",
+  "code": "77347",
+  "codesPostaux": [
+   "77134"
+  ],
+  "codeDepartement": "77",
+  "population": 864
+ },
+ {
+  "nom": "Ormesson",
+  "code": "77348",
+  "codesPostaux": [
+   "77167"
+  ],
+  "codeDepartement": "77",
+  "population": 242
+ },
+ {
+  "nom": "Othis",
+  "code": "77349",
+  "codesPostaux": [
+   "77280"
+  ],
+  "codeDepartement": "77",
+  "population": 6717
+ },
+ {
+  "nom": "Ozoir-la-Ferrière",
+  "code": "77350",
+  "codesPostaux": [
+   "77330"
+  ],
+  "codeDepartement": "77",
+  "population": 21238
+ },
+ {
+  "nom": "Ozouer-le-Voulgis",
+  "code": "77352",
+  "codesPostaux": [
+   "77390"
+  ],
+  "codeDepartement": "77",
+  "population": 2050
+ },
+ {
+  "nom": "Paley",
+  "code": "77353",
+  "codesPostaux": [
+   "77710"
+  ],
+  "codeDepartement": "77",
+  "population": 483
+ },
+ {
+  "nom": "Pamfou",
+  "code": "77354",
+  "codesPostaux": [
+   "77830"
+  ],
+  "codeDepartement": "77",
+  "population": 983
+ },
+ {
+  "nom": "Paroy",
+  "code": "77355",
+  "codesPostaux": [
+   "77520"
+  ],
+  "codeDepartement": "77",
+  "population": 187
+ },
+ {
+  "nom": "Passy-sur-Seine",
+  "code": "77356",
+  "codesPostaux": [
+   "77480"
+  ],
+  "codeDepartement": "77",
+  "population": 49
+ },
+ {
+  "nom": "Pécy",
+  "code": "77357",
+  "codesPostaux": [
+   "77970"
+  ],
+  "codeDepartement": "77",
+  "population": 849
+ },
+ {
+  "nom": "Penchard",
+  "code": "77358",
+  "codesPostaux": [
+   "77124"
+  ],
+  "codeDepartement": "77",
+  "population": 1373
+ },
+ {
+  "nom": "Perthes",
+  "code": "77359",
+  "codesPostaux": [
+   "77930"
+  ],
+  "codeDepartement": "77",
+  "population": 2073
+ },
+ {
+  "nom": "Pézarches",
+  "code": "77360",
+  "codesPostaux": [
+   "77131"
+  ],
+  "codeDepartement": "77",
+  "population": 410
+ },
+ {
+  "nom": "Pierre-Levée",
+  "code": "77361",
+  "codesPostaux": [
+   "77580"
+  ],
+  "codeDepartement": "77",
+  "population": 480
+ },
+ {
+  "nom": "Le Pin",
+  "code": "77363",
+  "codesPostaux": [
+   "77181"
+  ],
+  "codeDepartement": "77",
+  "population": 1530
+ },
+ {
+  "nom": "Le Plessis-aux-Bois",
+  "code": "77364",
+  "codesPostaux": [
+   "77165"
+  ],
+  "codeDepartement": "77",
+  "population": 261
+ },
+ {
+  "nom": "Le Plessis-Feu-Aussoux",
+  "code": "77365",
+  "codesPostaux": [
+   "77540"
+  ],
+  "codeDepartement": "77",
+  "population": 597
+ },
+ {
+  "nom": "Le Plessis-l'Évêque",
+  "code": "77366",
+  "codesPostaux": [
+   "77165"
+  ],
+  "codeDepartement": "77",
+  "population": 291
+ },
+ {
+  "nom": "Le Plessis-Placy",
+  "code": "77367",
+  "codesPostaux": [
+   "77440"
+  ],
+  "codeDepartement": "77",
+  "population": 305
+ },
+ {
+  "nom": "Poigny",
+  "code": "77368",
+  "codesPostaux": [
+   "77160"
+  ],
+  "codeDepartement": "77",
+  "population": 501
+ },
+ {
+  "nom": "Poincy",
+  "code": "77369",
+  "codesPostaux": [
+   "77470"
+  ],
+  "codeDepartement": "77",
+  "population": 797
+ },
+ {
+  "nom": "Poligny",
+  "code": "77370",
+  "codesPostaux": [
+   "77167"
+  ],
+  "codeDepartement": "77",
+  "population": 825
+ },
+ {
+  "nom": "Pommeuse",
+  "code": "77371",
+  "codesPostaux": [
+   "77515"
+  ],
+  "codeDepartement": "77",
+  "population": 3049
+ },
+ {
+  "nom": "Pomponne",
+  "code": "77372",
+  "codesPostaux": [
+   "77400"
+  ],
+  "codeDepartement": "77",
+  "population": 4215
+ },
+ {
+  "nom": "Pontault-Combault",
+  "code": "77373",
+  "codesPostaux": [
+   "77340"
+  ],
+  "codeDepartement": "77",
+  "population": 39096
+ },
+ {
+  "nom": "Pontcarré",
+  "code": "77374",
+  "codesPostaux": [
+   "77135"
+  ],
+  "codeDepartement": "77",
+  "population": 2136
+ },
+ {
+  "nom": "Précy-sur-Marne",
+  "code": "77376",
+  "codesPostaux": [
+   "77410"
+  ],
+  "codeDepartement": "77",
+  "population": 747
+ },
+ {
+  "nom": "Presles-en-Brie",
+  "code": "77377",
+  "codesPostaux": [
+   "77220"
+  ],
+  "codeDepartement": "77",
+  "population": 2369
+ },
+ {
+  "nom": "Pringy",
+  "code": "77378",
+  "codesPostaux": [
+   "77310"
+  ],
+  "codeDepartement": "77",
+  "population": 3864
+ },
+ {
+  "nom": "Provins",
+  "code": "77379",
+  "codesPostaux": [
+   "77160"
+  ],
+  "codeDepartement": "77",
+  "population": 11632
+ },
+ {
+  "nom": "Puisieux",
+  "code": "77380",
+  "codesPostaux": [
+   "77139"
+  ],
+  "codeDepartement": "77",
+  "population": 317
+ },
+ {
+  "nom": "Quiers",
+  "code": "77381",
+  "codesPostaux": [
+   "77720"
+  ],
+  "codeDepartement": "77",
+  "population": 650
+ },
+ {
+  "nom": "Quincy-Voisins",
+  "code": "77382",
+  "codesPostaux": [
+   "77860"
+  ],
+  "codeDepartement": "77",
+  "population": 5547
+ },
+ {
+  "nom": "Rampillon",
+  "code": "77383",
+  "codesPostaux": [
+   "77370"
+  ],
+  "codeDepartement": "77",
+  "population": 836
+ },
+ {
+  "nom": "Réau",
+  "code": "77384",
+  "codesPostaux": [
+   "77550"
+  ],
+  "codeDepartement": "77",
+  "population": 2127
+ },
+ {
+  "nom": "Rebais",
+  "code": "77385",
+  "codesPostaux": [
+   "77510"
+  ],
+  "codeDepartement": "77",
+  "population": 2294
+ },
+ {
+  "nom": "Recloses",
+  "code": "77386",
+  "codesPostaux": [
+   "77760"
+  ],
+  "codeDepartement": "77",
+  "population": 633
+ },
+ {
+  "nom": "Remauville",
+  "code": "77387",
+  "codesPostaux": [
+   "77710"
+  ],
+  "codeDepartement": "77",
+  "population": 449
+ },
+ {
+  "nom": "Reuil-en-Brie",
+  "code": "77388",
+  "codesPostaux": [
+   "77260"
+  ],
+  "codeDepartement": "77",
+  "population": 798
+ },
+ {
+  "nom": "La Rochette",
+  "code": "77389",
+  "codesPostaux": [
+   "77000"
+  ],
+  "codeDepartement": "77",
+  "population": 3932
+ },
+ {
+  "nom": "Roissy-en-Brie",
+  "code": "77390",
+  "codesPostaux": [
+   "77680"
+  ],
+  "codeDepartement": "77",
+  "population": 23229
+ },
+ {
+  "nom": "Rouilly",
+  "code": "77391",
+  "codesPostaux": [
+   "77160"
+  ],
+  "codeDepartement": "77",
+  "population": 496
+ },
+ {
+  "nom": "Rouvres",
+  "code": "77392",
+  "codesPostaux": [
+   "77230"
+  ],
+  "codeDepartement": "77",
+  "population": 1038
+ },
+ {
+  "nom": "Rozay-en-Brie",
+  "code": "77393",
+  "codesPostaux": [
+   "77540"
+  ],
+  "codeDepartement": "77",
+  "population": 2860
+ },
+ {
+  "nom": "Rubelles",
+  "code": "77394",
+  "codesPostaux": [
+   "77950"
+  ],
+  "codeDepartement": "77",
+  "population": 3537
+ },
+ {
+  "nom": "Rumont",
+  "code": "77395",
+  "codesPostaux": [
+   "77760"
+  ],
+  "codeDepartement": "77",
+  "population": 125
+ },
+ {
+  "nom": "Rupéreux",
+  "code": "77396",
+  "codesPostaux": [
+   "77560"
+  ],
+  "codeDepartement": "77",
+  "population": 106
+ },
+ {
+  "nom": "Saâcy-sur-Marne",
+  "code": "77397",
+  "codesPostaux": [
+   "77730"
+  ],
+  "codeDepartement": "77",
+  "population": 1878
+ },
+ {
+  "nom": "Sablonnières",
+  "code": "77398",
+  "codesPostaux": [
+   "77510"
+  ],
+  "codeDepartement": "77",
+  "population": 791
+ },
+ {
+  "nom": "Saint-Augustin",
+  "code": "77400",
+  "codesPostaux": [
+   "77515"
+  ],
+  "codeDepartement": "77",
+  "population": 1888
+ },
+ {
+  "nom": "Sainte-Aulde",
+  "code": "77401",
+  "codesPostaux": [
+   "77260"
+  ],
+  "codeDepartement": "77",
+  "population": 706
+ },
+ {
+  "nom": "Saint-Barthélemy",
+  "code": "77402",
+  "codesPostaux": [
+   "77320"
+  ],
+  "codeDepartement": "77",
+  "population": 335
+ },
+ {
+  "nom": "Saint-Brice",
+  "code": "77403",
+  "codesPostaux": [
+   "77160"
+  ],
+  "codeDepartement": "77",
+  "population": 819
+ },
+ {
+  "nom": "Sainte-Colombe",
+  "code": "77404",
+  "codesPostaux": [
+   "77650"
+  ],
+  "codeDepartement": "77",
+  "population": 1781
+ },
+ {
+  "nom": "Saint-Cyr-sur-Morin",
+  "code": "77405",
+  "codesPostaux": [
+   "77750"
+  ],
+  "codeDepartement": "77",
+  "population": 1976
+ },
+ {
+  "nom": "Saint-Denis-lès-Rebais",
+  "code": "77406",
+  "codesPostaux": [
+   "77510"
+  ],
+  "codeDepartement": "77",
+  "population": 966
+ },
+ {
+  "nom": "Saint-Fargeau-Ponthierry",
+  "code": "77407",
+  "codesPostaux": [
+   "77310"
+  ],
+  "codeDepartement": "77",
+  "population": 15724
+ },
+ {
+  "nom": "Saint-Fiacre",
+  "code": "77408",
+  "codesPostaux": [
+   "77470"
+  ],
+  "codeDepartement": "77",
+  "population": 523
+ },
+ {
+  "nom": "Saint-Germain-Laval",
+  "code": "77409",
+  "codesPostaux": [
+   "77130"
+  ],
+  "codeDepartement": "77",
+  "population": 2888
+ },
+ {
+  "nom": "Saint-Germain-Laxis",
+  "code": "77410",
+  "codesPostaux": [
+   "77950"
+  ],
+  "codeDepartement": "77",
+  "population": 742
+ },
+ {
+  "nom": "Saint-Germain-sous-Doue",
+  "code": "77411",
+  "codesPostaux": [
+   "77169"
+  ],
+  "codeDepartement": "77",
+  "population": 549
+ },
+ {
+  "nom": "Saint-Germain-sur-École",
+  "code": "77412",
+  "codesPostaux": [
+   "77930"
+  ],
+  "codeDepartement": "77",
+  "population": 365
+ },
+ {
+  "nom": "Saint-Germain-sur-Morin",
+  "code": "77413",
+  "codesPostaux": [
+   "77860"
+  ],
+  "codeDepartement": "77",
+  "population": 3902
+ },
+ {
+  "nom": "Saint-Hilliers",
+  "code": "77414",
+  "codesPostaux": [
+   "77160"
+  ],
+  "codeDepartement": "77",
+  "population": 474
+ },
+ {
+  "nom": "Saint-Jean-les-Deux-Jumeaux",
+  "code": "77415",
+  "codesPostaux": [
+   "77660"
+  ],
+  "codeDepartement": "77",
+  "population": 1298
+ },
+ {
+  "nom": "Saint-Just-en-Brie",
+  "code": "77416",
+  "codesPostaux": [
+   "77370"
+  ],
+  "codeDepartement": "77",
+  "population": 265
+ },
+ {
+  "nom": "Saint-Léger",
+  "code": "77417",
+  "codesPostaux": [
+   "77510"
+  ],
+  "codeDepartement": "77",
+  "population": 244
+ },
+ {
+  "nom": "Saint-Loup-de-Naud",
+  "code": "77418",
+  "codesPostaux": [
+   "77650"
+  ],
+  "codeDepartement": "77",
+  "population": 848
+ },
+ {
+  "nom": "Saint-Mammès",
+  "code": "77419",
+  "codesPostaux": [
+   "77670"
+  ],
+  "codeDepartement": "77",
+  "population": 3162
+ },
+ {
+  "nom": "Saint-Mard",
+  "code": "77420",
+  "codesPostaux": [
+   "77230"
+  ],
+  "codeDepartement": "77",
+  "population": 3832
+ },
+ {
+  "nom": "Saint-Mars-Vieux-Maisons",
+  "code": "77421",
+  "codesPostaux": [
+   "77320"
+  ],
+  "codeDepartement": "77",
+  "population": 244
+ },
+ {
+  "nom": "Saint-Martin-des-Champs",
+  "code": "77423",
+  "codesPostaux": [
+   "77320"
+  ],
+  "codeDepartement": "77",
+  "population": 661
+ },
+ {
+  "nom": "Saint-Martin-du-Boschet",
+  "code": "77424",
+  "codesPostaux": [
+   "77320"
+  ],
+  "codeDepartement": "77",
+  "population": 257
+ },
+ {
+  "nom": "Saint-Martin-en-Bière",
+  "code": "77425",
+  "codesPostaux": [
+   "77630"
+  ],
+  "codeDepartement": "77",
+  "population": 746
+ },
+ {
+  "nom": "Saint-Méry",
+  "code": "77426",
+  "codesPostaux": [
+   "77720"
+  ],
+  "codeDepartement": "77",
+  "population": 334
+ },
+ {
+  "nom": "Saint-Mesmes",
+  "code": "77427",
+  "codesPostaux": [
+   "77410"
+  ],
+  "codeDepartement": "77",
+  "population": 579
+ },
+ {
+  "nom": "Saint-Ouen-en-Brie",
+  "code": "77428",
+  "codesPostaux": [
+   "77720"
+  ],
+  "codeDepartement": "77",
+  "population": 837
+ },
+ {
+  "nom": "Saint-Ouen-sur-Morin",
+  "code": "77429",
+  "codesPostaux": [
+   "77750"
+  ],
+  "codeDepartement": "77",
+  "population": 529
+ },
+ {
+  "nom": "Saint-Pathus",
+  "code": "77430",
+  "codesPostaux": [
+   "77178"
+  ],
+  "codeDepartement": "77",
+  "population": 6479
+ },
+ {
+  "nom": "Saint-Pierre-lès-Nemours",
+  "code": "77431",
+  "codesPostaux": [
+   "77140"
+  ],
+  "codeDepartement": "77",
+  "population": 5401
+ },
+ {
+  "nom": "Saint-Rémy-de-la-Vanne",
+  "code": "77432",
+  "codesPostaux": [
+   "77320"
+  ],
+  "codeDepartement": "77",
+  "population": 985
+ },
+ {
+  "nom": "Beautheil-Saints",
+  "code": "77433",
+  "codesPostaux": [
+   "77120"
+  ],
+  "codeDepartement": "77",
+  "population": 2093
+ },
+ {
+  "nom": "Saint-Sauveur-lès-Bray",
+  "code": "77434",
+  "codesPostaux": [
+   "77480"
+  ],
+  "codeDepartement": "77",
+  "population": 350
+ },
+ {
+  "nom": "Saint-Sauveur-sur-École",
+  "code": "77435",
+  "codesPostaux": [
+   "77930"
+  ],
+  "codeDepartement": "77",
+  "population": 1125
+ },
+ {
+  "nom": "Saint-Siméon",
+  "code": "77436",
+  "codesPostaux": [
+   "77169"
+  ],
+  "codeDepartement": "77",
+  "population": 883
+ },
+ {
+  "nom": "Saint-Soupplets",
+  "code": "77437",
+  "codesPostaux": [
+   "77165"
+  ],
+  "codeDepartement": "77",
+  "population": 3542
+ },
+ {
+  "nom": "Saint-Thibault-des-Vignes",
+  "code": "77438",
+  "codesPostaux": [
+   "77400"
+  ],
+  "codeDepartement": "77",
+  "population": 6831
+ },
+ {
+  "nom": "Salins",
+  "code": "77439",
+  "codesPostaux": [
+   "77148"
+  ],
+  "codeDepartement": "77",
+  "population": 1165
+ },
+ {
+  "nom": "Sammeron",
+  "code": "77440",
+  "codesPostaux": [
+   "77260"
+  ],
+  "codeDepartement": "77",
+  "population": 1178
+ },
+ {
+  "nom": "Samois-sur-Seine",
+  "code": "77441",
+  "codesPostaux": [
+   "77920"
+  ],
+  "codeDepartement": "77",
+  "population": 2126
+ },
+ {
+  "nom": "Samoreau",
+  "code": "77442",
+  "codesPostaux": [
+   "77210"
+  ],
+  "codeDepartement": "77",
+  "population": 2384
+ },
+ {
+  "nom": "Sancy",
+  "code": "77443",
+  "codesPostaux": [
+   "77580"
+  ],
+  "codeDepartement": "77",
+  "population": 401
+ },
+ {
+  "nom": "Sancy-lès-Provins",
+  "code": "77444",
+  "codesPostaux": [
+   "77320"
+  ],
+  "codeDepartement": "77",
+  "population": 339
+ },
+ {
+  "nom": "Savigny-le-Temple",
+  "code": "77445",
+  "codesPostaux": [
+   "77176"
+  ],
+  "codeDepartement": "77",
+  "population": 31148
+ },
+ {
+  "nom": "Savins",
+  "code": "77446",
+  "codesPostaux": [
+   "77650"
+  ],
+  "codeDepartement": "77",
+  "population": 617
+ },
+ {
+  "nom": "Seine-Port",
+  "code": "77447",
+  "codesPostaux": [
+   "77240"
+  ],
+  "codeDepartement": "77",
+  "population": 1742
+ },
+ {
+  "nom": "Sept-Sorts",
+  "code": "77448",
+  "codesPostaux": [
+   "77260"
+  ],
+  "codeDepartement": "77",
+  "population": 616
+ },
+ {
+  "nom": "Serris",
+  "code": "77449",
+  "codesPostaux": [
+   "77700"
+  ],
+  "codeDepartement": "77",
+  "population": 10326
+ },
+ {
+  "nom": "Servon",
+  "code": "77450",
+  "codesPostaux": [
+   "77170"
+  ],
+  "codeDepartement": "77",
+  "population": 3565
+ },
+ {
+  "nom": "Signy-Signets",
+  "code": "77451",
+  "codesPostaux": [
+   "77640"
+  ],
+  "codeDepartement": "77",
+  "population": 638
+ },
+ {
+  "nom": "Sigy",
+  "code": "77452",
+  "codesPostaux": [
+   "77520"
+  ],
+  "codeDepartement": "77",
+  "population": 66
+ },
+ {
+  "nom": "Sivry-Courtry",
+  "code": "77453",
+  "codesPostaux": [
+   "77115"
+  ],
+  "codeDepartement": "77",
+  "population": 1124
+ },
+ {
+  "nom": "Sognolles-en-Montois",
+  "code": "77454",
+  "codesPostaux": [
+   "77520"
+  ],
+  "codeDepartement": "77",
+  "population": 371
+ },
+ {
+  "nom": "Soignolles-en-Brie",
+  "code": "77455",
+  "codesPostaux": [
+   "77111"
+  ],
+  "codeDepartement": "77",
+  "population": 2021
+ },
+ {
+  "nom": "Soisy-Bouy",
+  "code": "77456",
+  "codesPostaux": [
+   "77650"
+  ],
+  "codeDepartement": "77",
+  "population": 850
+ },
+ {
+  "nom": "Solers",
+  "code": "77457",
+  "codesPostaux": [
+   "77111"
+  ],
+  "codeDepartement": "77",
+  "population": 1336
+ },
+ {
+  "nom": "Souppes-sur-Loing",
+  "code": "77458",
+  "codesPostaux": [
+   "77460"
+  ],
+  "codeDepartement": "77",
+  "population": 4952
+ },
+ {
+  "nom": "Sourdun",
+  "code": "77459",
+  "codesPostaux": [
+   "77171"
+  ],
+  "codeDepartement": "77",
+  "population": 1541
+ },
+ {
+  "nom": "Tancrou",
+  "code": "77460",
+  "codesPostaux": [
+   "77440"
+  ],
+  "codeDepartement": "77",
+  "population": 340
+ },
+ {
+  "nom": "Thénisy",
+  "code": "77461",
+  "codesPostaux": [
+   "77520"
+  ],
+  "codeDepartement": "77",
+  "population": 297
+ },
+ {
+  "nom": "Thieux",
+  "code": "77462",
+  "codesPostaux": [
+   "77230"
+  ],
+  "codeDepartement": "77",
+  "population": 778
+ },
+ {
+  "nom": "Thomery",
+  "code": "77463",
+  "codesPostaux": [
+   "77810"
+  ],
+  "codeDepartement": "77",
+  "population": 3384
+ },
+ {
+  "nom": "Thorigny-sur-Marne",
+  "code": "77464",
+  "codesPostaux": [
+   "77400"
+  ],
+  "codeDepartement": "77",
+  "population": 10440
+ },
+ {
+  "nom": "Thoury-Férottes",
+  "code": "77465",
+  "codesPostaux": [
+   "77940"
+  ],
+  "codeDepartement": "77",
+  "population": 649
+ },
+ {
+  "nom": "Tigeaux",
+  "code": "77466",
+  "codesPostaux": [
+   "77163"
+  ],
+  "codeDepartement": "77",
+  "population": 421
+ },
+ {
+  "nom": "La Tombe",
+  "code": "77467",
+  "codesPostaux": [
+   "77130"
+  ],
+  "codeDepartement": "77",
+  "population": 208
+ },
+ {
+  "nom": "Torcy",
+  "code": "77468",
+  "codesPostaux": [
+   "77200"
+  ],
+  "codeDepartement": "77",
+  "population": 22810
+ },
+ {
+  "nom": "Touquin",
+  "code": "77469",
+  "codesPostaux": [
+   "77131"
+  ],
+  "codeDepartement": "77",
+  "population": 1253
+ },
+ {
+  "nom": "Tournan-en-Brie",
+  "code": "77470",
+  "codesPostaux": [
+   "77220"
+  ],
+  "codeDepartement": "77",
+  "population": 8274
+ },
+ {
+  "nom": "Tousson",
+  "code": "77471",
+  "codesPostaux": [
+   "77123"
+  ],
+  "codeDepartement": "77",
+  "population": 334
+ },
+ {
+  "nom": "La Trétoire",
+  "code": "77472",
+  "codesPostaux": [
+   "77510"
+  ],
+  "codeDepartement": "77",
+  "population": 459
+ },
+ {
+  "nom": "Treuzy-Levelay",
+  "code": "77473",
+  "codesPostaux": [
+   "77710"
+  ],
+  "codeDepartement": "77",
+  "population": 458
+ },
+ {
+  "nom": "Trilbardou",
+  "code": "77474",
+  "codesPostaux": [
+   "77450"
+  ],
+  "codeDepartement": "77",
+  "population": 700
+ },
+ {
+  "nom": "Trilport",
+  "code": "77475",
+  "codesPostaux": [
+   "77470"
+  ],
+  "codeDepartement": "77",
+  "population": 5146
+ },
+ {
+  "nom": "Trocy-en-Multien",
+  "code": "77476",
+  "codesPostaux": [
+   "77440"
+  ],
+  "codeDepartement": "77",
+  "population": 233
+ },
+ {
+  "nom": "Ury",
+  "code": "77477",
+  "codesPostaux": [
+   "77760"
+  ],
+  "codeDepartement": "77",
+  "population": 882
+ },
+ {
+  "nom": "Ussy-sur-Marne",
+  "code": "77478",
+  "codesPostaux": [
+   "77260"
+  ],
+  "codeDepartement": "77",
+  "population": 1058
+ },
+ {
+  "nom": "Vaires-sur-Marne",
+  "code": "77479",
+  "codesPostaux": [
+   "77360"
+  ],
+  "codeDepartement": "77",
+  "population": 13931
+ },
+ {
+  "nom": "Valence-en-Brie",
+  "code": "77480",
+  "codesPostaux": [
+   "77830"
+  ],
+  "codeDepartement": "77",
+  "population": 1007
+ },
+ {
+  "nom": "Vanvillé",
+  "code": "77481",
+  "codesPostaux": [
+   "77370"
+  ],
+  "codeDepartement": "77",
+  "population": 197
+ },
+ {
+  "nom": "Varennes-sur-Seine",
+  "code": "77482",
+  "codesPostaux": [
+   "77130"
+  ],
+  "codeDepartement": "77",
+  "population": 3748
+ },
+ {
+  "nom": "Varreddes",
+  "code": "77483",
+  "codesPostaux": [
+   "77910"
+  ],
+  "codeDepartement": "77",
+  "population": 2167
+ },
+ {
+  "nom": "Vaucourtois",
+  "code": "77484",
+  "codesPostaux": [
+   "77580"
+  ],
+  "codeDepartement": "77",
+  "population": 277
+ },
+ {
+  "nom": "Le Vaudoué",
+  "code": "77485",
+  "codesPostaux": [
+   "77123"
+  ],
+  "codeDepartement": "77",
+  "population": 731
+ },
+ {
+  "nom": "Vaudoy-en-Brie",
+  "code": "77486",
+  "codesPostaux": [
+   "77141"
+  ],
+  "codeDepartement": "77",
+  "population": 872
+ },
+ {
+  "nom": "Vaux-le-Pénil",
+  "code": "77487",
+  "codesPostaux": [
+   "77000"
+  ],
+  "codeDepartement": "77",
+  "population": 11474
+ },
+ {
+  "nom": "Vaux-sur-Lunain",
+  "code": "77489",
+  "codesPostaux": [
+   "77710"
+  ],
+  "codeDepartement": "77",
+  "population": 229
+ },
+ {
+  "nom": "Vendrest",
+  "code": "77490",
+  "codesPostaux": [
+   "77440"
+  ],
+  "codeDepartement": "77",
+  "population": 686
+ },
+ {
+  "nom": "Verdelot",
+  "code": "77492",
+  "codesPostaux": [
+   "77510"
+  ],
+  "codeDepartement": "77",
+  "population": 620
+ },
+ {
+  "nom": "Verneuil-l'Étang",
+  "code": "77493",
+  "codesPostaux": [
+   "77390"
+  ],
+  "codeDepartement": "77",
+  "population": 3223
+ },
+ {
+  "nom": "Vernou-la-Celle-sur-Seine",
+  "code": "77494",
+  "codesPostaux": [
+   "77670"
+  ],
+  "codeDepartement": "77",
+  "population": 2630
+ },
+ {
+  "nom": "Vert-Saint-Denis",
+  "code": "77495",
+  "codesPostaux": [
+   "77240"
+  ],
+  "codeDepartement": "77",
+  "population": 9291
+ },
+ {
+  "nom": "Vieux-Champagne",
+  "code": "77496",
+  "codesPostaux": [
+   "77370"
+  ],
+  "codeDepartement": "77",
+  "population": 192
+ },
+ {
+  "nom": "Vignely",
+  "code": "77498",
+  "codesPostaux": [
+   "77450"
+  ],
+  "codeDepartement": "77",
+  "population": 322
+ },
+ {
+  "nom": "Villebéon",
+  "code": "77500",
+  "codesPostaux": [
+   "77710"
+  ],
+  "codeDepartement": "77",
+  "population": 452
+ },
+ {
+  "nom": "Villecerf",
+  "code": "77501",
+  "codesPostaux": [
+   "77250"
+  ],
+  "codeDepartement": "77",
+  "population": 724
+ },
+ {
+  "nom": "Villemaréchal",
+  "code": "77504",
+  "codesPostaux": [
+   "77710"
+  ],
+  "codeDepartement": "77",
+  "population": 1055
+ },
+ {
+  "nom": "Villemareuil",
+  "code": "77505",
+  "codesPostaux": [
+   "77470"
+  ],
+  "codeDepartement": "77",
+  "population": 386
+ },
+ {
+  "nom": "Villemer",
+  "code": "77506",
+  "codesPostaux": [
+   "77250"
+  ],
+  "codeDepartement": "77",
+  "population": 759
+ },
+ {
+  "nom": "Villenauxe-la-Petite",
+  "code": "77507",
+  "codesPostaux": [
+   "77480"
+  ],
+  "codeDepartement": "77",
+  "population": 453
+ },
+ {
+  "nom": "Villeneuve-le-Comte",
+  "code": "77508",
+  "codesPostaux": [
+   "77174"
+  ],
+  "codeDepartement": "77",
+  "population": 1872
+ },
+ {
+  "nom": "Villeneuve-les-Bordes",
+  "code": "77509",
+  "codesPostaux": [
+   "77154"
+  ],
+  "codeDepartement": "77",
+  "population": 610
+ },
+ {
+  "nom": "Villeneuve-Saint-Denis",
+  "code": "77510",
+  "codesPostaux": [
+   "77174"
+  ],
+  "codeDepartement": "77",
+  "population": 1369
+ },
+ {
+  "nom": "Villeneuve-sous-Dammartin",
+  "code": "77511",
+  "codesPostaux": [
+   "77230"
+  ],
+  "codeDepartement": "77",
+  "population": 595
+ },
+ {
+  "nom": "Villeneuve-sur-Bellot",
+  "code": "77512",
+  "codesPostaux": [
+   "77510"
+  ],
+  "codeDepartement": "77",
+  "population": 1151
+ },
+ {
+  "nom": "Villenoy",
+  "code": "77513",
+  "codesPostaux": [
+   "77124"
+  ],
+  "codeDepartement": "77",
+  "population": 5127
+ },
+ {
+  "nom": "Villeparisis",
+  "code": "77514",
+  "codesPostaux": [
+   "77270"
+  ],
+  "codeDepartement": "77",
+  "population": 26946
+ },
+ {
+  "nom": "Villeroy",
+  "code": "77515",
+  "codesPostaux": [
+   "77410"
+  ],
+  "codeDepartement": "77",
+  "population": 711
+ },
+ {
+  "nom": "Ville-Saint-Jacques",
+  "code": "77516",
+  "codesPostaux": [
+   "77130"
+  ],
+  "codeDepartement": "77",
+  "population": 815
+ },
+ {
+  "nom": "Villevaudé",
+  "code": "77517",
+  "codesPostaux": [
+   "77410"
+  ],
+  "codeDepartement": "77",
+  "population": 2132
+ },
+ {
+  "nom": "Villiers-en-Bière",
+  "code": "77518",
+  "codesPostaux": [
+   "77190"
+  ],
+  "codeDepartement": "77",
+  "population": 242
+ },
+ {
+  "nom": "Villiers-Saint-Georges",
+  "code": "77519",
+  "codesPostaux": [
+   "77560"
+  ],
+  "codeDepartement": "77",
+  "population": 1160
+ },
+ {
+  "nom": "Villiers-sous-Grez",
+  "code": "77520",
+  "codesPostaux": [
+   "77760"
+  ],
+  "codeDepartement": "77",
+  "population": 706
+ },
+ {
+  "nom": "Villiers-sur-Morin",
+  "code": "77521",
+  "codesPostaux": [
+   "77580"
+  ],
+  "codeDepartement": "77",
+  "population": 2083
+ },
+ {
+  "nom": "Villiers-sur-Seine",
+  "code": "77522",
+  "codesPostaux": [
+   "77114"
+  ],
+  "codeDepartement": "77",
+  "population": 278
+ },
+ {
+  "nom": "Villuis",
+  "code": "77523",
+  "codesPostaux": [
+   "77480"
+  ],
+  "codeDepartement": "77",
+  "population": 272
+ },
+ {
+  "nom": "Vimpelles",
+  "code": "77524",
+  "codesPostaux": [
+   "77520"
+  ],
+  "codeDepartement": "77",
+  "population": 512
+ },
+ {
+  "nom": "Vinantes",
+  "code": "77525",
+  "codesPostaux": [
+   "77230"
+  ],
+  "codeDepartement": "77",
+  "population": 381
+ },
+ {
+  "nom": "Vincy-Manœuvre",
+  "code": "77526",
+  "codesPostaux": [
+   "77139"
+  ],
+  "codeDepartement": "77",
+  "population": 271
+ },
+ {
+  "nom": "Voinsles",
+  "code": "77527",
+  "codesPostaux": [
+   "77540"
+  ],
+  "codeDepartement": "77",
+  "population": 580
+ },
+ {
+  "nom": "Voisenon",
+  "code": "77528",
+  "codesPostaux": [
+   "77950"
+  ],
+  "codeDepartement": "77",
+  "population": 1170
+ },
+ {
+  "nom": "Voulangis",
+  "code": "77529",
+  "codesPostaux": [
+   "77580"
+  ],
+  "codeDepartement": "77",
+  "population": 1541
+ },
+ {
+  "nom": "Voulton",
+  "code": "77530",
+  "codesPostaux": [
+   "77560"
+  ],
+  "codeDepartement": "77",
+  "population": 295
+ },
+ {
+  "nom": "Voulx",
+  "code": "77531",
+  "codesPostaux": [
+   "77940"
+  ],
+  "codeDepartement": "77",
+  "population": 1626
+ },
+ {
+  "nom": "Vulaines-lès-Provins",
+  "code": "77532",
+  "codesPostaux": [
+   "77160"
+  ],
+  "codeDepartement": "77",
+  "population": 80
+ },
+ {
+  "nom": "Vulaines-sur-Seine",
+  "code": "77533",
+  "codesPostaux": [
+   "77870"
+  ],
+  "codeDepartement": "77",
+  "population": 2730
+ },
+ {
+  "nom": "Yèbles",
+  "code": "77534",
+  "codesPostaux": [
+   "77390"
+  ],
+  "codeDepartement": "77",
+  "population": 980
+ },
+ {
+  "nom": "Ablis",
+  "code": "78003",
+  "codesPostaux": [
+   "78660"
+  ],
+  "codeDepartement": "78",
+  "population": 3913
+ },
+ {
+  "nom": "Achères",
+  "code": "78005",
+  "codesPostaux": [
+   "78260"
+  ],
+  "codeDepartement": "78",
+  "population": 22241
+ },
+ {
+  "nom": "Adainville",
+  "code": "78006",
+  "codesPostaux": [
+   "78113"
+  ],
+  "codeDepartement": "78",
+  "population": 673
+ },
+ {
+  "nom": "Aigremont",
+  "code": "78007",
+  "codesPostaux": [
+   "78240"
+  ],
+  "codeDepartement": "78",
+  "population": 1075
+ },
+ {
+  "nom": "Allainville",
+  "code": "78009",
+  "codesPostaux": [
+   "78660"
+  ],
+  "codeDepartement": "78",
+  "population": 281
+ },
+ {
+  "nom": "Les Alluets-le-Roi",
+  "code": "78010",
+  "codesPostaux": [
+   "78580"
+  ],
+  "codeDepartement": "78",
+  "population": 1390
+ },
+ {
+  "nom": "Andelu",
+  "code": "78013",
+  "codesPostaux": [
+   "78770"
+  ],
+  "codeDepartement": "78",
+  "population": 550
+ },
+ {
+  "nom": "Andrésy",
+  "code": "78015",
+  "codesPostaux": [
+   "78570"
+  ],
+  "codeDepartement": "78",
+  "population": 13834
+ },
+ {
+  "nom": "Arnouville-lès-Mantes",
+  "code": "78020",
+  "codesPostaux": [
+   "78790"
+  ],
+  "codeDepartement": "78",
+  "population": 951
+ },
+ {
+  "nom": "Aubergenville",
+  "code": "78029",
+  "codesPostaux": [
+   "78410"
+  ],
+  "codeDepartement": "78",
+  "population": 12723
+ },
+ {
+  "nom": "Auffargis",
+  "code": "78030",
+  "codesPostaux": [
+   "78610"
+  ],
+  "codeDepartement": "78",
+  "population": 1963
+ },
+ {
+  "nom": "Auffreville-Brasseuil",
+  "code": "78031",
+  "codesPostaux": [
+   "78930"
+  ],
+  "codeDepartement": "78",
+  "population": 671
+ },
+ {
+  "nom": "Aulnay-sur-Mauldre",
+  "code": "78033",
+  "codesPostaux": [
+   "78126"
+  ],
+  "codeDepartement": "78",
+  "population": 1180
+ },
+ {
+  "nom": "Auteuil",
+  "code": "78034",
+  "codesPostaux": [
+   "78770"
+  ],
+  "codeDepartement": "78",
+  "population": 1020
+ },
+ {
+  "nom": "Autouillet",
+  "code": "78036",
+  "codesPostaux": [
+   "78770"
+  ],
+  "codeDepartement": "78",
+  "population": 665
+ },
+ {
+  "nom": "Bailly",
+  "code": "78043",
+  "codesPostaux": [
+   "78870"
+  ],
+  "codeDepartement": "78",
+  "population": 3731
+ },
+ {
+  "nom": "Bazainville",
+  "code": "78048",
+  "codesPostaux": [
+   "78550"
+  ],
+  "codeDepartement": "78",
+  "population": 1469
+ },
+ {
+  "nom": "Bazemont",
+  "code": "78049",
+  "codesPostaux": [
+   "78580"
+  ],
+  "codeDepartement": "78",
+  "population": 1727
+ },
+ {
+  "nom": "Bazoches-sur-Guyonne",
+  "code": "78050",
+  "codesPostaux": [
+   "78490"
+  ],
+  "codeDepartement": "78",
+  "population": 721
+ },
+ {
+  "nom": "Béhoust",
+  "code": "78053",
+  "codesPostaux": [
+   "78910"
+  ],
+  "codeDepartement": "78",
+  "population": 533
+ },
+ {
+  "nom": "Bennecourt",
+  "code": "78057",
+  "codesPostaux": [
+   "78270"
+  ],
+  "codeDepartement": "78",
+  "population": 1747
+ },
+ {
+  "nom": "Beynes",
+  "code": "78062",
+  "codesPostaux": [
+   "78650"
+  ],
+  "codeDepartement": "78",
+  "population": 7704
+ },
+ {
+  "nom": "Blaru",
+  "code": "78068",
+  "codesPostaux": [
+   "78270"
+  ],
+  "codeDepartement": "78",
+  "population": 907
+ },
+ {
+  "nom": "Boinville-en-Mantois",
+  "code": "78070",
+  "codesPostaux": [
+   "78930"
+  ],
+  "codeDepartement": "78",
+  "population": 285
+ },
+ {
+  "nom": "Boinville-le-Gaillard",
+  "code": "78071",
+  "codesPostaux": [
+   "78660"
+  ],
+  "codeDepartement": "78",
+  "population": 597
+ },
+ {
+  "nom": "Boinvilliers",
+  "code": "78072",
+  "codesPostaux": [
+   "78200"
+  ],
+  "codeDepartement": "78",
+  "population": 243
+ },
+ {
+  "nom": "Bois-d'Arcy",
+  "code": "78073",
+  "codesPostaux": [
+   "78390"
+  ],
+  "codeDepartement": "78",
+  "population": 16586
+ },
+ {
+  "nom": "Boissets",
+  "code": "78076",
+  "codesPostaux": [
+   "78910"
+  ],
+  "codeDepartement": "78",
+  "population": 301
+ },
+ {
+  "nom": "La Boissière-École",
+  "code": "78077",
+  "codesPostaux": [
+   "78125"
+  ],
+  "codeDepartement": "78",
+  "population": 747
+ },
+ {
+  "nom": "Boissy-Mauvoisin",
+  "code": "78082",
+  "codesPostaux": [
+   "78200"
+  ],
+  "codeDepartement": "78",
+  "population": 615
+ },
+ {
+  "nom": "Boissy-sans-Avoir",
+  "code": "78084",
+  "codesPostaux": [
+   "78490"
+  ],
+  "codeDepartement": "78",
+  "population": 616
+ },
+ {
+  "nom": "Bonnelles",
+  "code": "78087",
+  "codesPostaux": [
+   "78830"
+  ],
+  "codeDepartement": "78",
+  "population": 2165
+ },
+ {
+  "nom": "Bonnières-sur-Seine",
+  "code": "78089",
+  "codesPostaux": [
+   "78270"
+  ],
+  "codeDepartement": "78",
+  "population": 5064
+ },
+ {
+  "nom": "Bouafle",
+  "code": "78090",
+  "codesPostaux": [
+   "78410"
+  ],
+  "codeDepartement": "78",
+  "population": 2234
+ },
+ {
+  "nom": "Bougival",
+  "code": "78092",
+  "codesPostaux": [
+   "78380"
+  ],
+  "codeDepartement": "78",
+  "population": 9134
+ },
+ {
+  "nom": "Bourdonné",
+  "code": "78096",
+  "codesPostaux": [
+   "78113"
+  ],
+  "codeDepartement": "78",
+  "population": 506
+ },
+ {
+  "nom": "Breuil-Bois-Robert",
+  "code": "78104",
+  "codesPostaux": [
+   "78930"
+  ],
+  "codeDepartement": "78",
+  "population": 764
+ },
+ {
+  "nom": "Bréval",
+  "code": "78107",
+  "codesPostaux": [
+   "78980"
+  ],
+  "codeDepartement": "78",
+  "population": 2151
+ },
+ {
+  "nom": "Les Bréviaires",
+  "code": "78108",
+  "codesPostaux": [
+   "78610"
+  ],
+  "codeDepartement": "78",
+  "population": 1302
+ },
+ {
+  "nom": "Brueil-en-Vexin",
+  "code": "78113",
+  "codesPostaux": [
+   "78440"
+  ],
+  "codeDepartement": "78",
+  "population": 652
+ },
+ {
+  "nom": "Buc",
+  "code": "78117",
+  "codesPostaux": [
+   "78530"
+  ],
+  "codeDepartement": "78",
+  "population": 5816
+ },
+ {
+  "nom": "Buchelay",
+  "code": "78118",
+  "codesPostaux": [
+   "78200"
+  ],
+  "codeDepartement": "78",
+  "population": 3360
+ },
+ {
+  "nom": "Bullion",
+  "code": "78120",
+  "codesPostaux": [
+   "78830"
+  ],
+  "codeDepartement": "78",
+  "population": 1916
+ },
+ {
+  "nom": "Carrières-sous-Poissy",
+  "code": "78123",
+  "codesPostaux": [
+   "78955"
+  ],
+  "codeDepartement": "78",
+  "population": 20825
+ },
+ {
+  "nom": "Carrières-sur-Seine",
+  "code": "78124",
+  "codesPostaux": [
+   "78420"
+  ],
+  "codeDepartement": "78",
+  "population": 14791
+ },
+ {
+  "nom": "La Celle-les-Bordes",
+  "code": "78125",
+  "codesPostaux": [
+   "78720"
+  ],
+  "codeDepartement": "78",
+  "population": 840
+ },
+ {
+  "nom": "La Celle-Saint-Cloud",
+  "code": "78126",
+  "codesPostaux": [
+   "78170"
+  ],
+  "codeDepartement": "78",
+  "population": 20460
+ },
+ {
+  "nom": "Cernay-la-Ville",
+  "code": "78128",
+  "codesPostaux": [
+   "78720"
+  ],
+  "codeDepartement": "78",
+  "population": 1516
+ },
+ {
+  "nom": "Chambourcy",
+  "code": "78133",
+  "codesPostaux": [
+   "78240"
+  ],
+  "codeDepartement": "78",
+  "population": 5847
+ },
+ {
+  "nom": "Chanteloup-les-Vignes",
+  "code": "78138",
+  "codesPostaux": [
+   "78570"
+  ],
+  "codeDepartement": "78",
+  "population": 10861
+ },
+ {
+  "nom": "Chapet",
+  "code": "78140",
+  "codesPostaux": [
+   "78130"
+  ],
+  "codeDepartement": "78",
+  "population": 1331
+ },
+ {
+  "nom": "Châteaufort",
+  "code": "78143",
+  "codesPostaux": [
+   "78117"
+  ],
+  "codeDepartement": "78",
+  "population": 1564
+ },
+ {
+  "nom": "Chatou",
+  "code": "78146",
+  "codesPostaux": [
+   "78400"
+  ],
+  "codeDepartement": "78",
+  "population": 30598
+ },
+ {
+  "nom": "Chaufour-lès-Bonnières",
+  "code": "78147",
+  "codesPostaux": [
+   "78270"
+  ],
+  "codeDepartement": "78",
+  "population": 442
+ },
+ {
+  "nom": "Chavenay",
+  "code": "78152",
+  "codesPostaux": [
+   "78450"
+  ],
+  "codeDepartement": "78",
+  "population": 1723
+ },
+ {
+  "nom": "Le Chesnay-Rocquencourt",
+  "code": "78158",
+  "codesPostaux": [
+   "78150"
+  ],
+  "codeDepartement": "78",
+  "population": 30689
+ },
+ {
+  "nom": "Chevreuse",
+  "code": "78160",
+  "codesPostaux": [
+   "78460"
+  ],
+  "codeDepartement": "78",
+  "population": 5502
+ },
+ {
+  "nom": "Choisel",
+  "code": "78162",
+  "codesPostaux": [
+   "78460"
+  ],
+  "codeDepartement": "78",
+  "population": 540
+ },
+ {
+  "nom": "Civry-la-Forêt",
+  "code": "78163",
+  "codesPostaux": [
+   "78910"
+  ],
+  "codeDepartement": "78",
+  "population": 373
+ },
+ {
+  "nom": "Clairefontaine-en-Yvelines",
+  "code": "78164",
+  "codesPostaux": [
+   "78120"
+  ],
+  "codeDepartement": "78",
+  "population": 850
+ },
+ {
+  "nom": "Les Clayes-sous-Bois",
+  "code": "78165",
+  "codesPostaux": [
+   "78340"
+  ],
+  "codeDepartement": "78",
+  "population": 16804
+ },
+ {
+  "nom": "Coignières",
+  "code": "78168",
+  "codesPostaux": [
+   "78310"
+  ],
+  "codeDepartement": "78",
+  "population": 4321
+ },
+ {
+  "nom": "Condé-sur-Vesgre",
+  "code": "78171",
+  "codesPostaux": [
+   "78113"
+  ],
+  "codeDepartement": "78",
+  "population": 1279
+ },
+ {
+  "nom": "Conflans-Sainte-Honorine",
+  "code": "78172",
+  "codesPostaux": [
+   "78700"
+  ],
+  "codeDepartement": "78",
+  "population": 36958
+ },
+ {
+  "nom": "Courgent",
+  "code": "78185",
+  "codesPostaux": [
+   "78790"
+  ],
+  "codeDepartement": "78",
+  "population": 414
+ },
+ {
+  "nom": "Cravent",
+  "code": "78188",
+  "codesPostaux": [
+   "78270"
+  ],
+  "codeDepartement": "78",
+  "population": 438
+ },
+ {
+  "nom": "Crespières",
+  "code": "78189",
+  "codesPostaux": [
+   "78121"
+  ],
+  "codeDepartement": "78",
+  "population": 1719
+ },
+ {
+  "nom": "Croissy-sur-Seine",
+  "code": "78190",
+  "codesPostaux": [
+   "78290"
+  ],
+  "codeDepartement": "78",
+  "population": 11013
+ },
+ {
+  "nom": "Dammartin-en-Serve",
+  "code": "78192",
+  "codesPostaux": [
+   "78111"
+  ],
+  "codeDepartement": "78",
+  "population": 1441
+ },
+ {
+  "nom": "Dampierre-en-Yvelines",
+  "code": "78193",
+  "codesPostaux": [
+   "78720"
+  ],
+  "codeDepartement": "78",
+  "population": 1008
+ },
+ {
+  "nom": "Dannemarie",
+  "code": "78194",
+  "codesPostaux": [
+   "78550"
+  ],
+  "codeDepartement": "78",
+  "population": 229
+ },
+ {
+  "nom": "Davron",
+  "code": "78196",
+  "codesPostaux": [
+   "78810"
+  ],
+  "codeDepartement": "78",
+  "population": 295
+ },
+ {
+  "nom": "Drocourt",
+  "code": "78202",
+  "codesPostaux": [
+   "78440"
+  ],
+  "codeDepartement": "78",
+  "population": 554
+ },
+ {
+  "nom": "Ecquevilly",
+  "code": "78206",
+  "codesPostaux": [
+   "78920"
+  ],
+  "codeDepartement": "78",
+  "population": 4279
+ },
+ {
+  "nom": "Élancourt",
+  "code": "78208",
+  "codesPostaux": [
+   "78990"
+  ],
+  "codeDepartement": "78",
+  "population": 26365
+ },
+ {
+  "nom": "Émancé",
+  "code": "78209",
+  "codesPostaux": [
+   "78125"
+  ],
+  "codeDepartement": "78",
+  "population": 872
+ },
+ {
+  "nom": "Épône",
+  "code": "78217",
+  "codesPostaux": [
+   "78680"
+  ],
+  "codeDepartement": "78",
+  "population": 7031
+ },
+ {
+  "nom": "Les Essarts-le-Roi",
+  "code": "78220",
+  "codesPostaux": [
+   "78690"
+  ],
+  "codeDepartement": "78",
+  "population": 6831
+ },
+ {
+  "nom": "L'Étang-la-Ville",
+  "code": "78224",
+  "codesPostaux": [
+   "78620"
+  ],
+  "codeDepartement": "78",
+  "population": 5157
+ },
+ {
+  "nom": "Évecquemont",
+  "code": "78227",
+  "codesPostaux": [
+   "78740"
+  ],
+  "codeDepartement": "78",
+  "population": 754
+ },
+ {
+  "nom": "La Falaise",
+  "code": "78230",
+  "codesPostaux": [
+   "78410"
+  ],
+  "codeDepartement": "78",
+  "population": 609
+ },
+ {
+  "nom": "Favrieux",
+  "code": "78231",
+  "codesPostaux": [
+   "78200"
+  ],
+  "codeDepartement": "78",
+  "population": 157
+ },
+ {
+  "nom": "Feucherolles",
+  "code": "78233",
+  "codesPostaux": [
+   "78810"
+  ],
+  "codeDepartement": "78",
+  "population": 3043
+ },
+ {
+  "nom": "Flacourt",
+  "code": "78234",
+  "codesPostaux": [
+   "78200"
+  ],
+  "codeDepartement": "78",
+  "population": 184
+ },
+ {
+  "nom": "Flexanville",
+  "code": "78236",
+  "codesPostaux": [
+   "78910"
+  ],
+  "codeDepartement": "78",
+  "population": 576
+ },
+ {
+  "nom": "Flins-Neuve-Église",
+  "code": "78237",
+  "codesPostaux": [
+   "78790"
+  ],
+  "codeDepartement": "78",
+  "population": 162
+ },
+ {
+  "nom": "Flins-sur-Seine",
+  "code": "78238",
+  "codesPostaux": [
+   "78410"
+  ],
+  "codeDepartement": "78",
+  "population": 2447
+ },
+ {
+  "nom": "Follainville-Dennemont",
+  "code": "78239",
+  "codesPostaux": [
+   "78520"
+  ],
+  "codeDepartement": "78",
+  "population": 2184
+ },
+ {
+  "nom": "Fontenay-le-Fleury",
+  "code": "78242",
+  "codesPostaux": [
+   "78330"
+  ],
+  "codeDepartement": "78",
+  "population": 13680
+ },
+ {
+  "nom": "Fontenay-Mauvoisin",
+  "code": "78245",
+  "codesPostaux": [
+   "78200"
+  ],
+  "codeDepartement": "78",
+  "population": 460
+ },
+ {
+  "nom": "Fontenay-Saint-Père",
+  "code": "78246",
+  "codesPostaux": [
+   "78440"
+  ],
+  "codeDepartement": "78",
+  "population": 949
+ },
+ {
+  "nom": "Freneuse",
+  "code": "78255",
+  "codesPostaux": [
+   "78840"
+  ],
+  "codeDepartement": "78",
+  "population": 4505
+ },
+ {
+  "nom": "Gaillon-sur-Montcient",
+  "code": "78261",
+  "codesPostaux": [
+   "78250"
+  ],
+  "codeDepartement": "78",
+  "population": 689
+ },
+ {
+  "nom": "Galluis",
+  "code": "78262",
+  "codesPostaux": [
+   "78490"
+  ],
+  "codeDepartement": "78",
+  "population": 1298
+ },
+ {
+  "nom": "Gambais",
+  "code": "78263",
+  "codesPostaux": [
+   "78950"
+  ],
+  "codeDepartement": "78",
+  "population": 2574
+ },
+ {
+  "nom": "Gambaiseuil",
+  "code": "78264",
+  "codesPostaux": [
+   "78490"
+  ],
+  "codeDepartement": "78",
+  "population": 64
+ },
+ {
+  "nom": "Garancières",
+  "code": "78265",
+  "codesPostaux": [
+   "78890"
+  ],
+  "codeDepartement": "78",
+  "population": 2621
+ },
+ {
+  "nom": "Gargenville",
+  "code": "78267",
+  "codesPostaux": [
+   "78440"
+  ],
+  "codeDepartement": "78",
+  "population": 7869
+ },
+ {
+  "nom": "Gazeran",
+  "code": "78269",
+  "codesPostaux": [
+   "78125"
+  ],
+  "codeDepartement": "78",
+  "population": 1492
+ },
+ {
+  "nom": "Gommecourt",
+  "code": "78276",
+  "codesPostaux": [
+   "78270"
+  ],
+  "codeDepartement": "78",
+  "population": 613
+ },
+ {
+  "nom": "Goupillières",
+  "code": "78278",
+  "codesPostaux": [
+   "78770"
+  ],
+  "codeDepartement": "78",
+  "population": 570
+ },
+ {
+  "nom": "Goussonville",
+  "code": "78281",
+  "codesPostaux": [
+   "78930"
+  ],
+  "codeDepartement": "78",
+  "population": 650
+ },
+ {
+  "nom": "Grandchamp",
+  "code": "78283",
+  "codesPostaux": [
+   "78113"
+  ],
+  "codeDepartement": "78",
+  "population": 300
+ },
+ {
+  "nom": "Gressey",
+  "code": "78285",
+  "codesPostaux": [
+   "78550"
+  ],
+  "codeDepartement": "78",
+  "population": 533
+ },
+ {
+  "nom": "Grosrouvre",
+  "code": "78289",
+  "codesPostaux": [
+   "78490"
+  ],
+  "codeDepartement": "78",
+  "population": 902
+ },
+ {
+  "nom": "Guernes",
+  "code": "78290",
+  "codesPostaux": [
+   "78520"
+  ],
+  "codeDepartement": "78",
+  "population": 1085
+ },
+ {
+  "nom": "Guerville",
+  "code": "78291",
+  "codesPostaux": [
+   "78930"
+  ],
+  "codeDepartement": "78",
+  "population": 2052
+ },
+ {
+  "nom": "Guitrancourt",
+  "code": "78296",
+  "codesPostaux": [
+   "78440"
+  ],
+  "codeDepartement": "78",
+  "population": 646
+ },
+ {
+  "nom": "Guyancourt",
+  "code": "78297",
+  "codesPostaux": [
+   "78280"
+  ],
+  "codeDepartement": "78",
+  "population": 29778
+ },
+ {
+  "nom": "Hardricourt",
+  "code": "78299",
+  "codesPostaux": [
+   "78250"
+  ],
+  "codeDepartement": "78",
+  "population": 2599
+ },
+ {
+  "nom": "Hargeville",
+  "code": "78300",
+  "codesPostaux": [
+   "78790"
+  ],
+  "codeDepartement": "78",
+  "population": 418
+ },
+ {
+  "nom": "La Hauteville",
+  "code": "78302",
+  "codesPostaux": [
+   "78113"
+  ],
+  "codeDepartement": "78",
+  "population": 157
+ },
+ {
+  "nom": "Herbeville",
+  "code": "78305",
+  "codesPostaux": [
+   "78580"
+  ],
+  "codeDepartement": "78",
+  "population": 228
+ },
+ {
+  "nom": "Hermeray",
+  "code": "78307",
+  "codesPostaux": [
+   "78125"
+  ],
+  "codeDepartement": "78",
+  "population": 1007
+ },
+ {
+  "nom": "Houdan",
+  "code": "78310",
+  "codesPostaux": [
+   "78550"
+  ],
+  "codeDepartement": "78",
+  "population": 3721
+ },
+ {
+  "nom": "Houilles",
+  "code": "78311",
+  "codesPostaux": [
+   "78800"
+  ],
+  "codeDepartement": "78",
+  "population": 33983
+ },
+ {
+  "nom": "Issou",
+  "code": "78314",
+  "codesPostaux": [
+   "78440"
+  ],
+  "codeDepartement": "78",
+  "population": 4060
+ },
+ {
+  "nom": "Jambville",
+  "code": "78317",
+  "codesPostaux": [
+   "78440"
+  ],
+  "codeDepartement": "78",
+  "population": 793
+ },
+ {
+  "nom": "Notre-Dame-de-la-Mer",
+  "code": "78320",
+  "codesPostaux": [
+   "78270"
+  ],
+  "codeDepartement": "78",
+  "population": 742
+ },
+ {
+  "nom": "Jouars-Pontchartrain",
+  "code": "78321",
+  "codesPostaux": [
+   "78760"
+  ],
+  "codeDepartement": "78",
+  "population": 6039
+ },
+ {
+  "nom": "Jouy-en-Josas",
+  "code": "78322",
+  "codesPostaux": [
+   "78350"
+  ],
+  "codeDepartement": "78",
+  "population": 7981
+ },
+ {
+  "nom": "Jouy-Mauvoisin",
+  "code": "78324",
+  "codesPostaux": [
+   "78200"
+  ],
+  "codeDepartement": "78",
+  "population": 554
+ },
+ {
+  "nom": "Jumeauville",
+  "code": "78325",
+  "codesPostaux": [
+   "78580"
+  ],
+  "codeDepartement": "78",
+  "population": 638
+ },
+ {
+  "nom": "Juziers",
+  "code": "78327",
+  "codesPostaux": [
+   "78820"
+  ],
+  "codeDepartement": "78",
+  "population": 4065
+ },
+ {
+  "nom": "Lainville-en-Vexin",
+  "code": "78329",
+  "codesPostaux": [
+   "78440"
+  ],
+  "codeDepartement": "78",
+  "population": 805
+ },
+ {
+  "nom": "Lévis-Saint-Nom",
+  "code": "78334",
+  "codesPostaux": [
+   "78320"
+  ],
+  "codeDepartement": "78",
+  "population": 1603
+ },
+ {
+  "nom": "Limay",
+  "code": "78335",
+  "codesPostaux": [
+   "78520"
+  ],
+  "codeDepartement": "78",
+  "population": 17885
+ },
+ {
+  "nom": "Limetz-Villez",
+  "code": "78337",
+  "codesPostaux": [
+   "78270"
+  ],
+  "codeDepartement": "78",
+  "population": 2110
+ },
+ {
+  "nom": "Les Loges-en-Josas",
+  "code": "78343",
+  "codesPostaux": [
+   "78350"
+  ],
+  "codeDepartement": "78",
+  "population": 1645
+ },
+ {
+  "nom": "Lommoye",
+  "code": "78344",
+  "codesPostaux": [
+   "78270"
+  ],
+  "codeDepartement": "78",
+  "population": 639
+ },
+ {
+  "nom": "Longnes",
+  "code": "78346",
+  "codesPostaux": [
+   "78980"
+  ],
+  "codeDepartement": "78",
+  "population": 1601
+ },
+ {
+  "nom": "Longvilliers",
+  "code": "78349",
+  "codesPostaux": [
+   "78730"
+  ],
+  "codeDepartement": "78",
+  "population": 496
+ },
+ {
+  "nom": "Louveciennes",
+  "code": "78350",
+  "codesPostaux": [
+   "78430"
+  ],
+  "codeDepartement": "78",
+  "population": 7990
+ },
+ {
+  "nom": "Magnanville",
+  "code": "78354",
+  "codesPostaux": [
+   "78200"
+  ],
+  "codeDepartement": "78",
+  "population": 6383
+ },
+ {
+  "nom": "Magny-les-Hameaux",
+  "code": "78356",
+  "codesPostaux": [
+   "78114"
+  ],
+  "codeDepartement": "78",
+  "population": 9386
+ },
+ {
+  "nom": "Maisons-Laffitte",
+  "code": "78358",
+  "codesPostaux": [
+   "78600"
+  ],
+  "codeDepartement": "78",
+  "population": 23093
+ },
+ {
+  "nom": "Mantes-la-Jolie",
+  "code": "78361",
+  "codesPostaux": [
+   "78200"
+  ],
+  "codeDepartement": "78",
+  "population": 43526
+ },
+ {
+  "nom": "Mantes-la-Ville",
+  "code": "78362",
+  "codesPostaux": [
+   "78711"
+  ],
+  "codeDepartement": "78",
+  "population": 22332
+ },
+ {
+  "nom": "Marcq",
+  "code": "78364",
+  "codesPostaux": [
+   "78770"
+  ],
+  "codeDepartement": "78",
+  "population": 802
+ },
+ {
+  "nom": "Mareil-le-Guyon",
+  "code": "78366",
+  "codesPostaux": [
+   "78490"
+  ],
+  "codeDepartement": "78",
+  "population": 420
+ },
+ {
+  "nom": "Mareil-Marly",
+  "code": "78367",
+  "codesPostaux": [
+   "78750"
+  ],
+  "codeDepartement": "78",
+  "population": 4141
+ },
+ {
+  "nom": "Mareil-sur-Mauldre",
+  "code": "78368",
+  "codesPostaux": [
+   "78124"
+  ],
+  "codeDepartement": "78",
+  "population": 1776
+ },
+ {
+  "nom": "Marly-le-Roi",
+  "code": "78372",
+  "codesPostaux": [
+   "78160"
+  ],
+  "codeDepartement": "78",
+  "population": 16756
+ },
+ {
+  "nom": "Maule",
+  "code": "78380",
+  "codesPostaux": [
+   "78580"
+  ],
+  "codeDepartement": "78",
+  "population": 6083
+ },
+ {
+  "nom": "Maulette",
+  "code": "78381",
+  "codesPostaux": [
+   "78550"
+  ],
+  "codeDepartement": "78",
+  "population": 1088
+ },
+ {
+  "nom": "Maurecourt",
+  "code": "78382",
+  "codesPostaux": [
+   "78780"
+  ],
+  "codeDepartement": "78",
+  "population": 4454
+ },
+ {
+  "nom": "Maurepas",
+  "code": "78383",
+  "codesPostaux": [
+   "78310"
+  ],
+  "codeDepartement": "78",
+  "population": 20629
+ },
+ {
+  "nom": "Médan",
+  "code": "78384",
+  "codesPostaux": [
+   "78670"
+  ],
+  "codeDepartement": "78",
+  "population": 1289
+ },
+ {
+  "nom": "Ménerville",
+  "code": "78385",
+  "codesPostaux": [
+   "78200"
+  ],
+  "codeDepartement": "78",
+  "population": 216
+ },
+ {
+  "nom": "Méré",
+  "code": "78389",
+  "codesPostaux": [
+   "78490"
+  ],
+  "codeDepartement": "78",
+  "population": 1731
+ },
+ {
+  "nom": "Méricourt",
+  "code": "78391",
+  "codesPostaux": [
+   "78270"
+  ],
+  "codeDepartement": "78",
+  "population": 383
+ },
+ {
+  "nom": "Le Mesnil-le-Roi",
+  "code": "78396",
+  "codesPostaux": [
+   "78600"
+  ],
+  "codeDepartement": "78",
+  "population": 6332
+ },
+ {
+  "nom": "Le Mesnil-Saint-Denis",
+  "code": "78397",
+  "codesPostaux": [
+   "78320"
+  ],
+  "codeDepartement": "78",
+  "population": 7276
+ },
+ {
+  "nom": "Les Mesnuls",
+  "code": "78398",
+  "codesPostaux": [
+   "78490"
+  ],
+  "codeDepartement": "78",
+  "population": 910
+ },
+ {
+  "nom": "Meulan-en-Yvelines",
+  "code": "78401",
+  "codesPostaux": [
+   "78250"
+  ],
+  "codeDepartement": "78",
+  "population": 8950
+ },
+ {
+  "nom": "Mézières-sur-Seine",
+  "code": "78402",
+  "codesPostaux": [
+   "78970"
+  ],
+  "codeDepartement": "78",
+  "population": 3923
+ },
+ {
+  "nom": "Mézy-sur-Seine",
+  "code": "78403",
+  "codesPostaux": [
+   "78250"
+  ],
+  "codeDepartement": "78",
+  "population": 2242
+ },
+ {
+  "nom": "Millemont",
+  "code": "78404",
+  "codesPostaux": [
+   "78940"
+  ],
+  "codeDepartement": "78",
+  "population": 272
+ },
+ {
+  "nom": "Milon-la-Chapelle",
+  "code": "78406",
+  "codesPostaux": [
+   "78470"
+  ],
+  "codeDepartement": "78",
+  "population": 295
+ },
+ {
+  "nom": "Mittainville",
+  "code": "78407",
+  "codesPostaux": [
+   "78125"
+  ],
+  "codeDepartement": "78",
+  "population": 659
+ },
+ {
+  "nom": "Moisson",
+  "code": "78410",
+  "codesPostaux": [
+   "78840"
+  ],
+  "codeDepartement": "78",
+  "population": 902
+ },
+ {
+  "nom": "Mondreville",
+  "code": "78413",
+  "codesPostaux": [
+   "78980"
+  ],
+  "codeDepartement": "78",
+  "population": 381
+ },
+ {
+  "nom": "Montainville",
+  "code": "78415",
+  "codesPostaux": [
+   "78124"
+  ],
+  "codeDepartement": "78",
+  "population": 589
+ },
+ {
+  "nom": "Montalet-le-Bois",
+  "code": "78416",
+  "codesPostaux": [
+   "78440"
+  ],
+  "codeDepartement": "78",
+  "population": 322
+ },
+ {
+  "nom": "Montchauvet",
+  "code": "78417",
+  "codesPostaux": [
+   "78790"
+  ],
+  "codeDepartement": "78",
+  "population": 275
+ },
+ {
+  "nom": "Montesson",
+  "code": "78418",
+  "codesPostaux": [
+   "78360"
+  ],
+  "codeDepartement": "78",
+  "population": 14549
+ },
+ {
+  "nom": "Montfort-l'Amaury",
+  "code": "78420",
+  "codesPostaux": [
+   "78490"
+  ],
+  "codeDepartement": "78",
+  "population": 2779
+ },
+ {
+  "nom": "Montigny-le-Bretonneux",
+  "code": "78423",
+  "codesPostaux": [
+   "78180"
+  ],
+  "codeDepartement": "78",
+  "population": 32465
+ },
+ {
+  "nom": "Morainvilliers",
+  "code": "78431",
+  "codesPostaux": [
+   "78630"
+  ],
+  "codeDepartement": "78",
+  "population": 3120
+ },
+ {
+  "nom": "Mousseaux-sur-Seine",
+  "code": "78437",
+  "codesPostaux": [
+   "78270"
+  ],
+  "codeDepartement": "78",
+  "population": 689
+ },
+ {
+  "nom": "Mulcent",
+  "code": "78439",
+  "codesPostaux": [
+   "78790"
+  ],
+  "codeDepartement": "78",
+  "population": 128
+ },
+ {
+  "nom": "Les Mureaux",
+  "code": "78440",
+  "codesPostaux": [
+   "78130"
+  ],
+  "codeDepartement": "78",
+  "population": 34632
+ },
+ {
+  "nom": "Neauphle-le-Château",
+  "code": "78442",
+  "codesPostaux": [
+   "78640"
+  ],
+  "codeDepartement": "78",
+  "population": 3250
+ },
+ {
+  "nom": "Neauphle-le-Vieux",
+  "code": "78443",
+  "codesPostaux": [
+   "78640"
+  ],
+  "codeDepartement": "78",
+  "population": 937
+ },
+ {
+  "nom": "Neauphlette",
+  "code": "78444",
+  "codesPostaux": [
+   "78980"
+  ],
+  "codeDepartement": "78",
+  "population": 871
+ },
+ {
+  "nom": "Nézel",
+  "code": "78451",
+  "codesPostaux": [
+   "78410"
+  ],
+  "codeDepartement": "78",
+  "population": 1139
+ },
+ {
+  "nom": "Noisy-le-Roi",
+  "code": "78455",
+  "codesPostaux": [
+   "78590"
+  ],
+  "codeDepartement": "78",
+  "population": 7713
+ },
+ {
+  "nom": "Oinville-sur-Montcient",
+  "code": "78460",
+  "codesPostaux": [
+   "78250"
+  ],
+  "codeDepartement": "78",
+  "population": 1131
+ },
+ {
+  "nom": "Orcemont",
+  "code": "78464",
+  "codesPostaux": [
+   "78125"
+  ],
+  "codeDepartement": "78",
+  "population": 985
+ },
+ {
+  "nom": "Orgerus",
+  "code": "78465",
+  "codesPostaux": [
+   "78910"
+  ],
+  "codeDepartement": "78",
+  "population": 2489
+ },
+ {
+  "nom": "Orgeval",
+  "code": "78466",
+  "codesPostaux": [
+   "78630"
+  ],
+  "codeDepartement": "78",
+  "population": 7252
+ },
+ {
+  "nom": "Orphin",
+  "code": "78470",
+  "codesPostaux": [
+   "78125"
+  ],
+  "codeDepartement": "78",
+  "population": 875
+ },
+ {
+  "nom": "Orsonville",
+  "code": "78472",
+  "codesPostaux": [
+   "78660"
+  ],
+  "codeDepartement": "78",
+  "population": 325
+ },
+ {
+  "nom": "Orvilliers",
+  "code": "78474",
+  "codesPostaux": [
+   "78910"
+  ],
+  "codeDepartement": "78",
+  "population": 925
+ },
+ {
+  "nom": "Osmoy",
+  "code": "78475",
+  "codesPostaux": [
+   "78910"
+  ],
+  "codeDepartement": "78",
+  "population": 413
+ },
+ {
+  "nom": "Paray-Douaville",
+  "code": "78478",
+  "codesPostaux": [
+   "78660"
+  ],
+  "codeDepartement": "78",
+  "population": 218
+ },
+ {
+  "nom": "Le Pecq",
+  "code": "78481",
+  "codesPostaux": [
+   "78230"
+  ],
+  "codeDepartement": "78",
+  "population": 16059
+ },
+ {
+  "nom": "Perdreauville",
+  "code": "78484",
+  "codesPostaux": [
+   "78200"
+  ],
+  "codeDepartement": "78",
+  "population": 701
+ },
+ {
+  "nom": "Le Perray-en-Yvelines",
+  "code": "78486",
+  "codesPostaux": [
+   "78610"
+  ],
+  "codeDepartement": "78",
+  "population": 6480
+ },
+ {
+  "nom": "Plaisir",
+  "code": "78490",
+  "codesPostaux": [
+   "78370"
+  ],
+  "codeDepartement": "78",
+  "population": 31811
+ },
+ {
+  "nom": "Poigny-la-Forêt",
+  "code": "78497",
+  "codesPostaux": [
+   "78125"
+  ],
+  "codeDepartement": "78",
+  "population": 957
+ },
+ {
+  "nom": "Poissy",
+  "code": "78498",
+  "codesPostaux": [
+   "78300"
+  ],
+  "codeDepartement": "78",
+  "population": 40983
+ },
+ {
+  "nom": "Ponthévrard",
+  "code": "78499",
+  "codesPostaux": [
+   "78730"
+  ],
+  "codeDepartement": "78",
+  "population": 693
+ },
+ {
+  "nom": "Porcheville",
+  "code": "78501",
+  "codesPostaux": [
+   "78440"
+  ],
+  "codeDepartement": "78",
+  "population": 3382
+ },
+ {
+  "nom": "Le Port-Marly",
+  "code": "78502",
+  "codesPostaux": [
+   "78560"
+  ],
+  "codeDepartement": "78",
+  "population": 5559
+ },
+ {
+  "nom": "Prunay-le-Temple",
+  "code": "78505",
+  "codesPostaux": [
+   "78910"
+  ],
+  "codeDepartement": "78",
+  "population": 409
+ },
+ {
+  "nom": "Prunay-en-Yvelines",
+  "code": "78506",
+  "codesPostaux": [
+   "78660"
+  ],
+  "codeDepartement": "78",
+  "population": 808
+ },
+ {
+  "nom": "La Queue-les-Yvelines",
+  "code": "78513",
+  "codesPostaux": [
+   "78940"
+  ],
+  "codeDepartement": "78",
+  "population": 2629
+ },
+ {
+  "nom": "Raizeux",
+  "code": "78516",
+  "codesPostaux": [
+   "78125"
+  ],
+  "codeDepartement": "78",
+  "population": 970
+ },
+ {
+  "nom": "Rambouillet",
+  "code": "78517",
+  "codesPostaux": [
+   "78120"
+  ],
+  "codeDepartement": "78",
+  "population": 27724
+ },
+ {
+  "nom": "Rennemoulin",
+  "code": "78518",
+  "codesPostaux": [
+   "78590"
+  ],
+  "codeDepartement": "78",
+  "population": 116
+ },
+ {
+  "nom": "Richebourg",
+  "code": "78520",
+  "codesPostaux": [
+   "78550"
+  ],
+  "codeDepartement": "78",
+  "population": 1570
+ },
+ {
+  "nom": "Rochefort-en-Yvelines",
+  "code": "78522",
+  "codesPostaux": [
+   "78730"
+  ],
+  "codeDepartement": "78",
+  "population": 910
+ },
+ {
+  "nom": "Rolleboise",
+  "code": "78528",
+  "codesPostaux": [
+   "78270"
+  ],
+  "codeDepartement": "78",
+  "population": 346
+ },
+ {
+  "nom": "Rosay",
+  "code": "78530",
+  "codesPostaux": [
+   "78790"
+  ],
+  "codeDepartement": "78",
+  "population": 387
+ },
+ {
+  "nom": "Rosny-sur-Seine",
+  "code": "78531",
+  "codesPostaux": [
+   "78710"
+  ],
+  "codeDepartement": "78",
+  "population": 7328
+ },
+ {
+  "nom": "Sailly",
+  "code": "78536",
+  "codesPostaux": [
+   "78440"
+  ],
+  "codeDepartement": "78",
+  "population": 354
+ },
+ {
+  "nom": "Saint-Arnoult-en-Yvelines",
+  "code": "78537",
+  "codesPostaux": [
+   "78730"
+  ],
+  "codeDepartement": "78",
+  "population": 5875
+ },
+ {
+  "nom": "Saint-Cyr-l'École",
+  "code": "78545",
+  "codesPostaux": [
+   "78210"
+  ],
+  "codeDepartement": "78",
+  "population": 21268
+ },
+ {
+  "nom": "Saint-Forget",
+  "code": "78548",
+  "codesPostaux": [
+   "78720"
+  ],
+  "codeDepartement": "78",
+  "population": 436
+ },
+ {
+  "nom": "Saint-Germain-de-la-Grange",
+  "code": "78550",
+  "codesPostaux": [
+   "78640"
+  ],
+  "codeDepartement": "78",
+  "population": 1847
+ },
+ {
+  "nom": "Saint-Germain-en-Laye",
+  "code": "78551",
+  "codesPostaux": [
+   "78100",
+   "78112"
+  ],
+  "codeDepartement": "78",
+  "population": 45931
+ },
+ {
+  "nom": "Saint-Hilarion",
+  "code": "78557",
+  "codesPostaux": [
+   "78125"
+  ],
+  "codeDepartement": "78",
+  "population": 999
+ },
+ {
+  "nom": "Saint-Illiers-la-Ville",
+  "code": "78558",
+  "codesPostaux": [
+   "78980"
+  ],
+  "codeDepartement": "78",
+  "population": 350
+ },
+ {
+  "nom": "Saint-Illiers-le-Bois",
+  "code": "78559",
+  "codesPostaux": [
+   "78980"
+  ],
+  "codeDepartement": "78",
+  "population": 449
+ },
+ {
+  "nom": "Saint-Lambert",
+  "code": "78561",
+  "codesPostaux": [
+   "78470"
+  ],
+  "codeDepartement": "78",
+  "population": 447
+ },
+ {
+  "nom": "Saint-Léger-en-Yvelines",
+  "code": "78562",
+  "codesPostaux": [
+   "78610"
+  ],
+  "codeDepartement": "78",
+  "population": 1468
+ },
+ {
+  "nom": "Saint-Martin-de-Bréthencourt",
+  "code": "78564",
+  "codesPostaux": [
+   "78660"
+  ],
+  "codeDepartement": "78",
+  "population": 690
+ },
+ {
+  "nom": "Saint-Martin-des-Champs",
+  "code": "78565",
+  "codesPostaux": [
+   "78790"
+  ],
+  "codeDepartement": "78",
+  "population": 304
+ },
+ {
+  "nom": "Saint-Martin-la-Garenne",
+  "code": "78567",
+  "codesPostaux": [
+   "78520"
+  ],
+  "codeDepartement": "78",
+  "population": 942
+ },
+ {
+  "nom": "Sainte-Mesme",
+  "code": "78569",
+  "codesPostaux": [
+   "78730"
+  ],
+  "codeDepartement": "78",
+  "population": 904
+ },
+ {
+  "nom": "Saint-Nom-la-Bretèche",
+  "code": "78571",
+  "codesPostaux": [
+   "78860"
+  ],
+  "codeDepartement": "78",
+  "population": 4965
+ },
+ {
+  "nom": "Saint-Rémy-lès-Chevreuse",
+  "code": "78575",
+  "codesPostaux": [
+   "78470"
+  ],
+  "codeDepartement": "78",
+  "population": 7747
+ },
+ {
+  "nom": "Saint-Rémy-l'Honoré",
+  "code": "78576",
+  "codesPostaux": [
+   "78690"
+  ],
+  "codeDepartement": "78",
+  "population": 1689
+ },
+ {
+  "nom": "Sartrouville",
+  "code": "78586",
+  "codesPostaux": [
+   "78500"
+  ],
+  "codeDepartement": "78",
+  "population": 52763
+ },
+ {
+  "nom": "Saulx-Marchais",
+  "code": "78588",
+  "codesPostaux": [
+   "78650"
+  ],
+  "codeDepartement": "78",
+  "population": 950
+ },
+ {
+  "nom": "Senlisse",
+  "code": "78590",
+  "codesPostaux": [
+   "78720"
+  ],
+  "codeDepartement": "78",
+  "population": 511
+ },
+ {
+  "nom": "Septeuil",
+  "code": "78591",
+  "codesPostaux": [
+   "78790"
+  ],
+  "codeDepartement": "78",
+  "population": 2264
+ },
+ {
+  "nom": "Soindres",
+  "code": "78597",
+  "codesPostaux": [
+   "78200"
+  ],
+  "codeDepartement": "78",
+  "population": 757
+ },
+ {
+  "nom": "Sonchamp",
+  "code": "78601",
+  "codesPostaux": [
+   "78120"
+  ],
+  "codeDepartement": "78",
+  "population": 1678
+ },
+ {
+  "nom": "Tacoignières",
+  "code": "78605",
+  "codesPostaux": [
+   "78910"
+  ],
+  "codeDepartement": "78",
+  "population": 1219
+ },
+ {
+  "nom": "Le Tartre-Gaudran",
+  "code": "78606",
+  "codesPostaux": [
+   "78113"
+  ],
+  "codeDepartement": "78",
+  "population": 37
+ },
+ {
+  "nom": "Le Tertre-Saint-Denis",
+  "code": "78608",
+  "codesPostaux": [
+   "78980"
+  ],
+  "codeDepartement": "78",
+  "population": 137
+ },
+ {
+  "nom": "Tessancourt-sur-Aubette",
+  "code": "78609",
+  "codesPostaux": [
+   "78250"
+  ],
+  "codeDepartement": "78",
+  "population": 966
+ },
+ {
+  "nom": "Thiverval-Grignon",
+  "code": "78615",
+  "codesPostaux": [
+   "78850"
+  ],
+  "codeDepartement": "78",
+  "population": 1023
+ },
+ {
+  "nom": "Thoiry",
+  "code": "78616",
+  "codesPostaux": [
+   "78770"
+  ],
+  "codeDepartement": "78",
+  "population": 1434
+ },
+ {
+  "nom": "Tilly",
+  "code": "78618",
+  "codesPostaux": [
+   "78790"
+  ],
+  "codeDepartement": "78",
+  "population": 530
+ },
+ {
+  "nom": "Toussus-le-Noble",
+  "code": "78620",
+  "codesPostaux": [
+   "78117"
+  ],
+  "codeDepartement": "78",
+  "population": 1172
+ },
+ {
+  "nom": "Trappes",
+  "code": "78621",
+  "codesPostaux": [
+   "78190"
+  ],
+  "codeDepartement": "78",
+  "population": 34689
+ },
+ {
+  "nom": "Le Tremblay-sur-Mauldre",
+  "code": "78623",
+  "codesPostaux": [
+   "78490"
+  ],
+  "codeDepartement": "78",
+  "population": 930
+ },
+ {
+  "nom": "Triel-sur-Seine",
+  "code": "78624",
+  "codesPostaux": [
+   "78510"
+  ],
+  "codeDepartement": "78",
+  "population": 12206
+ },
+ {
+  "nom": "Vaux-sur-Seine",
+  "code": "78638",
+  "codesPostaux": [
+   "78740"
+  ],
+  "codeDepartement": "78",
+  "population": 5202
+ },
+ {
+  "nom": "Vélizy-Villacoublay",
+  "code": "78640",
+  "codesPostaux": [
+   "78140"
+  ],
+  "codeDepartement": "78",
+  "population": 23011
+ },
+ {
+  "nom": "Verneuil-sur-Seine",
+  "code": "78642",
+  "codesPostaux": [
+   "78480"
+  ],
+  "codeDepartement": "78",
+  "population": 16280
+ },
+ {
+  "nom": "Vernouillet",
+  "code": "78643",
+  "codesPostaux": [
+   "78540"
+  ],
+  "codeDepartement": "78",
+  "population": 9699
+ },
+ {
+  "nom": "La Verrière",
+  "code": "78644",
+  "codesPostaux": [
+   "78320"
+  ],
+  "codeDepartement": "78",
+  "population": 5994
+ },
+ {
+  "nom": "Versailles",
+  "code": "78646",
+  "codesPostaux": [
+   "78000"
+  ],
+  "codeDepartement": "78",
+  "population": 84095
+ },
+ {
+  "nom": "Vert",
+  "code": "78647",
+  "codesPostaux": [
+   "78930"
+  ],
+  "codeDepartement": "78",
+  "population": 852
+ },
+ {
+  "nom": "Le Vésinet",
+  "code": "78650",
+  "codesPostaux": [
+   "78110"
+  ],
+  "codeDepartement": "78",
+  "population": 15554
+ },
+ {
+  "nom": "Vicq",
+  "code": "78653",
+  "codesPostaux": [
+   "78490"
+  ],
+  "codeDepartement": "78",
+  "population": 389
+ },
+ {
+  "nom": "Vieille-Église-en-Yvelines",
+  "code": "78655",
+  "codesPostaux": [
+   "78125"
+  ],
+  "codeDepartement": "78",
+  "population": 652
+ },
+ {
+  "nom": "La Villeneuve-en-Chevrie",
+  "code": "78668",
+  "codesPostaux": [
+   "78270"
+  ],
+  "codeDepartement": "78",
+  "population": 665
+ },
+ {
+  "nom": "Villennes-sur-Seine",
+  "code": "78672",
+  "codesPostaux": [
+   "78670"
+  ],
+  "codeDepartement": "78",
+  "population": 5952
+ },
+ {
+  "nom": "Villepreux",
+  "code": "78674",
+  "codesPostaux": [
+   "78450"
+  ],
+  "codeDepartement": "78",
+  "population": 11931
+ },
+ {
+  "nom": "Villette",
+  "code": "78677",
+  "codesPostaux": [
+   "78930"
+  ],
+  "codeDepartement": "78",
+  "population": 524
+ },
+ {
+  "nom": "Villiers-le-Mahieu",
+  "code": "78681",
+  "codesPostaux": [
+   "78770"
+  ],
+  "codeDepartement": "78",
+  "population": 888
+ },
+ {
+  "nom": "Villiers-Saint-Frédéric",
+  "code": "78683",
+  "codesPostaux": [
+   "78640"
+  ],
+  "codeDepartement": "78",
+  "population": 3395
+ },
+ {
+  "nom": "Viroflay",
+  "code": "78686",
+  "codesPostaux": [
+   "78220"
+  ],
+  "codeDepartement": "78",
+  "population": 17237
+ },
+ {
+  "nom": "Voisins-le-Bretonneux",
+  "code": "78688",
+  "codesPostaux": [
+   "78960"
+  ],
+  "codeDepartement": "78",
+  "population": 10624
+ },
+ {
+  "nom": "Abbéville-la-Rivière",
+  "code": "91001",
+  "codesPostaux": [
+   "91150"
+  ],
+  "codeDepartement": "91",
+  "population": 322
+ },
+ {
+  "nom": "Angerville",
+  "code": "91016",
+  "codesPostaux": [
+   "91670"
+  ],
+  "codeDepartement": "91",
+  "population": 4428
+ },
+ {
+  "nom": "Angervilliers",
+  "code": "91017",
+  "codesPostaux": [
+   "91470"
+  ],
+  "codeDepartement": "91",
+  "population": 1772
+ },
+ {
+  "nom": "Arpajon",
+  "code": "91021",
+  "codesPostaux": [
+   "91290"
+  ],
+  "codeDepartement": "91",
+  "population": 11698
+ },
+ {
+  "nom": "Arrancourt",
+  "code": "91022",
+  "codesPostaux": [
+   "91690"
+  ],
+  "codeDepartement": "91",
+  "population": 115
+ },
+ {
+  "nom": "Athis-Mons",
+  "code": "91027",
+  "codesPostaux": [
+   "91200"
+  ],
+  "codeDepartement": "91",
+  "population": 36613
+ },
+ {
+  "nom": "Authon-la-Plaine",
+  "code": "91035",
+  "codesPostaux": [
+   "91410"
+  ],
+  "codeDepartement": "91",
+  "population": 368
+ },
+ {
+  "nom": "Auvernaux",
+  "code": "91037",
+  "codesPostaux": [
+   "91830"
+  ],
+  "codeDepartement": "91",
+  "population": 332
+ },
+ {
+  "nom": "Auvers-Saint-Georges",
+  "code": "91038",
+  "codesPostaux": [
+   "91580"
+  ],
+  "codeDepartement": "91",
+  "population": 1223
+ },
+ {
+  "nom": "Avrainville",
+  "code": "91041",
+  "codesPostaux": [
+   "91630"
+  ],
+  "codeDepartement": "91",
+  "population": 1052
+ },
+ {
+  "nom": "Ballainvilliers",
+  "code": "91044",
+  "codesPostaux": [
+   "91160"
+  ],
+  "codeDepartement": "91",
+  "population": 4904
+ },
+ {
+  "nom": "Ballancourt-sur-Essonne",
+  "code": "91045",
+  "codesPostaux": [
+   "91610"
+  ],
+  "codeDepartement": "91",
+  "population": 8191
+ },
+ {
+  "nom": "Baulne",
+  "code": "91047",
+  "codesPostaux": [
+   "91590"
+  ],
+  "codeDepartement": "91",
+  "population": 1448
+ },
+ {
+  "nom": "Bièvres",
+  "code": "91064",
+  "codesPostaux": [
+   "91570"
+  ],
+  "codeDepartement": "91",
+  "population": 4686
+ },
+ {
+  "nom": "Blandy",
+  "code": "91067",
+  "codesPostaux": [
+   "91150"
+  ],
+  "codeDepartement": "91",
+  "population": 111
+ },
+ {
+  "nom": "Boigneville",
+  "code": "91069",
+  "codesPostaux": [
+   "91720"
+  ],
+  "codeDepartement": "91",
+  "population": 369
+ },
+ {
+  "nom": "Bois-Herpin",
+  "code": "91075",
+  "codesPostaux": [
+   "91150"
+  ],
+  "codeDepartement": "91",
+  "population": 81
+ },
+ {
+  "nom": "Boissy-la-Rivière",
+  "code": "91079",
+  "codesPostaux": [
+   "91690"
+  ],
+  "codeDepartement": "91",
+  "population": 550
+ },
+ {
+  "nom": "Boissy-le-Cutté",
+  "code": "91080",
+  "codesPostaux": [
+   "91590"
+  ],
+  "codeDepartement": "91",
+  "population": 1331
+ },
+ {
+  "nom": "Boissy-le-Sec",
+  "code": "91081",
+  "codesPostaux": [
+   "91870"
+  ],
+  "codeDepartement": "91",
+  "population": 690
+ },
+ {
+  "nom": "Boissy-sous-Saint-Yon",
+  "code": "91085",
+  "codesPostaux": [
+   "91790"
+  ],
+  "codeDepartement": "91",
+  "population": 3882
+ },
+ {
+  "nom": "Bondoufle",
+  "code": "91086",
+  "codesPostaux": [
+   "91070"
+  ],
+  "codeDepartement": "91",
+  "population": 10767
+ },
+ {
+  "nom": "Boullay-les-Troux",
+  "code": "91093",
+  "codesPostaux": [
+   "91470"
+  ],
+  "codeDepartement": "91",
+  "population": 624
+ },
+ {
+  "nom": "Bouray-sur-Juine",
+  "code": "91095",
+  "codesPostaux": [
+   "91850"
+  ],
+  "codeDepartement": "91",
+  "population": 2108
+ },
+ {
+  "nom": "Boussy-Saint-Antoine",
+  "code": "91097",
+  "codesPostaux": [
+   "91800"
+  ],
+  "codeDepartement": "91",
+  "population": 8097
+ },
+ {
+  "nom": "Boutervilliers",
+  "code": "91098",
+  "codesPostaux": [
+   "91150"
+  ],
+  "codeDepartement": "91",
+  "population": 429
+ },
+ {
+  "nom": "Boutigny-sur-Essonne",
+  "code": "91099",
+  "codesPostaux": [
+   "91820"
+  ],
+  "codeDepartement": "91",
+  "population": 3146
+ },
+ {
+  "nom": "Bouville",
+  "code": "91100",
+  "codesPostaux": [
+   "91880"
+  ],
+  "codeDepartement": "91",
+  "population": 669
+ },
+ {
+  "nom": "Brétigny-sur-Orge",
+  "code": "91103",
+  "codesPostaux": [
+   "91220"
+  ],
+  "codeDepartement": "91",
+  "population": 26658
+ },
+ {
+  "nom": "Breuillet",
+  "code": "91105",
+  "codesPostaux": [
+   "91650"
+  ],
+  "codeDepartement": "91",
+  "population": 9157
+ },
+ {
+  "nom": "Breux-Jouy",
+  "code": "91106",
+  "codesPostaux": [
+   "91650"
+  ],
+  "codeDepartement": "91",
+  "population": 1285
+ },
+ {
+  "nom": "Brières-les-Scellés",
+  "code": "91109",
+  "codesPostaux": [
+   "91150"
+  ],
+  "codeDepartement": "91",
+  "population": 1186
+ },
+ {
+  "nom": "Briis-sous-Forges",
+  "code": "91111",
+  "codesPostaux": [
+   "91640"
+  ],
+  "codeDepartement": "91",
+  "population": 3342
+ },
+ {
+  "nom": "Brouy",
+  "code": "91112",
+  "codesPostaux": [
+   "91150"
+  ],
+  "codeDepartement": "91",
+  "population": 134
+ },
+ {
+  "nom": "Brunoy",
+  "code": "91114",
+  "codesPostaux": [
+   "91800"
+  ],
+  "codeDepartement": "91",
+  "population": 25643
+ },
+ {
+  "nom": "Bruyères-le-Châtel",
+  "code": "91115",
+  "codesPostaux": [
+   "91680"
+  ],
+  "codeDepartement": "91",
+  "population": 3788
+ },
+ {
+  "nom": "Buno-Bonnevaux",
+  "code": "91121",
+  "codesPostaux": [
+   "91720"
+  ],
+  "codeDepartement": "91",
+  "population": 527
+ },
+ {
+  "nom": "Bures-sur-Yvette",
+  "code": "91122",
+  "codesPostaux": [
+   "91440"
+  ],
+  "codeDepartement": "91",
+  "population": 9548
+ },
+ {
+  "nom": "Cerny",
+  "code": "91129",
+  "codesPostaux": [
+   "91590"
+  ],
+  "codeDepartement": "91",
+  "population": 3531
+ },
+ {
+  "nom": "Chalo-Saint-Mars",
+  "code": "91130",
+  "codesPostaux": [
+   "91780"
+  ],
+  "codeDepartement": "91",
+  "population": 1053
+ },
+ {
+  "nom": "Chalou-Moulineux",
+  "code": "91131",
+  "codesPostaux": [
+   "91740"
+  ],
+  "codeDepartement": "91",
+  "population": 373
+ },
+ {
+  "nom": "Chamarande",
+  "code": "91132",
+  "codesPostaux": [
+   "91730"
+  ],
+  "codeDepartement": "91",
+  "population": 1089
+ },
+ {
+  "nom": "Champcueil",
+  "code": "91135",
+  "codesPostaux": [
+   "91750"
+  ],
+  "codeDepartement": "91",
+  "population": 2854
+ },
+ {
+  "nom": "Champlan",
+  "code": "91136",
+  "codesPostaux": [
+   "91160"
+  ],
+  "codeDepartement": "91",
+  "population": 2615
+ },
+ {
+  "nom": "Champmotteux",
+  "code": "91137",
+  "codesPostaux": [
+   "91150"
+  ],
+  "codeDepartement": "91",
+  "population": 356
+ },
+ {
+  "nom": "Chatignonville",
+  "code": "91145",
+  "codesPostaux": [
+   "91410"
+  ],
+  "codeDepartement": "91",
+  "population": 72
+ },
+ {
+  "nom": "Chauffour-lès-Étréchy",
+  "code": "91148",
+  "codesPostaux": [
+   "91580"
+  ],
+  "codeDepartement": "91",
+  "population": 132
+ },
+ {
+  "nom": "Cheptainville",
+  "code": "91156",
+  "codesPostaux": [
+   "91630"
+  ],
+  "codeDepartement": "91",
+  "population": 2204
+ },
+ {
+  "nom": "Chevannes",
+  "code": "91159",
+  "codesPostaux": [
+   "91750"
+  ],
+  "codeDepartement": "91",
+  "population": 1550
+ },
+ {
+  "nom": "Chilly-Mazarin",
+  "code": "91161",
+  "codesPostaux": [
+   "91380"
+  ],
+  "codeDepartement": "91",
+  "population": 20443
+ },
+ {
+  "nom": "Corbeil-Essonnes",
+  "code": "91174",
+  "codesPostaux": [
+   "91100"
+  ],
+  "codeDepartement": "91",
+  "population": 54471
+ },
+ {
+  "nom": "Corbreuse",
+  "code": "91175",
+  "codesPostaux": [
+   "91410"
+  ],
+  "codeDepartement": "91",
+  "population": 1640
+ },
+ {
+  "nom": "Le Coudray-Montceaux",
+  "code": "91179",
+  "codesPostaux": [
+   "91830"
+  ],
+  "codeDepartement": "91",
+  "population": 4801
+ },
+ {
+  "nom": "Courances",
+  "code": "91180",
+  "codesPostaux": [
+   "91490"
+  ],
+  "codeDepartement": "91",
+  "population": 348
+ },
+ {
+  "nom": "Courdimanche-sur-Essonne",
+  "code": "91184",
+  "codesPostaux": [
+   "91720"
+  ],
+  "codeDepartement": "91",
+  "population": 276
+ },
+ {
+  "nom": "Courson-Monteloup",
+  "code": "91186",
+  "codesPostaux": [
+   "91680"
+  ],
+  "codeDepartement": "91",
+  "population": 563
+ },
+ {
+  "nom": "Crosne",
+  "code": "91191",
+  "codesPostaux": [
+   "91560"
+  ],
+  "codeDepartement": "91",
+  "population": 9610
+ },
+ {
+  "nom": "Dannemois",
+  "code": "91195",
+  "codesPostaux": [
+   "91490"
+  ],
+  "codeDepartement": "91",
+  "population": 865
+ },
+ {
+  "nom": "D'Huison-Longueville",
+  "code": "91198",
+  "codesPostaux": [
+   "91590"
+  ],
+  "codeDepartement": "91",
+  "population": 1557
+ },
+ {
+  "nom": "Dourdan",
+  "code": "91200",
+  "codesPostaux": [
+   "91410"
+  ],
+  "codeDepartement": "91",
+  "population": 11415
+ },
+ {
+  "nom": "Draveil",
+  "code": "91201",
+  "codesPostaux": [
+   "91210"
+  ],
+  "codeDepartement": "91",
+  "population": 30098
+ },
+ {
+  "nom": "Écharcon",
+  "code": "91204",
+  "codesPostaux": [
+   "91540"
+  ],
+  "codeDepartement": "91",
+  "population": 708
+ },
+ {
+  "nom": "Égly",
+  "code": "91207",
+  "codesPostaux": [
+   "91520"
+  ],
+  "codeDepartement": "91",
+  "population": 7166
+ },
+ {
+  "nom": "Épinay-sous-Sénart",
+  "code": "91215",
+  "codesPostaux": [
+   "91860"
+  ],
+  "codeDepartement": "91",
+  "population": 11611
+ },
+ {
+  "nom": "Épinay-sur-Orge",
+  "code": "91216",
+  "codesPostaux": [
+   "91360"
+  ],
+  "codeDepartement": "91",
+  "population": 10722
+ },
+ {
+  "nom": "Étampes",
+  "code": "91223",
+  "codesPostaux": [
+   "91150"
+  ],
+  "codeDepartement": "91",
+  "population": 26857
+ },
+ {
+  "nom": "Étiolles",
+  "code": "91225",
+  "codesPostaux": [
+   "91450"
+  ],
+  "codeDepartement": "91",
+  "population": 3105
+ },
+ {
+  "nom": "Étréchy",
+  "code": "91226",
+  "codesPostaux": [
+   "91580"
+  ],
+  "codeDepartement": "91",
+  "population": 6986
+ },
+ {
+  "nom": "Évry-Courcouronnes",
+  "code": "91228",
+  "codesPostaux": [
+   "91000",
+   "91080"
+  ],
+  "codeDepartement": "91",
+  "population": 66919
+ },
+ {
+  "nom": "La Ferté-Alais",
+  "code": "91232",
+  "codesPostaux": [
+   "91590"
+  ],
+  "codeDepartement": "91",
+  "population": 3731
+ },
+ {
+  "nom": "Fleury-Mérogis",
+  "code": "91235",
+  "codesPostaux": [
+   "91700"
+  ],
+  "codeDepartement": "91",
+  "population": 13721
+ },
+ {
+  "nom": "Fontaine-la-Rivière",
+  "code": "91240",
+  "codesPostaux": [
+   "91690"
+  ],
+  "codeDepartement": "91",
+  "population": 192
+ },
+ {
+  "nom": "Fontenay-lès-Briis",
+  "code": "91243",
+  "codesPostaux": [
+   "91640"
+  ],
+  "codeDepartement": "91",
+  "population": 2350
+ },
+ {
+  "nom": "Fontenay-le-Vicomte",
+  "code": "91244",
+  "codesPostaux": [
+   "91540"
+  ],
+  "codeDepartement": "91",
+  "population": 1596
+ },
+ {
+  "nom": "La Forêt-le-Roi",
+  "code": "91247",
+  "codesPostaux": [
+   "91410"
+  ],
+  "codeDepartement": "91",
+  "population": 492
+ },
+ {
+  "nom": "La Forêt-Sainte-Croix",
+  "code": "91248",
+  "codesPostaux": [
+   "91150"
+  ],
+  "codeDepartement": "91",
+  "population": 148
+ },
+ {
+  "nom": "Forges-les-Bains",
+  "code": "91249",
+  "codesPostaux": [
+   "91470"
+  ],
+  "codeDepartement": "91",
+  "population": 4241
+ },
+ {
+  "nom": "Gif-sur-Yvette",
+  "code": "91272",
+  "codesPostaux": [
+   "91190"
+  ],
+  "codeDepartement": "91",
+  "population": 22544
+ },
+ {
+  "nom": "Gironville-sur-Essonne",
+  "code": "91273",
+  "codesPostaux": [
+   "91720"
+  ],
+  "codeDepartement": "91",
+  "population": 760
+ },
+ {
+  "nom": "Gometz-la-Ville",
+  "code": "91274",
+  "codesPostaux": [
+   "91400"
+  ],
+  "codeDepartement": "91",
+  "population": 1536
+ },
+ {
+  "nom": "Gometz-le-Châtel",
+  "code": "91275",
+  "codesPostaux": [
+   "91940"
+  ],
+  "codeDepartement": "91",
+  "population": 2630
+ },
+ {
+  "nom": "Les Granges-le-Roi",
+  "code": "91284",
+  "codesPostaux": [
+   "91410"
+  ],
+  "codeDepartement": "91",
+  "population": 1197
+ },
+ {
+  "nom": "Grigny",
+  "code": "91286",
+  "codesPostaux": [
+   "91350"
+  ],
+  "codeDepartement": "91",
+  "population": 26842
+ },
+ {
+  "nom": "Guibeville",
+  "code": "91292",
+  "codesPostaux": [
+   "91630"
+  ],
+  "codeDepartement": "91",
+  "population": 923
+ },
+ {
+  "nom": "Guigneville-sur-Essonne",
+  "code": "91293",
+  "codesPostaux": [
+   "91590"
+  ],
+  "codeDepartement": "91",
+  "population": 904
+ },
+ {
+  "nom": "Guillerval",
+  "code": "91294",
+  "codesPostaux": [
+   "91690"
+  ],
+  "codeDepartement": "91",
+  "population": 808
+ },
+ {
+  "nom": "Igny",
+  "code": "91312",
+  "codesPostaux": [
+   "91430"
+  ],
+  "codeDepartement": "91",
+  "population": 10833
+ },
+ {
+  "nom": "Itteville",
+  "code": "91315",
+  "codesPostaux": [
+   "91760"
+  ],
+  "codeDepartement": "91",
+  "population": 6746
+ },
+ {
+  "nom": "Janville-sur-Juine",
+  "code": "91318",
+  "codesPostaux": [
+   "91510"
+  ],
+  "codeDepartement": "91",
+  "population": 2041
+ },
+ {
+  "nom": "Janvry",
+  "code": "91319",
+  "codesPostaux": [
+   "91640"
+  ],
+  "codeDepartement": "91",
+  "population": 654
+ },
+ {
+  "nom": "Juvisy-sur-Orge",
+  "code": "91326",
+  "codesPostaux": [
+   "91260"
+  ],
+  "codeDepartement": "91",
+  "population": 19292
+ },
+ {
+  "nom": "Lardy",
+  "code": "91330",
+  "codesPostaux": [
+   "91510"
+  ],
+  "codeDepartement": "91",
+  "population": 5530
+ },
+ {
+  "nom": "Leudeville",
+  "code": "91332",
+  "codesPostaux": [
+   "91630"
+  ],
+  "codeDepartement": "91",
+  "population": 1562
+ },
+ {
+  "nom": "Leuville-sur-Orge",
+  "code": "91333",
+  "codesPostaux": [
+   "91310"
+  ],
+  "codeDepartement": "91",
+  "population": 4271
+ },
+ {
+  "nom": "Limours",
+  "code": "91338",
+  "codesPostaux": [
+   "91470"
+  ],
+  "codeDepartement": "91",
+  "population": 6517
+ },
+ {
+  "nom": "Linas",
+  "code": "91339",
+  "codesPostaux": [
+   "91310"
+  ],
+  "codeDepartement": "91",
+  "population": 7987
+ },
+ {
+  "nom": "Lisses",
+  "code": "91340",
+  "codesPostaux": [
+   "91090"
+  ],
+  "codeDepartement": "91",
+  "population": 7373
+ },
+ {
+  "nom": "Longjumeau",
+  "code": "91345",
+  "codesPostaux": [
+   "91160"
+  ],
+  "codeDepartement": "91",
+  "population": 21996
+ },
+ {
+  "nom": "Longpont-sur-Orge",
+  "code": "91347",
+  "codesPostaux": [
+   "91310"
+  ],
+  "codeDepartement": "91",
+  "population": 6482
+ },
+ {
+  "nom": "Maisse",
+  "code": "91359",
+  "codesPostaux": [
+   "91720"
+  ],
+  "codeDepartement": "91",
+  "population": 2797
+ },
+ {
+  "nom": "Marcoussis",
+  "code": "91363",
+  "codesPostaux": [
+   "91460"
+  ],
+  "codeDepartement": "91",
+  "population": 8618
+ },
+ {
+  "nom": "Marolles-en-Beauce",
+  "code": "91374",
+  "codesPostaux": [
+   "91150"
+  ],
+  "codeDepartement": "91",
+  "population": 237
+ },
+ {
+  "nom": "Marolles-en-Hurepoix",
+  "code": "91376",
+  "codesPostaux": [
+   "91630"
+  ],
+  "codeDepartement": "91",
+  "population": 5708
+ },
+ {
+  "nom": "Massy",
+  "code": "91377",
+  "codesPostaux": [
+   "91300"
+  ],
+  "codeDepartement": "91",
+  "population": 51729
+ },
+ {
+  "nom": "Mauchamps",
+  "code": "91378",
+  "codesPostaux": [
+   "91730"
+  ],
+  "codeDepartement": "91",
+  "population": 387
+ },
+ {
+  "nom": "Mennecy",
+  "code": "91386",
+  "codesPostaux": [
+   "91540"
+  ],
+  "codeDepartement": "91",
+  "population": 16433
+ },
+ {
+  "nom": "Le Mérévillois",
+  "code": "91390",
+  "codesPostaux": [
+   "91660"
+  ],
+  "codeDepartement": "91",
+  "population": 3477
+ },
+ {
+  "nom": "Mérobert",
+  "code": "91393",
+  "codesPostaux": [
+   "91780"
+  ],
+  "codeDepartement": "91",
+  "population": 635
+ },
+ {
+  "nom": "Mespuits",
+  "code": "91399",
+  "codesPostaux": [
+   "91150"
+  ],
+  "codeDepartement": "91",
+  "population": 184
+ },
+ {
+  "nom": "Milly-la-Forêt",
+  "code": "91405",
+  "codesPostaux": [
+   "91490"
+  ],
+  "codeDepartement": "91",
+  "population": 4562
+ },
+ {
+  "nom": "Moigny-sur-École",
+  "code": "91408",
+  "codesPostaux": [
+   "91490"
+  ],
+  "codeDepartement": "91",
+  "population": 1294
+ },
+ {
+  "nom": "Les Molières",
+  "code": "91411",
+  "codesPostaux": [
+   "91470"
+  ],
+  "codeDepartement": "91",
+  "population": 1975
+ },
+ {
+  "nom": "Mondeville",
+  "code": "91412",
+  "codesPostaux": [
+   "91590"
+  ],
+  "codeDepartement": "91",
+  "population": 726
+ },
+ {
+  "nom": "Monnerville",
+  "code": "91414",
+  "codesPostaux": [
+   "91930"
+  ],
+  "codeDepartement": "91",
+  "population": 376
+ },
+ {
+  "nom": "Montgeron",
+  "code": "91421",
+  "codesPostaux": [
+   "91230"
+  ],
+  "codeDepartement": "91",
+  "population": 24022
+ },
+ {
+  "nom": "Montlhéry",
+  "code": "91425",
+  "codesPostaux": [
+   "91310"
+  ],
+  "codeDepartement": "91",
+  "population": 9772
+ },
+ {
+  "nom": "Morangis",
+  "code": "91432",
+  "codesPostaux": [
+   "91420"
+  ],
+  "codeDepartement": "91",
+  "population": 14129
+ },
+ {
+  "nom": "Morigny-Champigny",
+  "code": "91433",
+  "codesPostaux": [
+   "91150"
+  ],
+  "codeDepartement": "91",
+  "population": 4412
+ },
+ {
+  "nom": "Morsang-sur-Orge",
+  "code": "91434",
+  "codesPostaux": [
+   "91390"
+  ],
+  "codeDepartement": "91",
+  "population": 21667
+ },
+ {
+  "nom": "Morsang-sur-Seine",
+  "code": "91435",
+  "codesPostaux": [
+   "91250"
+  ],
+  "codeDepartement": "91",
+  "population": 583
+ },
+ {
+  "nom": "Nainville-les-Roches",
+  "code": "91441",
+  "codesPostaux": [
+   "91750"
+  ],
+  "codeDepartement": "91",
+  "population": 564
+ },
+ {
+  "nom": "La Norville",
+  "code": "91457",
+  "codesPostaux": [
+   "91290"
+  ],
+  "codeDepartement": "91",
+  "population": 4268
+ },
+ {
+  "nom": "Nozay",
+  "code": "91458",
+  "codesPostaux": [
+   "91620"
+  ],
+  "codeDepartement": "91",
+  "population": 4471
+ },
+ {
+  "nom": "Ollainville",
+  "code": "91461",
+  "codesPostaux": [
+   "91340"
+  ],
+  "codeDepartement": "91",
+  "population": 5455
+ },
+ {
+  "nom": "Oncy-sur-École",
+  "code": "91463",
+  "codesPostaux": [
+   "91490"
+  ],
+  "codeDepartement": "91",
+  "population": 1042
+ },
+ {
+  "nom": "Ormoy",
+  "code": "91468",
+  "codesPostaux": [
+   "91540"
+  ],
+  "codeDepartement": "91",
+  "population": 3225
+ },
+ {
+  "nom": "Ormoy-la-Rivière",
+  "code": "91469",
+  "codesPostaux": [
+   "91150"
+  ],
+  "codeDepartement": "91",
+  "population": 943
+ },
+ {
+  "nom": "Orsay",
+  "code": "91471",
+  "codesPostaux": [
+   "91400"
+  ],
+  "codeDepartement": "91",
+  "population": 16498
+ },
+ {
+  "nom": "Orveau",
+  "code": "91473",
+  "codesPostaux": [
+   "91590"
+  ],
+  "codeDepartement": "91",
+  "population": 141
+ },
+ {
+  "nom": "Palaiseau",
+  "code": "91477",
+  "codesPostaux": [
+   "91120"
+  ],
+  "codeDepartement": "91",
+  "population": 37471
+ },
+ {
+  "nom": "Paray-Vieille-Poste",
+  "code": "91479",
+  "codesPostaux": [
+   "91550",
+   "94390"
+  ],
+  "codeDepartement": "91",
+  "population": 8202
+ },
+ {
+  "nom": "Pecqueuse",
+  "code": "91482",
+  "codesPostaux": [
+   "91470"
+  ],
+  "codeDepartement": "91",
+  "population": 580
+ },
+ {
+  "nom": "Le Plessis-Pâté",
+  "code": "91494",
+  "codesPostaux": [
+   "91220"
+  ],
+  "codeDepartement": "91",
+  "population": 4154
+ },
+ {
+  "nom": "Plessis-Saint-Benoist",
+  "code": "91495",
+  "codesPostaux": [
+   "91410"
+  ],
+  "codeDepartement": "91",
+  "population": 325
+ },
+ {
+  "nom": "Prunay-sur-Essonne",
+  "code": "91507",
+  "codesPostaux": [
+   "91720"
+  ],
+  "codeDepartement": "91",
+  "population": 324
+ },
+ {
+  "nom": "Puiselet-le-Marais",
+  "code": "91508",
+  "codesPostaux": [
+   "91150"
+  ],
+  "codeDepartement": "91",
+  "population": 261
+ },
+ {
+  "nom": "Pussay",
+  "code": "91511",
+  "codesPostaux": [
+   "91740"
+  ],
+  "codeDepartement": "91",
+  "population": 2288
+ },
+ {
+  "nom": "Quincy-sous-Sénart",
+  "code": "91514",
+  "codesPostaux": [
+   "91480"
+  ],
+  "codeDepartement": "91",
+  "population": 9477
+ },
+ {
+  "nom": "Richarville",
+  "code": "91519",
+  "codesPostaux": [
+   "91410"
+  ],
+  "codeDepartement": "91",
+  "population": 386
+ },
+ {
+  "nom": "Ris-Orangis",
+  "code": "91521",
+  "codesPostaux": [
+   "91130"
+  ],
+  "codeDepartement": "91",
+  "population": 31189
+ },
+ {
+  "nom": "Roinville",
+  "code": "91525",
+  "codesPostaux": [
+   "91410"
+  ],
+  "codeDepartement": "91",
+  "population": 1319
+ },
+ {
+  "nom": "Roinvilliers",
+  "code": "91526",
+  "codesPostaux": [
+   "91150"
+  ],
+  "codeDepartement": "91",
+  "population": 112
+ },
+ {
+  "nom": "Saclas",
+  "code": "91533",
+  "codesPostaux": [
+   "91690"
+  ],
+  "codeDepartement": "91",
+  "population": 1819
+ },
+ {
+  "nom": "Saclay",
+  "code": "91534",
+  "codesPostaux": [
+   "91400"
+  ],
+  "codeDepartement": "91",
+  "population": 4437
+ },
+ {
+  "nom": "Saint-Aubin",
+  "code": "91538",
+  "codesPostaux": [
+   "91190"
+  ],
+  "codeDepartement": "91",
+  "population": 661
+ },
+ {
+  "nom": "Saint-Chéron",
+  "code": "91540",
+  "codesPostaux": [
+   "91530"
+  ],
+  "codeDepartement": "91",
+  "population": 5132
+ },
+ {
+  "nom": "Saint-Cyr-la-Rivière",
+  "code": "91544",
+  "codesPostaux": [
+   "91690"
+  ],
+  "codeDepartement": "91",
+  "population": 466
+ },
+ {
+  "nom": "Saint-Cyr-sous-Dourdan",
+  "code": "91546",
+  "codesPostaux": [
+   "91410"
+  ],
+  "codeDepartement": "91",
+  "population": 982
+ },
+ {
+  "nom": "Saint-Escobille",
+  "code": "91547",
+  "codesPostaux": [
+   "91410"
+  ],
+  "codeDepartement": "91",
+  "population": 454
+ },
+ {
+  "nom": "Sainte-Geneviève-des-Bois",
+  "code": "91549",
+  "codesPostaux": [
+   "91700"
+  ],
+  "codeDepartement": "91",
+  "population": 35438
+ },
+ {
+  "nom": "Saint-Germain-lès-Arpajon",
+  "code": "91552",
+  "codesPostaux": [
+   "91180"
+  ],
+  "codeDepartement": "91",
+  "population": 11623
+ },
+ {
+  "nom": "Saint-Germain-lès-Corbeil",
+  "code": "91553",
+  "codesPostaux": [
+   "91250"
+  ],
+  "codeDepartement": "91",
+  "population": 7469
+ },
+ {
+  "nom": "Saint-Hilaire",
+  "code": "91556",
+  "codesPostaux": [
+   "91780"
+  ],
+  "codeDepartement": "91",
+  "population": 401
+ },
+ {
+  "nom": "Saint-Jean-de-Beauregard",
+  "code": "91560",
+  "codesPostaux": [
+   "91940"
+  ],
+  "codeDepartement": "91",
+  "population": 471
+ },
+ {
+  "nom": "Saint-Maurice-Montcouronne",
+  "code": "91568",
+  "codesPostaux": [
+   "91530"
+  ],
+  "codeDepartement": "91",
+  "population": 1543
+ },
+ {
+  "nom": "Saint-Michel-sur-Orge",
+  "code": "91570",
+  "codesPostaux": [
+   "91240"
+  ],
+  "codeDepartement": "91",
+  "population": 21776
+ },
+ {
+  "nom": "Saint-Pierre-du-Perray",
+  "code": "91573",
+  "codesPostaux": [
+   "91280"
+  ],
+  "codeDepartement": "91",
+  "population": 11993
+ },
+ {
+  "nom": "Saintry-sur-Seine",
+  "code": "91577",
+  "codesPostaux": [
+   "91250"
+  ],
+  "codeDepartement": "91",
+  "population": 5882
+ },
+ {
+  "nom": "Saint-Sulpice-de-Favières",
+  "code": "91578",
+  "codesPostaux": [
+   "91910"
+  ],
+  "codeDepartement": "91",
+  "population": 272
+ },
+ {
+  "nom": "Saint-Vrain",
+  "code": "91579",
+  "codesPostaux": [
+   "91770"
+  ],
+  "codeDepartement": "91",
+  "population": 3089
+ },
+ {
+  "nom": "Saint-Yon",
+  "code": "91581",
+  "codesPostaux": [
+   "91650"
+  ],
+  "codeDepartement": "91",
+  "population": 923
+ },
+ {
+  "nom": "Saulx-les-Chartreux",
+  "code": "91587",
+  "codesPostaux": [
+   "91160"
+  ],
+  "codeDepartement": "91",
+  "population": 6733
+ },
+ {
+  "nom": "Savigny-sur-Orge",
+  "code": "91589",
+  "codesPostaux": [
+   "91600"
+  ],
+  "codeDepartement": "91",
+  "population": 37601
+ },
+ {
+  "nom": "Sermaise",
+  "code": "91593",
+  "codesPostaux": [
+   "91530"
+  ],
+  "codeDepartement": "91",
+  "population": 1617
+ },
+ {
+  "nom": "Soisy-sur-École",
+  "code": "91599",
+  "codesPostaux": [
+   "91840"
+  ],
+  "codeDepartement": "91",
+  "population": 1174
+ },
+ {
+  "nom": "Soisy-sur-Seine",
+  "code": "91600",
+  "codesPostaux": [
+   "91450"
+  ],
+  "codeDepartement": "91",
+  "population": 7418
+ },
+ {
+  "nom": "Souzy-la-Briche",
+  "code": "91602",
+  "codesPostaux": [
+   "91580"
+  ],
+  "codeDepartement": "91",
+  "population": 503
+ },
+ {
+  "nom": "Congerville-Thionville",
+  "code": "91613",
+  "codesPostaux": [
+   "91740"
+  ],
+  "codeDepartement": "91",
+  "population": 211
+ },
+ {
+  "nom": "Tigery",
+  "code": "91617",
+  "codesPostaux": [
+   "91250"
+  ],
+  "codeDepartement": "91",
+  "population": 4333
+ },
+ {
+  "nom": "Torfou",
+  "code": "91619",
+  "codesPostaux": [
+   "91730"
+  ],
+  "codeDepartement": "91",
+  "population": 294
+ },
+ {
+  "nom": "Valpuiseaux",
+  "code": "91629",
+  "codesPostaux": [
+   "91720"
+  ],
+  "codeDepartement": "91",
+  "population": 617
+ },
+ {
+  "nom": "Le Val-Saint-Germain",
+  "code": "91630",
+  "codesPostaux": [
+   "91530"
+  ],
+  "codeDepartement": "91",
+  "population": 1576
+ },
+ {
+  "nom": "Varennes-Jarcy",
+  "code": "91631",
+  "codesPostaux": [
+   "91480"
+  ],
+  "codeDepartement": "91",
+  "population": 2465
+ },
+ {
+  "nom": "Vaugrigneuse",
+  "code": "91634",
+  "codesPostaux": [
+   "91640"
+  ],
+  "codeDepartement": "91",
+  "population": 1458
+ },
+ {
+  "nom": "Vauhallan",
+  "code": "91635",
+  "codesPostaux": [
+   "91430"
+  ],
+  "codeDepartement": "91",
+  "population": 1945
+ },
+ {
+  "nom": "Vayres-sur-Essonne",
+  "code": "91639",
+  "codesPostaux": [
+   "91820"
+  ],
+  "codeDepartement": "91",
+  "population": 978
+ },
+ {
+  "nom": "Verrières-le-Buisson",
+  "code": "91645",
+  "codesPostaux": [
+   "91370"
+  ],
+  "codeDepartement": "91",
+  "population": 15057
+ },
+ {
+  "nom": "Vert-le-Grand",
+  "code": "91648",
+  "codesPostaux": [
+   "91810"
+  ],
+  "codeDepartement": "91",
+  "population": 2444
+ },
+ {
+  "nom": "Vert-le-Petit",
+  "code": "91649",
+  "codesPostaux": [
+   "91710"
+  ],
+  "codeDepartement": "91",
+  "population": 2714
+ },
+ {
+  "nom": "Videlles",
+  "code": "91654",
+  "codesPostaux": [
+   "91890"
+  ],
+  "codeDepartement": "91",
+  "population": 581
+ },
+ {
+  "nom": "Vigneux-sur-Seine",
+  "code": "91657",
+  "codesPostaux": [
+   "91270"
+  ],
+  "codeDepartement": "91",
+  "population": 31466
+ },
+ {
+  "nom": "Villabé",
+  "code": "91659",
+  "codesPostaux": [
+   "91100"
+  ],
+  "codeDepartement": "91",
+  "population": 5830
+ },
+ {
+  "nom": "Villebon-sur-Yvette",
+  "code": "91661",
+  "codesPostaux": [
+   "91140"
+  ],
+  "codeDepartement": "91",
+  "population": 10291
+ },
+ {
+  "nom": "Villeconin",
+  "code": "91662",
+  "codesPostaux": [
+   "91580"
+  ],
+  "codeDepartement": "91",
+  "population": 766
+ },
+ {
+  "nom": "La Ville-du-Bois",
+  "code": "91665",
+  "codesPostaux": [
+   "91620"
+  ],
+  "codeDepartement": "91",
+  "population": 8161
+ },
+ {
+  "nom": "Villejust",
+  "code": "91666",
+  "codesPostaux": [
+   "91140"
+  ],
+  "codeDepartement": "91",
+  "population": 2558
+ },
+ {
+  "nom": "Villemoisson-sur-Orge",
+  "code": "91667",
+  "codesPostaux": [
+   "91360"
+  ],
+  "codeDepartement": "91",
+  "population": 7332
+ },
+ {
+  "nom": "Villeneuve-sur-Auvers",
+  "code": "91671",
+  "codesPostaux": [
+   "91580"
+  ],
+  "codeDepartement": "91",
+  "population": 593
+ },
+ {
+  "nom": "Villiers-le-Bâcle",
+  "code": "91679",
+  "codesPostaux": [
+   "91190"
+  ],
+  "codeDepartement": "91",
+  "population": 1031
+ },
+ {
+  "nom": "Villiers-sur-Orge",
+  "code": "91685",
+  "codesPostaux": [
+   "91700"
+  ],
+  "codeDepartement": "91",
+  "population": 4545
+ },
+ {
+  "nom": "Viry-Châtillon",
+  "code": "91687",
+  "codesPostaux": [
+   "91170"
+  ],
+  "codeDepartement": "91",
+  "population": 30838
+ },
+ {
+  "nom": "Wissous",
+  "code": "91689",
+  "codesPostaux": [
+   "91320"
+  ],
+  "codeDepartement": "91",
+  "population": 7151
+ },
+ {
+  "nom": "Yerres",
+  "code": "91691",
+  "codesPostaux": [
+   "91330"
+  ],
+  "codeDepartement": "91",
+  "population": 27906
+ },
+ {
+  "nom": "Les Ulis",
+  "code": "91692",
+  "codesPostaux": [
+   "91940"
+  ],
+  "codeDepartement": "91",
+  "population": 25886
+ },
+ {
+  "nom": "Antony",
+  "code": "92002",
+  "codesPostaux": [
+   "92160"
+  ],
+  "codeDepartement": "92",
+  "population": 64263
+ },
+ {
+  "nom": "Asnières-sur-Seine",
+  "code": "92004",
+  "codesPostaux": [
+   "92600"
+  ],
+  "codeDepartement": "92",
+  "population": 93941
+ },
+ {
+  "nom": "Bagneux",
+  "code": "92007",
+  "codesPostaux": [
+   "92220"
+  ],
+  "codeDepartement": "92",
+  "population": 44572
+ },
+ {
+  "nom": "Bois-Colombes",
+  "code": "92009",
+  "codesPostaux": [
+   "92270"
+  ],
+  "codeDepartement": "92",
+  "population": 28909
+ },
+ {
+  "nom": "Boulogne-Billancourt",
+  "code": "92012",
+  "codesPostaux": [
+   "92100"
+  ],
+  "codeDepartement": "92",
+  "population": 119019
+ },
+ {
+  "nom": "Bourg-la-Reine",
+  "code": "92014",
+  "codesPostaux": [
+   "92340"
+  ],
+  "codeDepartement": "92",
+  "population": 21019
+ },
+ {
+  "nom": "Châtenay-Malabry",
+  "code": "92019",
+  "codesPostaux": [
+   "92290"
+  ],
+  "codeDepartement": "92",
+  "population": 35825
+ },
+ {
+  "nom": "Châtillon",
+  "code": "92020",
+  "codesPostaux": [
+   "92320"
+  ],
+  "codeDepartement": "92",
+  "population": 36705
+ },
+ {
+  "nom": "Chaville",
+  "code": "92022",
+  "codesPostaux": [
+   "92370"
+  ],
+  "codeDepartement": "92",
+  "population": 20594
+ },
+ {
+  "nom": "Clamart",
+  "code": "92023",
+  "codesPostaux": [
+   "92140"
+  ],
+  "codeDepartement": "92",
+  "population": 58576
+ },
+ {
+  "nom": "Clichy",
+  "code": "92024",
+  "codesPostaux": [
+   "92110"
+  ],
+  "codeDepartement": "92",
+  "population": 64410
+ },
+ {
+  "nom": "Colombes",
+  "code": "92025",
+  "codesPostaux": [
+   "92700"
+  ],
+  "codeDepartement": "92",
+  "population": 91053
+ },
+ {
+  "nom": "Courbevoie",
+  "code": "92026",
+  "codesPostaux": [
+   "92400"
+  ],
+  "codeDepartement": "92",
+  "population": 82902
+ },
+ {
+  "nom": "Fontenay-aux-Roses",
+  "code": "92032",
+  "codesPostaux": [
+   "92260"
+  ],
+  "codeDepartement": "92",
+  "population": 24070
+ },
+ {
+  "nom": "Garches",
+  "code": "92033",
+  "codesPostaux": [
+   "92380"
+  ],
+  "codeDepartement": "92",
+  "population": 17743
+ },
+ {
+  "nom": "La Garenne-Colombes",
+  "code": "92035",
+  "codesPostaux": [
+   "92250"
+  ],
+  "codeDepartement": "92",
+  "population": 30197
+ },
+ {
+  "nom": "Gennevilliers",
+  "code": "92036",
+  "codesPostaux": [
+   "92230"
+  ],
+  "codeDepartement": "92",
+  "population": 50979
+ },
+ {
+  "nom": "Issy-les-Moulineaux",
+  "code": "92040",
+  "codesPostaux": [
+   "92130"
+  ],
+  "codeDepartement": "92",
+  "population": 67669
+ },
+ {
+  "nom": "Levallois-Perret",
+  "code": "92044",
+  "codesPostaux": [
+   "92300"
+  ],
+  "codeDepartement": "92",
+  "population": 68092
+ },
+ {
+  "nom": "Malakoff",
+  "code": "92046",
+  "codesPostaux": [
+   "92240"
+  ],
+  "codeDepartement": "92",
+  "population": 30557
+ },
+ {
+  "nom": "Marnes-la-Coquette",
+  "code": "92047",
+  "codesPostaux": [
+   "92430"
+  ],
+  "codeDepartement": "92",
+  "population": 1752
+ },
+ {
+  "nom": "Meudon",
+  "code": "92048",
+  "codesPostaux": [
+   "92190",
+   "92360"
+  ],
+  "codeDepartement": "92",
+  "population": 46334
+ },
+ {
+  "nom": "Montrouge",
+  "code": "92049",
+  "codesPostaux": [
+   "92120"
+  ],
+  "codeDepartement": "92",
+  "population": 46324
+ },
+ {
+  "nom": "Nanterre",
+  "code": "92050",
+  "codesPostaux": [
+   "92000"
+  ],
+  "codeDepartement": "92",
+  "population": 97783
+ },
+ {
+  "nom": "Neuilly-sur-Seine",
+  "code": "92051",
+  "codesPostaux": [
+   "92200"
+  ],
+  "codeDepartement": "92",
+  "population": 59538
+ },
+ {
+  "nom": "Le Plessis-Robinson",
+  "code": "92060",
+  "codesPostaux": [
+   "92350"
+  ],
+  "codeDepartement": "92",
+  "population": 28848
+ },
+ {
+  "nom": "Puteaux",
+  "code": "92062",
+  "codesPostaux": [
+   "92800"
+  ],
+  "codeDepartement": "92",
+  "population": 44002
+ },
+ {
+  "nom": "Rueil-Malmaison",
+  "code": "92063",
+  "codesPostaux": [
+   "92500"
+  ],
+  "codeDepartement": "92",
+  "population": 82874
+ },
+ {
+  "nom": "Saint-Cloud",
+  "code": "92064",
+  "codesPostaux": [
+   "92210"
+  ],
+  "codeDepartement": "92",
+  "population": 29855
+ },
+ {
+  "nom": "Sceaux",
+  "code": "92071",
+  "codesPostaux": [
+   "92330"
+  ],
+  "codeDepartement": "92",
+  "population": 20884
+ },
+ {
+  "nom": "Sèvres",
+  "code": "92072",
+  "codesPostaux": [
+   "92310"
+  ],
+  "codeDepartement": "92",
+  "population": 22303
+ },
+ {
+  "nom": "Suresnes",
+  "code": "92073",
+  "codesPostaux": [
+   "92150"
+  ],
+  "codeDepartement": "92",
+  "population": 48956
+ },
+ {
+  "nom": "Vanves",
+  "code": "92075",
+  "codesPostaux": [
+   "92170"
+  ],
+  "codeDepartement": "92",
+  "population": 28622
+ },
+ {
+  "nom": "Vaucresson",
+  "code": "92076",
+  "codesPostaux": [
+   "92420"
+  ],
+  "codeDepartement": "92",
+  "population": 8432
+ },
+ {
+  "nom": "Ville-d'Avray",
+  "code": "92077",
+  "codesPostaux": [
+   "92410"
+  ],
+  "codeDepartement": "92",
+  "population": 11089
+ },
+ {
+  "nom": "Villeneuve-la-Garenne",
+  "code": "92078",
+  "codesPostaux": [
+   "92390"
+  ],
+  "codeDepartement": "92",
+  "population": 26021
+ },
+ {
+  "nom": "Aubervilliers",
+  "code": "93001",
+  "codesPostaux": [
+   "93300"
+  ],
+  "codeDepartement": "93",
+  "population": 88365
+ },
+ {
+  "nom": "Aulnay-sous-Bois",
+  "code": "93005",
+  "codesPostaux": [
+   "93600"
+  ],
+  "codeDepartement": "93",
+  "population": 87599
+ },
+ {
+  "nom": "Bagnolet",
+  "code": "93006",
+  "codesPostaux": [
+   "93170"
+  ],
+  "codeDepartement": "93",
+  "population": 43086
+ },
+ {
+  "nom": "Le Blanc-Mesnil",
+  "code": "93007",
+  "codesPostaux": [
+   "93150"
+  ],
+  "codeDepartement": "93",
+  "population": 62376
+ },
+ {
+  "nom": "Bobigny",
+  "code": "93008",
+  "codesPostaux": [
+   "93000"
+  ],
+  "codeDepartement": "93",
+  "population": 56927
+ },
+ {
+  "nom": "Bondy",
+  "code": "93010",
+  "codesPostaux": [
+   "93140"
+  ],
+  "codeDepartement": "93",
+  "population": 50595
+ },
+ {
+  "nom": "Le Bourget",
+  "code": "93013",
+  "codesPostaux": [
+   "93350"
+  ],
+  "codeDepartement": "93",
+  "population": 15925
+ },
+ {
+  "nom": "Clichy-sous-Bois",
+  "code": "93014",
+  "codesPostaux": [
+   "93390"
+  ],
+  "codeDepartement": "93",
+  "population": 29354
+ },
+ {
+  "nom": "Coubron",
+  "code": "93015",
+  "codesPostaux": [
+   "93470"
+  ],
+  "codeDepartement": "93",
+  "population": 5175
+ },
+ {
+  "nom": "La Courneuve",
+  "code": "93027",
+  "codesPostaux": [
+   "93120"
+  ],
+  "codeDepartement": "93",
+  "population": 47167
+ },
+ {
+  "nom": "Drancy",
+  "code": "93029",
+  "codesPostaux": [
+   "93700"
+  ],
+  "codeDepartement": "93",
+  "population": 72390
+ },
+ {
+  "nom": "Dugny",
+  "code": "93030",
+  "codesPostaux": [
+   "93440"
+  ],
+  "codeDepartement": "93",
+  "population": 11700
+ },
+ {
+  "nom": "Épinay-sur-Seine",
+  "code": "93031",
+  "codesPostaux": [
+   "93800"
+  ],
+  "codeDepartement": "93",
+  "population": 52833
+ },
+ {
+  "nom": "Gagny",
+  "code": "93032",
+  "codesPostaux": [
+   "93220"
+  ],
+  "codeDepartement": "93",
+  "population": 42313
+ },
+ {
+  "nom": "Gournay-sur-Marne",
+  "code": "93033",
+  "codesPostaux": [
+   "93460"
+  ],
+  "codeDepartement": "93",
+  "population": 7320
+ },
+ {
+  "nom": "L'Île-Saint-Denis",
+  "code": "93039",
+  "codesPostaux": [
+   "93450"
+  ],
+  "codeDepartement": "93",
+  "population": 8696
+ },
+ {
+  "nom": "Les Lilas",
+  "code": "93045",
+  "codesPostaux": [
+   "93260"
+  ],
+  "codeDepartement": "93",
+  "population": 23843
+ },
+ {
+  "nom": "Livry-Gargan",
+  "code": "93046",
+  "codesPostaux": [
+   "93190"
+  ],
+  "codeDepartement": "93",
+  "population": 47228
+ },
+ {
+  "nom": "Montfermeil",
+  "code": "93047",
+  "codesPostaux": [
+   "93370"
+  ],
+  "codeDepartement": "93",
+  "population": 28703
+ },
+ {
+  "nom": "Montreuil",
+  "code": "93048",
+  "codesPostaux": [
+   "93100"
+  ],
+  "codeDepartement": "93",
+  "population": 111934
+ },
+ {
+  "nom": "Neuilly-Plaisance",
+  "code": "93049",
+  "codesPostaux": [
+   "93360"
+  ],
+  "codeDepartement": "93",
+  "population": 21941
+ },
+ {
+  "nom": "Neuilly-sur-Marne",
+  "code": "93050",
+  "codesPostaux": [
+   "93330"
+  ],
+  "codeDepartement": "93",
+  "population": 39800
+ },
+ {
+  "nom": "Noisy-le-Grand",
+  "code": "93051",
+  "codesPostaux": [
+   "93160"
+  ],
+  "codeDepartement": "93",
+  "population": 72978
+ },
+ {
+  "nom": "Noisy-le-Sec",
+  "code": "93053",
+  "codesPostaux": [
+   "93130"
+  ],
+  "codeDepartement": "93",
+  "population": 45510
+ },
+ {
+  "nom": "Pantin",
+  "code": "93055",
+  "codesPostaux": [
+   "93500"
+  ],
+  "codeDepartement": "93",
+  "population": 61929
+ },
+ {
+  "nom": "Les Pavillons-sous-Bois",
+  "code": "93057",
+  "codesPostaux": [
+   "93320"
+  ],
+  "codeDepartement": "93",
+  "population": 25804
+ },
+ {
+  "nom": "Le Pré-Saint-Gervais",
+  "code": "93061",
+  "codesPostaux": [
+   "93310"
+  ],
+  "codeDepartement": "93",
+  "population": 16993
+ },
+ {
+  "nom": "Le Raincy",
+  "code": "93062",
+  "codesPostaux": [
+   "93340"
+  ],
+  "codeDepartement": "93",
+  "population": 14735
+ },
+ {
+  "nom": "Romainville",
+  "code": "93063",
+  "codesPostaux": [
+   "93230"
+  ],
+  "codeDepartement": "93",
+  "population": 37152
+ },
+ {
+  "nom": "Rosny-sous-Bois",
+  "code": "93064",
+  "codesPostaux": [
+   "93110"
+  ],
+  "codeDepartement": "93",
+  "population": 47180
+ },
+ {
+  "nom": "Saint-Denis",
+  "code": "93066",
+  "codesPostaux": [
+   "93200",
+   "93210",
+   "93380"
+  ],
+  "codeDepartement": "93",
+  "population": 149077
+ },
+ {
+  "nom": "Saint-Ouen-sur-Seine",
+  "code": "93070",
+  "codesPostaux": [
+   "93400"
+  ],
+  "codeDepartement": "93",
+  "population": 53615
+ },
+ {
+  "nom": "Sevran",
+  "code": "93071",
+  "codesPostaux": [
+   "93270"
+  ],
+  "codeDepartement": "93",
+  "population": 52535
+ },
+ {
+  "nom": "Stains",
+  "code": "93072",
+  "codesPostaux": [
+   "93240"
+  ],
+  "codeDepartement": "93",
+  "population": 41388
+ },
+ {
+  "nom": "Tremblay-en-France",
+  "code": "93073",
+  "codesPostaux": [
+   "93290"
+  ],
+  "codeDepartement": "93",
+  "population": 38348
+ },
+ {
+  "nom": "Vaujours",
+  "code": "93074",
+  "codesPostaux": [
+   "93410"
+  ],
+  "codeDepartement": "93",
+  "population": 8007
+ },
+ {
+  "nom": "Villemomble",
+  "code": "93077",
+  "codesPostaux": [
+   "93250"
+  ],
+  "codeDepartement": "93",
+  "population": 29795
+ },
+ {
+  "nom": "Villepinte",
+  "code": "93078",
+  "codesPostaux": [
+   "93420"
+  ],
+  "codeDepartement": "93",
+  "population": 41470
+ },
+ {
+  "nom": "Villetaneuse",
+  "code": "93079",
+  "codesPostaux": [
+   "93430"
+  ],
+  "codeDepartement": "93",
+  "population": 12530
+ },
+ {
+  "nom": "Ablon-sur-Seine",
+  "code": "94001",
+  "codesPostaux": [
+   "94480"
+  ],
+  "codeDepartement": "94",
+  "population": 5988
+ },
+ {
+  "nom": "Alfortville",
+  "code": "94002",
+  "codesPostaux": [
+   "94140"
+  ],
+  "codeDepartement": "94",
+  "population": 45531
+ },
+ {
+  "nom": "Arcueil",
+  "code": "94003",
+  "codesPostaux": [
+   "94110"
+  ],
+  "codeDepartement": "94",
+  "population": 22200
+ },
+ {
+  "nom": "Boissy-Saint-Léger",
+  "code": "94004",
+  "codesPostaux": [
+   "94470"
+  ],
+  "codeDepartement": "94",
+  "population": 17325
+ },
+ {
+  "nom": "Bonneuil-sur-Marne",
+  "code": "94011",
+  "codesPostaux": [
+   "94380"
+  ],
+  "codeDepartement": "94",
+  "population": 18270
+ },
+ {
+  "nom": "Bry-sur-Marne",
+  "code": "94015",
+  "codesPostaux": [
+   "94360"
+  ],
+  "codeDepartement": "94",
+  "population": 18503
+ },
+ {
+  "nom": "Cachan",
+  "code": "94016",
+  "codesPostaux": [
+   "94230"
+  ],
+  "codeDepartement": "94",
+  "population": 31103
+ },
+ {
+  "nom": "Champigny-sur-Marne",
+  "code": "94017",
+  "codesPostaux": [
+   "94500"
+  ],
+  "codeDepartement": "94",
+  "population": 78072
+ },
+ {
+  "nom": "Charenton-le-Pont",
+  "code": "94018",
+  "codesPostaux": [
+   "94220"
+  ],
+  "codeDepartement": "94",
+  "population": 28830
+ },
+ {
+  "nom": "Chennevières-sur-Marne",
+  "code": "94019",
+  "codesPostaux": [
+   "94430"
+  ],
+  "codeDepartement": "94",
+  "population": 18710
+ },
+ {
+  "nom": "Chevilly-Larue",
+  "code": "94021",
+  "codesPostaux": [
+   "94550"
+  ],
+  "codeDepartement": "94",
+  "population": 19826
+ },
+ {
+  "nom": "Choisy-le-Roi",
+  "code": "94022",
+  "codesPostaux": [
+   "94600"
+  ],
+  "codeDepartement": "94",
+  "population": 45946
+ },
+ {
+  "nom": "Créteil",
+  "code": "94028",
+  "codesPostaux": [
+   "94000"
+  ],
+  "codeDepartement": "94",
+  "population": 93397
+ },
+ {
+  "nom": "Fontenay-sous-Bois",
+  "code": "94033",
+  "codesPostaux": [
+   "94120"
+  ],
+  "codeDepartement": "94",
+  "population": 53757
+ },
+ {
+  "nom": "Fresnes",
+  "code": "94034",
+  "codesPostaux": [
+   "94260"
+  ],
+  "codeDepartement": "94",
+  "population": 29528
+ },
+ {
+  "nom": "Gentilly",
+  "code": "94037",
+  "codesPostaux": [
+   "94250"
+  ],
+  "codeDepartement": "94",
+  "population": 19963
+ },
+ {
+  "nom": "L'Haÿ-les-Roses",
+  "code": "94038",
+  "codesPostaux": [
+   "94240"
+  ],
+  "codeDepartement": "94",
+  "population": 31188
+ },
+ {
+  "nom": "Ivry-sur-Seine",
+  "code": "94041",
+  "codesPostaux": [
+   "94200"
+  ],
+  "codeDepartement": "94",
+  "population": 65064
+ },
+ {
+  "nom": "Joinville-le-Pont",
+  "code": "94042",
+  "codesPostaux": [
+   "94340"
+  ],
+  "codeDepartement": "94",
+  "population": 20525
+ },
+ {
+  "nom": "Le Kremlin-Bicêtre",
+  "code": "94043",
+  "codesPostaux": [
+   "94270"
+  ],
+  "codeDepartement": "94",
+  "population": 24110
+ },
+ {
+  "nom": "Limeil-Brévannes",
+  "code": "94044",
+  "codesPostaux": [
+   "94450"
+  ],
+  "codeDepartement": "94",
+  "population": 27406
+ },
+ {
+  "nom": "Maisons-Alfort",
+  "code": "94046",
+  "codesPostaux": [
+   "94700"
+  ],
+  "codeDepartement": "94",
+  "population": 56799
+ },
+ {
+  "nom": "Mandres-les-Roses",
+  "code": "94047",
+  "codesPostaux": [
+   "94520"
+  ],
+  "codeDepartement": "94",
+  "population": 4922
+ },
+ {
+  "nom": "Marolles-en-Brie",
+  "code": "94048",
+  "codesPostaux": [
+   "94440"
+  ],
+  "codeDepartement": "94",
+  "population": 4781
+ },
+ {
+  "nom": "Nogent-sur-Marne",
+  "code": "94052",
+  "codesPostaux": [
+   "94130"
+  ],
+  "codeDepartement": "94",
+  "population": 32455
+ },
+ {
+  "nom": "Noiseau",
+  "code": "94053",
+  "codesPostaux": [
+   "94880"
+  ],
+  "codeDepartement": "94",
+  "population": 4628
+ },
+ {
+  "nom": "Orly",
+  "code": "94054",
+  "codesPostaux": [
+   "94310"
+  ],
+  "codeDepartement": "94",
+  "population": 24658
+ },
+ {
+  "nom": "Ormesson-sur-Marne",
+  "code": "94055",
+  "codesPostaux": [
+   "94490"
+  ],
+  "codeDepartement": "94",
+  "population": 10977
+ },
+ {
+  "nom": "Périgny",
+  "code": "94056",
+  "codesPostaux": [
+   "94520"
+  ],
+  "codeDepartement": "94",
+  "population": 2724
+ },
+ {
+  "nom": "Le Perreux-sur-Marne",
+  "code": "94058",
+  "codesPostaux": [
+   "94170"
+  ],
+  "codeDepartement": "94",
+  "population": 35260
+ },
+ {
+  "nom": "Le Plessis-Trévise",
+  "code": "94059",
+  "codesPostaux": [
+   "94420"
+  ],
+  "codeDepartement": "94",
+  "population": 21112
+ },
+ {
+  "nom": "La Queue-en-Brie",
+  "code": "94060",
+  "codesPostaux": [
+   "94510"
+  ],
+  "codeDepartement": "94",
+  "population": 12241
+ },
+ {
+  "nom": "Rungis",
+  "code": "94065",
+  "codesPostaux": [
+   "94150"
+  ],
+  "codeDepartement": "94",
+  "population": 5611
+ },
+ {
+  "nom": "Saint-Mandé",
+  "code": "94067",
+  "codesPostaux": [
+   "94160"
+  ],
+  "codeDepartement": "94",
+  "population": 21071
+ },
+ {
+  "nom": "Saint-Maur-des-Fossés",
+  "code": "94068",
+  "codesPostaux": [
+   "94100",
+   "94210"
+  ],
+  "codeDepartement": "94",
+  "population": 76572
+ },
+ {
+  "nom": "Saint-Maurice",
+  "code": "94069",
+  "codesPostaux": [
+   "94410"
+  ],
+  "codeDepartement": "94",
+  "population": 14506
+ },
+ {
+  "nom": "Santeny",
+  "code": "94070",
+  "codesPostaux": [
+   "94440"
+  ],
+  "codeDepartement": "94",
+  "population": 3913
+ },
+ {
+  "nom": "Sucy-en-Brie",
+  "code": "94071",
+  "codesPostaux": [
+   "94370"
+  ],
+  "codeDepartement": "94",
+  "population": 27764
+ },
+ {
+  "nom": "Thiais",
+  "code": "94073",
+  "codesPostaux": [
+   "94320"
+  ],
+  "codeDepartement": "94",
+  "population": 32918
+ },
+ {
+  "nom": "Valenton",
+  "code": "94074",
+  "codesPostaux": [
+   "94460"
+  ],
+  "codeDepartement": "94",
+  "population": 14406
+ },
+ {
+  "nom": "Villecresnes",
+  "code": "94075",
+  "codesPostaux": [
+   "94440"
+  ],
+  "codeDepartement": "94",
+  "population": 11647
+ },
+ {
+  "nom": "Villejuif",
+  "code": "94076",
+  "codesPostaux": [
+   "94800"
+  ],
+  "codeDepartement": "94",
+  "population": 60183
+ },
+ {
+  "nom": "Villeneuve-le-Roi",
+  "code": "94077",
+  "codesPostaux": [
+   "94290"
+  ],
+  "codeDepartement": "94",
+  "population": 21000
+ },
+ {
+  "nom": "Villeneuve-Saint-Georges",
+  "code": "94078",
+  "codesPostaux": [
+   "94190"
+  ],
+  "codeDepartement": "94",
+  "population": 36221
+ },
+ {
+  "nom": "Villiers-sur-Marne",
+  "code": "94079",
+  "codesPostaux": [
+   "94350"
+  ],
+  "codeDepartement": "94",
+  "population": 33162
+ },
+ {
+  "nom": "Vincennes",
+  "code": "94080",
+  "codesPostaux": [
+   "94300"
+  ],
+  "codeDepartement": "94",
+  "population": 48193
+ },
+ {
+  "nom": "Vitry-sur-Seine",
+  "code": "94081",
+  "codesPostaux": [
+   "94400"
+  ],
+  "codeDepartement": "94",
+  "population": 93963
+ },
+ {
+  "nom": "Ableiges",
+  "code": "95002",
+  "codesPostaux": [
+   "95450"
+  ],
+  "codeDepartement": "95",
+  "population": 1108
+ },
+ {
+  "nom": "Aincourt",
+  "code": "95008",
+  "codesPostaux": [
+   "95510"
+  ],
+  "codeDepartement": "95",
+  "population": 854
+ },
+ {
+  "nom": "Ambleville",
+  "code": "95011",
+  "codesPostaux": [
+   "95420",
+   "95710"
+  ],
+  "codeDepartement": "95",
+  "population": 388
+ },
+ {
+  "nom": "Amenucourt",
+  "code": "95012",
+  "codesPostaux": [
+   "95510"
+  ],
+  "codeDepartement": "95",
+  "population": 212
+ },
+ {
+  "nom": "Andilly",
+  "code": "95014",
+  "codesPostaux": [
+   "95580"
+  ],
+  "codeDepartement": "95",
+  "population": 2742
+ },
+ {
+  "nom": "Argenteuil",
+  "code": "95018",
+  "codesPostaux": [
+   "95100"
+  ],
+  "codeDepartement": "95",
+  "population": 106130
+ },
+ {
+  "nom": "Arnouville",
+  "code": "95019",
+  "codesPostaux": [
+   "95400"
+  ],
+  "codeDepartement": "95",
+  "population": 15023
+ },
+ {
+  "nom": "Arronville",
+  "code": "95023",
+  "codesPostaux": [
+   "95810"
+  ],
+  "codeDepartement": "95",
+  "population": 618
+ },
+ {
+  "nom": "Arthies",
+  "code": "95024",
+  "codesPostaux": [
+   "95420"
+  ],
+  "codeDepartement": "95",
+  "population": 265
+ },
+ {
+  "nom": "Asnières-sur-Oise",
+  "code": "95026",
+  "codesPostaux": [
+   "95270"
+  ],
+  "codeDepartement": "95",
+  "population": 3127
+ },
+ {
+  "nom": "Attainville",
+  "code": "95028",
+  "codesPostaux": [
+   "95570"
+  ],
+  "codeDepartement": "95",
+  "population": 1904
+ },
+ {
+  "nom": "Auvers-sur-Oise",
+  "code": "95039",
+  "codesPostaux": [
+   "95430"
+  ],
+  "codeDepartement": "95",
+  "population": 6863
+ },
+ {
+  "nom": "Avernes",
+  "code": "95040",
+  "codesPostaux": [
+   "95450"
+  ],
+  "codeDepartement": "95",
+  "population": 871
+ },
+ {
+  "nom": "Baillet-en-France",
+  "code": "95042",
+  "codesPostaux": [
+   "95560"
+  ],
+  "codeDepartement": "95",
+  "population": 2021
+ },
+ {
+  "nom": "Banthelu",
+  "code": "95046",
+  "codesPostaux": [
+   "95420"
+  ],
+  "codeDepartement": "95",
+  "population": 146
+ },
+ {
+  "nom": "Beauchamp",
+  "code": "95051",
+  "codesPostaux": [
+   "95250"
+  ],
+  "codeDepartement": "95",
+  "population": 9849
+ },
+ {
+  "nom": "Beaumont-sur-Oise",
+  "code": "95052",
+  "codesPostaux": [
+   "95260"
+  ],
+  "codeDepartement": "95",
+  "population": 10232
+ },
+ {
+  "nom": "Le Bellay-en-Vexin",
+  "code": "95054",
+  "codesPostaux": [
+   "95750"
+  ],
+  "codeDepartement": "95",
+  "population": 224
+ },
+ {
+  "nom": "Bellefontaine",
+  "code": "95055",
+  "codesPostaux": [
+   "95270"
+  ],
+  "codeDepartement": "95",
+  "population": 474
+ },
+ {
+  "nom": "Belloy-en-France",
+  "code": "95056",
+  "codesPostaux": [
+   "95270"
+  ],
+  "codeDepartement": "95",
+  "population": 2250
+ },
+ {
+  "nom": "Bernes-sur-Oise",
+  "code": "95058",
+  "codesPostaux": [
+   "95340"
+  ],
+  "codeDepartement": "95",
+  "population": 2684
+ },
+ {
+  "nom": "Berville",
+  "code": "95059",
+  "codesPostaux": [
+   "95810"
+  ],
+  "codeDepartement": "95",
+  "population": 374
+ },
+ {
+  "nom": "Bessancourt",
+  "code": "95060",
+  "codesPostaux": [
+   "95550"
+  ],
+  "codeDepartement": "95",
+  "population": 8869
+ },
+ {
+  "nom": "Béthemont-la-Forêt",
+  "code": "95061",
+  "codesPostaux": [
+   "95840"
+  ],
+  "codeDepartement": "95",
+  "population": 435
+ },
+ {
+  "nom": "Bezons",
+  "code": "95063",
+  "codesPostaux": [
+   "95870"
+  ],
+  "codeDepartement": "95",
+  "population": 36434
+ },
+ {
+  "nom": "Boisemont",
+  "code": "95074",
+  "codesPostaux": [
+   "95000"
+  ],
+  "codeDepartement": "95",
+  "population": 892
+ },
+ {
+  "nom": "Boissy-l'Aillerie",
+  "code": "95078",
+  "codesPostaux": [
+   "95650"
+  ],
+  "codeDepartement": "95",
+  "population": 2120
+ },
+ {
+  "nom": "Bonneuil-en-France",
+  "code": "95088",
+  "codesPostaux": [
+   "95500"
+  ],
+  "codeDepartement": "95",
+  "population": 1185
+ },
+ {
+  "nom": "Bouffémont",
+  "code": "95091",
+  "codesPostaux": [
+   "95570"
+  ],
+  "codeDepartement": "95",
+  "population": 6593
+ },
+ {
+  "nom": "Bouqueval",
+  "code": "95094",
+  "codesPostaux": [
+   "95720"
+  ],
+  "codeDepartement": "95",
+  "population": 314
+ },
+ {
+  "nom": "Bray-et-Lû",
+  "code": "95101",
+  "codesPostaux": [
+   "95710"
+  ],
+  "codeDepartement": "95",
+  "population": 954
+ },
+ {
+  "nom": "Bréançon",
+  "code": "95102",
+  "codesPostaux": [
+   "95640"
+  ],
+  "codeDepartement": "95",
+  "population": 432
+ },
+ {
+  "nom": "Brignancourt",
+  "code": "95110",
+  "codesPostaux": [
+   "95640"
+  ],
+  "codeDepartement": "95",
+  "population": 262
+ },
+ {
+  "nom": "Bruyères-sur-Oise",
+  "code": "95116",
+  "codesPostaux": [
+   "95820"
+  ],
+  "codeDepartement": "95",
+  "population": 4921
+ },
+ {
+  "nom": "Buhy",
+  "code": "95119",
+  "codesPostaux": [
+   "95770"
+  ],
+  "codeDepartement": "95",
+  "population": 329
+ },
+ {
+  "nom": "Butry-sur-Oise",
+  "code": "95120",
+  "codesPostaux": [
+   "95430"
+  ],
+  "codeDepartement": "95",
+  "population": 2252
+ },
+ {
+  "nom": "Cergy",
+  "code": "95127",
+  "codesPostaux": [
+   "95000",
+   "95800"
+  ],
+  "codeDepartement": "95",
+  "population": 70906
+ },
+ {
+  "nom": "Champagne-sur-Oise",
+  "code": "95134",
+  "codesPostaux": [
+   "95660"
+  ],
+  "codeDepartement": "95",
+  "population": 5036
+ },
+ {
+  "nom": "La Chapelle-en-Vexin",
+  "code": "95139",
+  "codesPostaux": [
+   "95420"
+  ],
+  "codeDepartement": "95",
+  "population": 320
+ },
+ {
+  "nom": "Charmont",
+  "code": "95141",
+  "codesPostaux": [
+   "95420"
+  ],
+  "codeDepartement": "95",
+  "population": 32
+ },
+ {
+  "nom": "Chars",
+  "code": "95142",
+  "codesPostaux": [
+   "95750"
+  ],
+  "codeDepartement": "95",
+  "population": 2006
+ },
+ {
+  "nom": "Châtenay-en-France",
+  "code": "95144",
+  "codesPostaux": [
+   "95190"
+  ],
+  "codeDepartement": "95",
+  "population": 68
+ },
+ {
+  "nom": "Chaumontel",
+  "code": "95149",
+  "codesPostaux": [
+   "95270"
+  ],
+  "codeDepartement": "95",
+  "population": 3332
+ },
+ {
+  "nom": "Chaussy",
+  "code": "95150",
+  "codesPostaux": [
+   "95710"
+  ],
+  "codeDepartement": "95",
+  "population": 631
+ },
+ {
+  "nom": "Chauvry",
+  "code": "95151",
+  "codesPostaux": [
+   "95560"
+  ],
+  "codeDepartement": "95",
+  "population": 297
+ },
+ {
+  "nom": "Chennevières-lès-Louvres",
+  "code": "95154",
+  "codesPostaux": [
+   "95380"
+  ],
+  "codeDepartement": "95",
+  "population": 282
+ },
+ {
+  "nom": "Chérence",
+  "code": "95157",
+  "codesPostaux": [
+   "95510"
+  ],
+  "codeDepartement": "95",
+  "population": 137
+ },
+ {
+  "nom": "Cléry-en-Vexin",
+  "code": "95166",
+  "codesPostaux": [
+   "95420"
+  ],
+  "codeDepartement": "95",
+  "population": 476
+ },
+ {
+  "nom": "Commeny",
+  "code": "95169",
+  "codesPostaux": [
+   "95450"
+  ],
+  "codeDepartement": "95",
+  "population": 646
+ },
+ {
+  "nom": "Condécourt",
+  "code": "95170",
+  "codesPostaux": [
+   "95450"
+  ],
+  "codeDepartement": "95",
+  "population": 564
+ },
+ {
+  "nom": "Cormeilles-en-Parisis",
+  "code": "95176",
+  "codesPostaux": [
+   "95240"
+  ],
+  "codeDepartement": "95",
+  "population": 27292
+ },
+ {
+  "nom": "Cormeilles-en-Vexin",
+  "code": "95177",
+  "codesPostaux": [
+   "95830"
+  ],
+  "codeDepartement": "95",
+  "population": 1297
+ },
+ {
+  "nom": "Courcelles-sur-Viosne",
+  "code": "95181",
+  "codesPostaux": [
+   "95650"
+  ],
+  "codeDepartement": "95",
+  "population": 310
+ },
+ {
+  "nom": "Courdimanche",
+  "code": "95183",
+  "codesPostaux": [
+   "95800"
+  ],
+  "codeDepartement": "95",
+  "population": 7311
+ },
+ {
+  "nom": "Deuil-la-Barre",
+  "code": "95197",
+  "codesPostaux": [
+   "95170"
+  ],
+  "codeDepartement": "95",
+  "population": 23099
+ },
+ {
+  "nom": "Domont",
+  "code": "95199",
+  "codesPostaux": [
+   "95330"
+  ],
+  "codeDepartement": "95",
+  "population": 16065
+ },
+ {
+  "nom": "Eaubonne",
+  "code": "95203",
+  "codesPostaux": [
+   "95600"
+  ],
+  "codeDepartement": "95",
+  "population": 26211
+ },
+ {
+  "nom": "Écouen",
+  "code": "95205",
+  "codesPostaux": [
+   "95440"
+  ],
+  "codeDepartement": "95",
+  "population": 7202
+ },
+ {
+  "nom": "Enghien-les-Bains",
+  "code": "95210",
+  "codesPostaux": [
+   "95880"
+  ],
+  "codeDepartement": "95",
+  "population": 11432
+ },
+ {
+  "nom": "Ennery",
+  "code": "95211",
+  "codesPostaux": [
+   "95300"
+  ],
+  "codeDepartement": "95",
+  "population": 2243
+ },
+ {
+  "nom": "Épiais-lès-Louvres",
+  "code": "95212",
+  "codesPostaux": [
+   "95380"
+  ],
+  "codeDepartement": "95",
+  "population": 156
+ },
+ {
+  "nom": "Épiais-Rhus",
+  "code": "95213",
+  "codesPostaux": [
+   "95810"
+  ],
+  "codeDepartement": "95",
+  "population": 603
+ },
+ {
+  "nom": "Épinay-Champlâtreux",
+  "code": "95214",
+  "codesPostaux": [
+   "95270"
+  ],
+  "codeDepartement": "95",
+  "population": 57
+ },
+ {
+  "nom": "Éragny-sur-Oise",
+  "code": "95218",
+  "codesPostaux": [
+   "95610"
+  ],
+  "codeDepartement": "95",
+  "population": 18436
+ },
+ {
+  "nom": "Ermont",
+  "code": "95219",
+  "codesPostaux": [
+   "95120"
+  ],
+  "codeDepartement": "95",
+  "population": 29489
+ },
+ {
+  "nom": "Ézanville",
+  "code": "95229",
+  "codesPostaux": [
+   "95460"
+  ],
+  "codeDepartement": "95",
+  "population": 9858
+ },
+ {
+  "nom": "Fontenay-en-Parisis",
+  "code": "95241",
+  "codesPostaux": [
+   "95190"
+  ],
+  "codeDepartement": "95",
+  "population": 2219
+ },
+ {
+  "nom": "Fosses",
+  "code": "95250",
+  "codesPostaux": [
+   "95470"
+  ],
+  "codeDepartement": "95",
+  "population": 10570
+ },
+ {
+  "nom": "Franconville",
+  "code": "95252",
+  "codesPostaux": [
+   "95130"
+  ],
+  "codeDepartement": "95",
+  "population": 37754
+ },
+ {
+  "nom": "Frémainville",
+  "code": "95253",
+  "codesPostaux": [
+   "95450"
+  ],
+  "codeDepartement": "95",
+  "population": 507
+ },
+ {
+  "nom": "Frémécourt",
+  "code": "95254",
+  "codesPostaux": [
+   "95830"
+  ],
+  "codeDepartement": "95",
+  "population": 526
+ },
+ {
+  "nom": "Frépillon",
+  "code": "95256",
+  "codesPostaux": [
+   "95740"
+  ],
+  "codeDepartement": "95",
+  "population": 3317
+ },
+ {
+  "nom": "La Frette-sur-Seine",
+  "code": "95257",
+  "codesPostaux": [
+   "95530"
+  ],
+  "codeDepartement": "95",
+  "population": 4570
+ },
+ {
+  "nom": "Frouville",
+  "code": "95258",
+  "codesPostaux": [
+   "95690"
+  ],
+  "codeDepartement": "95",
+  "population": 347
+ },
+ {
+  "nom": "Garges-lès-Gonesse",
+  "code": "95268",
+  "codesPostaux": [
+   "95140"
+  ],
+  "codeDepartement": "95",
+  "population": 41791
+ },
+ {
+  "nom": "Genainville",
+  "code": "95270",
+  "codesPostaux": [
+   "95420"
+  ],
+  "codeDepartement": "95",
+  "population": 522
+ },
+ {
+  "nom": "Génicourt",
+  "code": "95271",
+  "codesPostaux": [
+   "95650"
+  ],
+  "codeDepartement": "95",
+  "population": 514
+ },
+ {
+  "nom": "Gonesse",
+  "code": "95277",
+  "codesPostaux": [
+   "95500"
+  ],
+  "codeDepartement": "95",
+  "population": 27707
+ },
+ {
+  "nom": "Goussainville",
+  "code": "95280",
+  "codesPostaux": [
+   "95190"
+  ],
+  "codeDepartement": "95",
+  "population": 31301
+ },
+ {
+  "nom": "Grisy-les-Plâtres",
+  "code": "95287",
+  "codesPostaux": [
+   "95810"
+  ],
+  "codeDepartement": "95",
+  "population": 709
+ },
+ {
+  "nom": "Groslay",
+  "code": "95288",
+  "codesPostaux": [
+   "95410"
+  ],
+  "codeDepartement": "95",
+  "population": 8453
+ },
+ {
+  "nom": "Guiry-en-Vexin",
+  "code": "95295",
+  "codesPostaux": [
+   "95450"
+  ],
+  "codeDepartement": "95",
+  "population": 161
+ },
+ {
+  "nom": "Haravilliers",
+  "code": "95298",
+  "codesPostaux": [
+   "95640"
+  ],
+  "codeDepartement": "95",
+  "population": 589
+ },
+ {
+  "nom": "Haute-Isle",
+  "code": "95301",
+  "codesPostaux": [
+   "95780"
+  ],
+  "codeDepartement": "95",
+  "population": 293
+ },
+ {
+  "nom": "Le Heaulme",
+  "code": "95303",
+  "codesPostaux": [
+   "95640"
+  ],
+  "codeDepartement": "95",
+  "population": 207
+ },
+ {
+  "nom": "Hédouville",
+  "code": "95304",
+  "codesPostaux": [
+   "95690"
+  ],
+  "codeDepartement": "95",
+  "population": 278
+ },
+ {
+  "nom": "Herblay-sur-Seine",
+  "code": "95306",
+  "codesPostaux": [
+   "95220"
+  ],
+  "codeDepartement": "95",
+  "population": 31779
+ },
+ {
+  "nom": "Hérouville-en-Vexin",
+  "code": "95308",
+  "codesPostaux": [
+   "95300"
+  ],
+  "codeDepartement": "95",
+  "population": 584
+ },
+ {
+  "nom": "Hodent",
+  "code": "95309",
+  "codesPostaux": [
+   "95420"
+  ],
+  "codeDepartement": "95",
+  "population": 225
+ },
+ {
+  "nom": "L'Isle-Adam",
+  "code": "95313",
+  "codesPostaux": [
+   "95290"
+  ],
+  "codeDepartement": "95",
+  "population": 12493
+ },
+ {
+  "nom": "Jagny-sous-Bois",
+  "code": "95316",
+  "codesPostaux": [
+   "95850"
+  ],
+  "codeDepartement": "95",
+  "population": 269
+ },
+ {
+  "nom": "Jouy-le-Moutier",
+  "code": "95323",
+  "codesPostaux": [
+   "95280"
+  ],
+  "codeDepartement": "95",
+  "population": 17854
+ },
+ {
+  "nom": "Labbeville",
+  "code": "95328",
+  "codesPostaux": [
+   "95690"
+  ],
+  "codeDepartement": "95",
+  "population": 641
+ },
+ {
+  "nom": "Lassy",
+  "code": "95331",
+  "codesPostaux": [
+   "95270"
+  ],
+  "codeDepartement": "95",
+  "population": 196
+ },
+ {
+  "nom": "Livilliers",
+  "code": "95341",
+  "codesPostaux": [
+   "95300"
+  ],
+  "codeDepartement": "95",
+  "population": 389
+ },
+ {
+  "nom": "Longuesse",
+  "code": "95348",
+  "codesPostaux": [
+   "95450"
+  ],
+  "codeDepartement": "95",
+  "population": 496
+ },
+ {
+  "nom": "Louvres",
+  "code": "95351",
+  "codesPostaux": [
+   "95380"
+  ],
+  "codeDepartement": "95",
+  "population": 12560
+ },
+ {
+  "nom": "Luzarches",
+  "code": "95352",
+  "codesPostaux": [
+   "95270"
+  ],
+  "codeDepartement": "95",
+  "population": 5008
+ },
+ {
+  "nom": "Maffliers",
+  "code": "95353",
+  "codesPostaux": [
+   "95560"
+  ],
+  "codeDepartement": "95",
+  "population": 1856
+ },
+ {
+  "nom": "Magny-en-Vexin",
+  "code": "95355",
+  "codesPostaux": [
+   "95420"
+  ],
+  "codeDepartement": "95",
+  "population": 5779
+ },
+ {
+  "nom": "Mareil-en-France",
+  "code": "95365",
+  "codesPostaux": [
+   "95850"
+  ],
+  "codeDepartement": "95",
+  "population": 734
+ },
+ {
+  "nom": "Margency",
+  "code": "95369",
+  "codesPostaux": [
+   "95580"
+  ],
+  "codeDepartement": "95",
+  "population": 3012
+ },
+ {
+  "nom": "Marines",
+  "code": "95370",
+  "codesPostaux": [
+   "95640"
+  ],
+  "codeDepartement": "95",
+  "population": 3594
+ },
+ {
+  "nom": "Marly-la-Ville",
+  "code": "95371",
+  "codesPostaux": [
+   "95670"
+  ],
+  "codeDepartement": "95",
+  "population": 6022
+ },
+ {
+  "nom": "Maudétour-en-Vexin",
+  "code": "95379",
+  "codesPostaux": [
+   "95420"
+  ],
+  "codeDepartement": "95",
+  "population": 208
+ },
+ {
+  "nom": "Menouville",
+  "code": "95387",
+  "codesPostaux": [
+   "95810"
+  ],
+  "codeDepartement": "95",
+  "population": 62
+ },
+ {
+  "nom": "Menucourt",
+  "code": "95388",
+  "codesPostaux": [
+   "95180"
+  ],
+  "codeDepartement": "95",
+  "population": 6184
+ },
+ {
+  "nom": "Mériel",
+  "code": "95392",
+  "codesPostaux": [
+   "95630"
+  ],
+  "codeDepartement": "95",
+  "population": 5347
+ },
+ {
+  "nom": "Méry-sur-Oise",
+  "code": "95394",
+  "codesPostaux": [
+   "95540"
+  ],
+  "codeDepartement": "95",
+  "population": 9983
+ },
+ {
+  "nom": "Le Mesnil-Aubry",
+  "code": "95395",
+  "codesPostaux": [
+   "95720"
+  ],
+  "codeDepartement": "95",
+  "population": 914
+ },
+ {
+  "nom": "Moisselles",
+  "code": "95409",
+  "codesPostaux": [
+   "95570"
+  ],
+  "codeDepartement": "95",
+  "population": 1261
+ },
+ {
+  "nom": "Montgeroult",
+  "code": "95422",
+  "codesPostaux": [
+   "95650"
+  ],
+  "codeDepartement": "95",
+  "population": 361
+ },
+ {
+  "nom": "Montigny-lès-Cormeilles",
+  "code": "95424",
+  "codesPostaux": [
+   "95370"
+  ],
+  "codeDepartement": "95",
+  "population": 22457
+ },
+ {
+  "nom": "Montlignon",
+  "code": "95426",
+  "codesPostaux": [
+   "95680"
+  ],
+  "codeDepartement": "95",
+  "population": 3038
+ },
+ {
+  "nom": "Montmagny",
+  "code": "95427",
+  "codesPostaux": [
+   "95360"
+  ],
+  "codeDepartement": "95",
+  "population": 15105
+ },
+ {
+  "nom": "Montmorency",
+  "code": "95428",
+  "codesPostaux": [
+   "95160"
+  ],
+  "codeDepartement": "95",
+  "population": 21763
+ },
+ {
+  "nom": "Montreuil-sur-Epte",
+  "code": "95429",
+  "codesPostaux": [
+   "95770"
+  ],
+  "codeDepartement": "95",
+  "population": 377
+ },
+ {
+  "nom": "Montsoult",
+  "code": "95430",
+  "codesPostaux": [
+   "95560"
+  ],
+  "codeDepartement": "95",
+  "population": 4023
+ },
+ {
+  "nom": "Mours",
+  "code": "95436",
+  "codesPostaux": [
+   "95260"
+  ],
+  "codeDepartement": "95",
+  "population": 1693
+ },
+ {
+  "nom": "Moussy",
+  "code": "95438",
+  "codesPostaux": [
+   "95640"
+  ],
+  "codeDepartement": "95",
+  "population": 108
+ },
+ {
+  "nom": "Nerville-la-Forêt",
+  "code": "95445",
+  "codesPostaux": [
+   "95590"
+  ],
+  "codeDepartement": "95",
+  "population": 756
+ },
+ {
+  "nom": "Nesles-la-Vallée",
+  "code": "95446",
+  "codesPostaux": [
+   "95690"
+  ],
+  "codeDepartement": "95",
+  "population": 1842
+ },
+ {
+  "nom": "Neuilly-en-Vexin",
+  "code": "95447",
+  "codesPostaux": [
+   "95640"
+  ],
+  "codeDepartement": "95",
+  "population": 240
+ },
+ {
+  "nom": "Neuville-sur-Oise",
+  "code": "95450",
+  "codesPostaux": [
+   "95000"
+  ],
+  "codeDepartement": "95",
+  "population": 2058
+ },
+ {
+  "nom": "Nointel",
+  "code": "95452",
+  "codesPostaux": [
+   "95590"
+  ],
+  "codeDepartement": "95",
+  "population": 903
+ },
+ {
+  "nom": "Noisy-sur-Oise",
+  "code": "95456",
+  "codesPostaux": [
+   "95270"
+  ],
+  "codeDepartement": "95",
+  "population": 549
+ },
+ {
+  "nom": "Nucourt",
+  "code": "95459",
+  "codesPostaux": [
+   "95420"
+  ],
+  "codeDepartement": "95",
+  "population": 719
+ },
+ {
+  "nom": "Omerville",
+  "code": "95462",
+  "codesPostaux": [
+   "95420"
+  ],
+  "codeDepartement": "95",
+  "population": 327
+ },
+ {
+  "nom": "Osny",
+  "code": "95476",
+  "codesPostaux": [
+   "95520"
+  ],
+  "codeDepartement": "95",
+  "population": 17954
+ },
+ {
+  "nom": "Parmain",
+  "code": "95480",
+  "codesPostaux": [
+   "95620"
+  ],
+  "codeDepartement": "95",
+  "population": 5655
+ },
+ {
+  "nom": "Le Perchay",
+  "code": "95483",
+  "codesPostaux": [
+   "95450"
+  ],
+  "codeDepartement": "95",
+  "population": 504
+ },
+ {
+  "nom": "Persan",
+  "code": "95487",
+  "codesPostaux": [
+   "95340"
+  ],
+  "codeDepartement": "95",
+  "population": 14359
+ },
+ {
+  "nom": "Pierrelaye",
+  "code": "95488",
+  "codesPostaux": [
+   "95220",
+   "95480"
+  ],
+  "codeDepartement": "95",
+  "population": 10130
+ },
+ {
+  "nom": "Piscop",
+  "code": "95489",
+  "codesPostaux": [
+   "95350"
+  ],
+  "codeDepartement": "95",
+  "population": 768
+ },
+ {
+  "nom": "Le Plessis-Bouchard",
+  "code": "95491",
+  "codesPostaux": [
+   "95130"
+  ],
+  "codeDepartement": "95",
+  "population": 8518
+ },
+ {
+  "nom": "Le Plessis-Gassot",
+  "code": "95492",
+  "codesPostaux": [
+   "95720"
+  ],
+  "codeDepartement": "95",
+  "population": 102
+ },
+ {
+  "nom": "Le Plessis-Luzarches",
+  "code": "95493",
+  "codesPostaux": [
+   "95270"
+  ],
+  "codeDepartement": "95",
+  "population": 152
+ },
+ {
+  "nom": "Pontoise",
+  "code": "95500",
+  "codesPostaux": [
+   "95000",
+   "95300"
+  ],
+  "codeDepartement": "95",
+  "population": 31970
+ },
+ {
+  "nom": "Presles",
+  "code": "95504",
+  "codesPostaux": [
+   "95590"
+  ],
+  "codeDepartement": "95",
+  "population": 4017
+ },
+ {
+  "nom": "Puiseux-en-France",
+  "code": "95509",
+  "codesPostaux": [
+   "95380"
+  ],
+  "codeDepartement": "95",
+  "population": 3765
+ },
+ {
+  "nom": "Puiseux-Pontoise",
+  "code": "95510",
+  "codesPostaux": [
+   "95650"
+  ],
+  "codeDepartement": "95",
+  "population": 603
+ },
+ {
+  "nom": "La Roche-Guyon",
+  "code": "95523",
+  "codesPostaux": [
+   "95780"
+  ],
+  "codeDepartement": "95",
+  "population": 399
+ },
+ {
+  "nom": "Roissy-en-France",
+  "code": "95527",
+  "codesPostaux": [
+   "95700"
+  ],
+  "codeDepartement": "95",
+  "population": 2674
+ },
+ {
+  "nom": "Ronquerolles",
+  "code": "95529",
+  "codesPostaux": [
+   "95340"
+  ],
+  "codeDepartement": "95",
+  "population": 907
+ },
+ {
+  "nom": "Sagy",
+  "code": "95535",
+  "codesPostaux": [
+   "95450"
+  ],
+  "codeDepartement": "95",
+  "population": 1096
+ },
+ {
+  "nom": "Saint-Brice-sous-Forêt",
+  "code": "95539",
+  "codesPostaux": [
+   "95350"
+  ],
+  "codeDepartement": "95",
+  "population": 15063
+ },
+ {
+  "nom": "Saint-Clair-sur-Epte",
+  "code": "95541",
+  "codesPostaux": [
+   "95770"
+  ],
+  "codeDepartement": "95",
+  "population": 964
+ },
+ {
+  "nom": "Saint-Cyr-en-Arthies",
+  "code": "95543",
+  "codesPostaux": [
+   "95510"
+  ],
+  "codeDepartement": "95",
+  "population": 236
+ },
+ {
+  "nom": "Saint-Gervais",
+  "code": "95554",
+  "codesPostaux": [
+   "95420"
+  ],
+  "codeDepartement": "95",
+  "population": 878
+ },
+ {
+  "nom": "Saint-Gratien",
+  "code": "95555",
+  "codesPostaux": [
+   "95210"
+  ],
+  "codeDepartement": "95",
+  "population": 21336
+ },
+ {
+  "nom": "Saint-Leu-la-Forêt",
+  "code": "95563",
+  "codesPostaux": [
+   "95320"
+  ],
+  "codeDepartement": "95",
+  "population": 16138
+ },
+ {
+  "nom": "Saint-Martin-du-Tertre",
+  "code": "95566",
+  "codesPostaux": [
+   "95270"
+  ],
+  "codeDepartement": "95",
+  "population": 2689
+ },
+ {
+  "nom": "Saint-Ouen-l'Aumône",
+  "code": "95572",
+  "codesPostaux": [
+   "95310"
+  ],
+  "codeDepartement": "95",
+  "population": 25578
+ },
+ {
+  "nom": "Saint-Prix",
+  "code": "95574",
+  "codesPostaux": [
+   "95390"
+  ],
+  "codeDepartement": "95",
+  "population": 7612
+ },
+ {
+  "nom": "Saint-Witz",
+  "code": "95580",
+  "codesPostaux": [
+   "95470"
+  ],
+  "codeDepartement": "95",
+  "population": 2724
+ },
+ {
+  "nom": "Sannois",
+  "code": "95582",
+  "codesPostaux": [
+   "95110"
+  ],
+  "codeDepartement": "95",
+  "population": 26924
+ },
+ {
+  "nom": "Santeuil",
+  "code": "95584",
+  "codesPostaux": [
+   "95640"
+  ],
+  "codeDepartement": "95",
+  "population": 658
+ },
+ {
+  "nom": "Sarcelles",
+  "code": "95585",
+  "codesPostaux": [
+   "95200"
+  ],
+  "codeDepartement": "95",
+  "population": 59173
+ },
+ {
+  "nom": "Seraincourt",
+  "code": "95592",
+  "codesPostaux": [
+   "95450"
+  ],
+  "codeDepartement": "95",
+  "population": 1305
+ },
+ {
+  "nom": "Seugy",
+  "code": "95594",
+  "codesPostaux": [
+   "95270"
+  ],
+  "codeDepartement": "95",
+  "population": 1044
+ },
+ {
+  "nom": "Soisy-sous-Montmorency",
+  "code": "95598",
+  "codesPostaux": [
+   "95230"
+  ],
+  "codeDepartement": "95",
+  "population": 18008
+ },
+ {
+  "nom": "Survilliers",
+  "code": "95604",
+  "codesPostaux": [
+   "95470"
+  ],
+  "codeDepartement": "95",
+  "population": 4091
+ },
+ {
+  "nom": "Taverny",
+  "code": "95607",
+  "codesPostaux": [
+   "95150"
+  ],
+  "codeDepartement": "95",
+  "population": 27593
+ },
+ {
+  "nom": "Théméricourt",
+  "code": "95610",
+  "codesPostaux": [
+   "95450"
+  ],
+  "codeDepartement": "95",
+  "population": 283
+ },
+ {
+  "nom": "Theuville",
+  "code": "95611",
+  "codesPostaux": [
+   "95810"
+  ],
+  "codeDepartement": "95",
+  "population": 53
+ },
+ {
+  "nom": "Le Thillay",
+  "code": "95612",
+  "codesPostaux": [
+   "95500"
+  ],
+  "codeDepartement": "95",
+  "population": 4560
+ },
+ {
+  "nom": "Us",
+  "code": "95625",
+  "codesPostaux": [
+   "95450"
+  ],
+  "codeDepartement": "95",
+  "population": 1374
+ },
+ {
+  "nom": "Vallangoujard",
+  "code": "95627",
+  "codesPostaux": [
+   "95810"
+  ],
+  "codeDepartement": "95",
+  "population": 625
+ },
+ {
+  "nom": "Valmondois",
+  "code": "95628",
+  "codesPostaux": [
+   "95760"
+  ],
+  "codeDepartement": "95",
+  "population": 1208
+ },
+ {
+  "nom": "Vaudherland",
+  "code": "95633",
+  "codesPostaux": [
+   "95500"
+  ],
+  "codeDepartement": "95",
+  "population": 104
+ },
+ {
+  "nom": "Vauréal",
+  "code": "95637",
+  "codesPostaux": [
+   "95490"
+  ],
+  "codeDepartement": "95",
+  "population": 16079
+ },
+ {
+  "nom": "Vémars",
+  "code": "95641",
+  "codesPostaux": [
+   "95470"
+  ],
+  "codeDepartement": "95",
+  "population": 3124
+ },
+ {
+  "nom": "Vétheuil",
+  "code": "95651",
+  "codesPostaux": [
+   "95510"
+  ],
+  "codeDepartement": "95",
+  "population": 849
+ },
+ {
+  "nom": "Viarmes",
+  "code": "95652",
+  "codesPostaux": [
+   "95270"
+  ],
+  "codeDepartement": "95",
+  "population": 5558
+ },
+ {
+  "nom": "Vienne-en-Arthies",
+  "code": "95656",
+  "codesPostaux": [
+   "95510"
+  ],
+  "codeDepartement": "95",
+  "population": 379
+ },
+ {
+  "nom": "Vigny",
+  "code": "95658",
+  "codesPostaux": [
+   "95450"
+  ],
+  "codeDepartement": "95",
+  "population": 1137
+ },
+ {
+  "nom": "Villaines-sous-Bois",
+  "code": "95660",
+  "codesPostaux": [
+   "95570"
+  ],
+  "codeDepartement": "95",
+  "population": 778
+ },
+ {
+  "nom": "Villeron",
+  "code": "95675",
+  "codesPostaux": [
+   "95380"
+  ],
+  "codeDepartement": "95",
+  "population": 1766
+ },
+ {
+  "nom": "Villers-en-Arthies",
+  "code": "95676",
+  "codesPostaux": [
+   "95510"
+  ],
+  "codeDepartement": "95",
+  "population": 498
+ },
+ {
+  "nom": "Villiers-Adam",
+  "code": "95678",
+  "codesPostaux": [
+   "95840"
+  ],
+  "codeDepartement": "95",
+  "population": 858
+ },
+ {
+  "nom": "Villiers-le-Bel",
+  "code": "95680",
+  "codesPostaux": [
+   "95400"
+  ],
+  "codeDepartement": "95",
+  "population": 30053
+ },
+ {
+  "nom": "Villiers-le-Sec",
+  "code": "95682",
+  "codesPostaux": [
+   "95720"
+  ],
+  "codeDepartement": "95",
+  "population": 205
+ },
+ {
+  "nom": "Wy-dit-Joli-Village",
+  "code": "95690",
+  "codesPostaux": [
+   "95420"
+  ],
+  "codeDepartement": "95",
+  "population": 326
+ }
+]

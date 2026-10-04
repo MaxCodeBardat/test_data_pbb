@@ -1,0 +1,625 @@
+{
+ "winner": {
+  "code": "OLY",
+  "name": "Olympiacos Piraeus",
+  "abbreviatedName": "Olympiacos",
+  "editorialName": "Olympiacos",
+  "tvCode": "OLY",
+  "isVirtual": false,
+  "images": {
+   "crest": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
+  }
+ },
+ "teams": [
+  {
+   "position": 1,
+   "positionChange": "Up",
+   "gamesPlayed": 8,
+   "gamesWon": 6,
+   "gamesLost": 2,
+   "qualified": false,
+   "groupName": "Regular Season",
+   "club": {
+    "code": "ZAL",
+    "name": "Zalgiris Kaunas",
+    "abbreviatedName": "Zalgiris",
+    "editorialName": "Zalgiris",
+    "tvCode": "ZAL",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/0aa09358-3847-4c4e-b228-3582ee4e536d.png"
+    }
+   },
+   "streaks": [
+    {
+     "startDate": "2025-10-01T00:00:00",
+     "endDate": "2025-10-31T00:00:00",
+     "winLossRecord": "6-2"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "positionChange": "Up",
+   "gamesPlayed": 8,
+   "gamesWon": 6,
+   "gamesLost": 2,
+   "qualified": false,
+   "groupName": "Regular Season",
+   "club": {
+    "code": "RED",
+    "name": "Crvena Zvezda Meridianbet Belgrade",
+    "abbreviatedName": "Crvena Zvezda",
+    "editorialName": "Crvena Zvezda",
+    "tvCode": "CZV",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/d2eef4a8-62df-4fdd-9076-276004268515.png"
+    }
+   },
+   "streaks": [
+    {
+     "startDate": "2025-09-01T00:00:00",
+     "endDate": "2025-09-30T00:00:00",
+     "winLossRecord": "0-1"
+    },
+    {
+     "startDate": "2025-10-01T00:00:00",
+     "endDate": "2025-10-31T00:00:00",
+     "winLossRecord": "6-1"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "positionChange": "Down",
+   "gamesPlayed": 8,
+   "gamesWon": 6,
+   "gamesLost": 2,
+   "qualified": false,
+   "groupName": "Regular Season",
+   "club": {
+    "code": "HTA",
+    "name": "Hapoel IBI Tel Aviv",
+    "abbreviatedName": "Hapoel Tel Aviv",
+    "editorialName": "Hapoel Tel Aviv",
+    "tvCode": "HTA",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/cbb1c3ad-03d5-426a-b5ef-2832a4eee484.png"
+    }
+   },
+   "streaks": [
+    {
+     "startDate": "2025-09-01T00:00:00",
+     "endDate": "2025-09-30T00:00:00",
+     "winLossRecord": "1-0"
+    },
+    {
+     "startDate": "2025-10-01T00:00:00",
+     "endDate": "2025-10-31T00:00:00",
+     "winLossRecord": "5-2"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "positionChange": "Up",
+   "gamesPlayed": 8,
+   "gamesWon": 5,
+   "gamesLost": 3,
+   "qualified": false,
+   "groupName": "Regular Season",
+   "club": {
+    "code": "OLY",
+    "name": "Olympiacos Piraeus",
+    "abbreviatedName": "Olympiacos",
+    "editorialName": "Olympiacos",
+    "tvCode": "OLY",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
+    }
+   },
+   "streaks": [
+    {
+     "startDate": "2025-09-01T00:00:00",
+     "endDate": "2025-09-30T00:00:00",
+     "winLossRecord": "1-0"
+    },
+    {
+     "startDate": "2025-10-01T00:00:00",
+     "endDate": "2025-10-31T00:00:00",
+     "winLossRecord": "4-3"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "positionChange": "Up",
+   "gamesPlayed": 8,
+   "gamesWon": 5,
+   "gamesLost": 3,
+   "qualified": false,
+   "groupName": "Regular Season",
+   "club": {
+    "code": "MCO",
+    "name": "AS Monaco",
+    "abbreviatedName": "Monaco",
+    "editorialName": "Monaco",
+    "tvCode": "ASM",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/89ed276a-2ba3-413f-8ea2-b3be209ca129.png"
+    }
+   },
+   "streaks": [
+    {
+     "startDate": "2025-10-01T00:00:00",
+     "endDate": "2025-10-31T00:00:00",
+     "winLossRecord": "5-3"
+    }
+   ]
+  },
+  {
+   "position": 6,
+   "positionChange": "Up",
+   "gamesPlayed": 8,
+   "gamesWon": 5,
+   "gamesLost": 3,
+   "qualified": false,
+   "groupName": "Regular Season",
+   "club": {
+    "code": "PAM",
+    "name": "Valencia Basket",
+    "abbreviatedName": "Valencia",
+    "editorialName": "Valencia",
+    "tvCode": "VBC",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHL/bc3e00b2-fea4-40be-a7ec-1e633129bde3.png"
+    }
+   },
+   "streaks": [
+    {
+     "startDate": "2025-10-01T00:00:00",
+     "endDate": "2025-10-31T00:00:00",
+     "winLossRecord": "5-3"
+    }
+   ]
+  },
+  {
+   "position": 7,
+   "positionChange": "Down",
+   "gamesPlayed": 8,
+   "gamesWon": 5,
+   "gamesLost": 3,
+   "qualified": false,
+   "groupName": "Regular Season",
+   "club": {
+    "code": "PAN",
+    "name": "Panathinaikos AKTOR Athens",
+    "abbreviatedName": "Panathinaikos",
+    "editorialName": "Panathinaikos",
+    "tvCode": "PAO",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/e3dff28a-9ec6-4faf-9d96-ecbc68f75780.png"
+    }
+   },
+   "streaks": [
+    {
+     "startDate": "2025-09-01T00:00:00",
+     "endDate": "2025-09-30T00:00:00",
+     "winLossRecord": "1-0"
+    },
+    {
+     "startDate": "2025-10-01T00:00:00",
+     "endDate": "2025-10-31T00:00:00",
+     "winLossRecord": "4-3"
+    }
+   ]
+  },
+  {
+   "position": 8,
+   "positionChange": "Up",
+   "gamesPlayed": 8,
+   "gamesWon": 5,
+   "gamesLost": 3,
+   "qualified": false,
+   "groupName": "Regular Season",
+   "club": {
+    "code": "BAR",
+    "name": "FC Barcelona",
+    "abbreviatedName": "Barcelona",
+    "editorialName": "Barcelona",
+    "tvCode": "BAR",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/35dfa503-e417-481f-963a-bdf6f013763e.png"
+    }
+   },
+   "streaks": [
+    {
+     "startDate": "2025-09-01T00:00:00",
+     "endDate": "2025-09-30T00:00:00",
+     "winLossRecord": "0-1"
+    },
+    {
+     "startDate": "2025-10-01T00:00:00",
+     "endDate": "2025-10-31T00:00:00",
+     "winLossRecord": "5-2"
+    }
+   ]
+  },
+  {
+   "position": 9,
+   "positionChange": "Up",
+   "gamesPlayed": 8,
+   "gamesWon": 4,
+   "gamesLost": 4,
+   "qualified": false,
+   "groupName": "Regular Season",
+   "club": {
+    "code": "MAD",
+    "name": "Real Madrid",
+    "abbreviatedName": "Real",
+    "editorialName": "Real",
+    "tvCode": "RMB",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/371b0d9b-9250-4c09-bda7-0686cf024657.png"
+    }
+   },
+   "streaks": [
+    {
+     "startDate": "2025-09-01T00:00:00",
+     "endDate": "2025-09-30T00:00:00",
+     "winLossRecord": "0-1"
+    },
+    {
+     "startDate": "2025-10-01T00:00:00",
+     "endDate": "2025-10-31T00:00:00",
+     "winLossRecord": "4-3"
+    }
+   ]
+  },
+  {
+   "position": 10,
+   "positionChange": "Down",
+   "gamesPlayed": 8,
+   "gamesWon": 4,
+   "gamesLost": 4,
+   "qualified": false,
+   "groupName": "Regular Season",
+   "club": {
+    "code": "PRS",
+    "name": "Paris Basketball",
+    "abbreviatedName": "Paris",
+    "editorialName": "Paris",
+    "tvCode": "PBB",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/a033e5b3-0de7-48a3-98d9-d9a4b9df1f39.png"
+    }
+   },
+   "streaks": [
+    {
+     "startDate": "2025-10-01T00:00:00",
+     "endDate": "2025-10-31T00:00:00",
+     "winLossRecord": "4-4"
+    }
+   ]
+  },
+  {
+   "position": 11,
+   "positionChange": "Down",
+   "gamesPlayed": 8,
+   "gamesWon": 4,
+   "gamesLost": 4,
+   "qualified": false,
+   "groupName": "Regular Season",
+   "club": {
+    "code": "VIR",
+    "name": "Virtus Bologna",
+    "abbreviatedName": "Virtus",
+    "editorialName": "Virtus",
+    "tvCode": "VIR",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.cortextech.io/1362801d-dd09-4fd0-932d-ead56063ab77.png"
+    }
+   },
+   "streaks": [
+    {
+     "startDate": "2025-09-01T00:00:00",
+     "endDate": "2025-09-30T00:00:00",
+     "winLossRecord": "1-0"
+    },
+    {
+     "startDate": "2025-10-01T00:00:00",
+     "endDate": "2025-10-31T00:00:00",
+     "winLossRecord": "3-4"
+    }
+   ]
+  },
+  {
+   "position": 12,
+   "positionChange": "Up",
+   "gamesPlayed": 8,
+   "gamesWon": 4,
+   "gamesLost": 4,
+   "qualified": false,
+   "groupName": "Regular Season",
+   "club": {
+    "code": "MUN",
+    "name": "FC Bayern Munich",
+    "abbreviatedName": "Bayern",
+    "editorialName": "Bayern",
+    "tvCode": "BAY",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/817b0e58-d595-4b09-ab0b-1e7cc26249ff.png"
+    }
+   },
+   "streaks": [
+    {
+     "startDate": "2025-09-01T00:00:00",
+     "endDate": "2025-09-30T00:00:00",
+     "winLossRecord": "0-1"
+    },
+    {
+     "startDate": "2025-10-01T00:00:00",
+     "endDate": "2025-10-31T00:00:00",
+     "winLossRecord": "4-3"
+    }
+   ]
+  },
+  {
+   "position": 13,
+   "positionChange": "Up",
+   "gamesPlayed": 8,
+   "gamesWon": 3,
+   "gamesLost": 5,
+   "qualified": false,
+   "groupName": "Regular Season",
+   "club": {
+    "code": "MIL",
+    "name": "EA7 Emporio Armani Milan",
+    "abbreviatedName": "Milan",
+    "editorialName": "Milan",
+    "tvCode": "EA7",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/5c2f0ab6-f86a-4df0-b2f3-f9ab92f7267b.png"
+    }
+   },
+   "streaks": [
+    {
+     "startDate": "2025-09-01T00:00:00",
+     "endDate": "2025-09-30T00:00:00",
+     "winLossRecord": "1-0"
+    },
+    {
+     "startDate": "2025-10-01T00:00:00",
+     "endDate": "2025-10-31T00:00:00",
+     "winLossRecord": "2-5"
+    }
+   ]
+  },
+  {
+   "position": 14,
+   "positionChange": "Down",
+   "gamesPlayed": 8,
+   "gamesWon": 3,
+   "gamesLost": 5,
+   "qualified": false,
+   "groupName": "Regular Season",
+   "club": {
+    "code": "DUB",
+    "name": "Dubai Basketball",
+    "abbreviatedName": "Dubai",
+    "editorialName": "Dubai",
+    "tvCode": "DUB",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/1efae090-16e2-4963-ae47-4b94f249c244.png"
+    }
+   },
+   "streaks": [
+    {
+     "startDate": "2025-09-01T00:00:00",
+     "endDate": "2025-09-30T00:00:00",
+     "winLossRecord": "1-0"
+    },
+    {
+     "startDate": "2025-10-01T00:00:00",
+     "endDate": "2025-10-31T00:00:00",
+     "winLossRecord": "2-5"
+    }
+   ]
+  },
+  {
+   "position": 15,
+   "positionChange": "Down",
+   "gamesPlayed": 8,
+   "gamesWon": 3,
+   "gamesLost": 5,
+   "qualified": false,
+   "groupName": "Regular Season",
+   "club": {
+    "code": "IST",
+    "name": "Anadolu Efes Istanbul",
+    "abbreviatedName": "Anadolu Efes",
+    "editorialName": "Efes",
+    "tvCode": "EFS",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCxM/a844756c-a58d-4666-93b8-48f7337bc79d.png"
+    }
+   },
+   "streaks": [
+    {
+     "startDate": "2025-09-01T00:00:00",
+     "endDate": "2025-09-30T00:00:00",
+     "winLossRecord": "1-0"
+    },
+    {
+     "startDate": "2025-10-01T00:00:00",
+     "endDate": "2025-10-31T00:00:00",
+     "winLossRecord": "2-5"
+    }
+   ]
+  },
+  {
+   "position": 16,
+   "positionChange": "Down",
+   "gamesPlayed": 8,
+   "gamesWon": 3,
+   "gamesLost": 5,
+   "qualified": false,
+   "groupName": "Regular Season",
+   "club": {
+    "code": "ULK",
+    "name": "Fenerbahce Beko Istanbul",
+    "abbreviatedName": "Fenerbahce",
+    "editorialName": "Fenerbahce",
+    "tvCode": "FBB",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHN/c91466d1-a620-4c0c-b47b-4a0cd9eee944.png"
+    }
+   },
+   "streaks": [
+    {
+     "startDate": "2025-10-01T00:00:00",
+     "endDate": "2025-10-31T00:00:00",
+     "winLossRecord": "3-5"
+    }
+   ]
+  },
+  {
+   "position": 17,
+   "positionChange": "Down",
+   "gamesPlayed": 8,
+   "gamesWon": 3,
+   "gamesLost": 5,
+   "qualified": false,
+   "groupName": "Regular Season",
+   "club": {
+    "code": "PAR",
+    "name": "Partizan Mozzart Bet Belgrade",
+    "abbreviatedName": "Partizan",
+    "editorialName": "Partizan",
+    "tvCode": "PAR",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/2681304e-77dd-4331-88b1-683078c0fb49.png"
+    }
+   },
+   "streaks": [
+    {
+     "startDate": "2025-09-01T00:00:00",
+     "endDate": "2025-09-30T00:00:00",
+     "winLossRecord": "0-1"
+    },
+    {
+     "startDate": "2025-10-01T00:00:00",
+     "endDate": "2025-10-31T00:00:00",
+     "winLossRecord": "3-4"
+    }
+   ]
+  },
+  {
+   "position": 18,
+   "positionChange": "Up",
+   "gamesPlayed": 8,
+   "gamesWon": 2,
+   "gamesLost": 6,
+   "qualified": false,
+   "groupName": "Regular Season",
+   "club": {
+    "code": "TEL",
+    "name": "Maccabi Rapyd Tel Aviv",
+    "abbreviatedName": "Maccabi",
+    "editorialName": "Maccabi",
+    "tvCode": "MTA",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.cortextech.io/1b533342-78f5-4932-b714-a7d80b5826b5.png"
+    }
+   },
+   "streaks": [
+    {
+     "startDate": "2025-09-01T00:00:00",
+     "endDate": "2025-09-30T00:00:00",
+     "winLossRecord": "0-1"
+    },
+    {
+     "startDate": "2025-10-01T00:00:00",
+     "endDate": "2025-10-31T00:00:00",
+     "winLossRecord": "2-5"
+    }
+   ]
+  },
+  {
+   "position": 19,
+   "positionChange": "Up",
+   "gamesPlayed": 8,
+   "gamesWon": 2,
+   "gamesLost": 6,
+   "qualified": false,
+   "groupName": "Regular Season",
+   "club": {
+    "code": "BAS",
+    "name": "Kosner Baskonia Vitoria-Gasteiz",
+    "abbreviatedName": "Baskonia",
+    "editorialName": "Baskonia",
+    "tvCode": "KBA",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.cortextech.io/cbc49cb0-99ce-4462-bdb7-56983ee03cf4.png"
+    }
+   },
+   "streaks": [
+    {
+     "startDate": "2025-09-01T00:00:00",
+     "endDate": "2025-09-30T00:00:00",
+     "winLossRecord": "0-1"
+    },
+    {
+     "startDate": "2025-10-01T00:00:00",
+     "endDate": "2025-10-31T00:00:00",
+     "winLossRecord": "2-5"
+    }
+   ]
+  },
+  {
+   "position": 20,
+   "positionChange": "Down",
+   "gamesPlayed": 8,
+   "gamesWon": 2,
+   "gamesLost": 6,
+   "qualified": false,
+   "groupName": "Regular Season",
+   "club": {
+    "code": "ASV",
+    "name": "LDLC ASVEL Villeurbanne",
+    "abbreviatedName": "ASVEL",
+    "editorialName": "ASVEL",
+    "tvCode": "ASV",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/e33c6d1a-95ca-4dbc-b8cb-0201812104cc.png"
+    }
+   },
+   "streaks": [
+    {
+     "startDate": "2025-10-01T00:00:00",
+     "endDate": "2025-10-31T00:00:00",
+     "winLossRecord": "2-6"
+    }
+   ]
+  }
+ ]
+}

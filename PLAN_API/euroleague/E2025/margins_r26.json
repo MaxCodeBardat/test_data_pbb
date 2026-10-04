@@ -1,0 +1,615 @@
+{
+ "winner": {
+  "code": "OLY",
+  "name": "Olympiacos Piraeus",
+  "abbreviatedName": "Olympiacos",
+  "editorialName": "Olympiacos",
+  "tvCode": "OLY",
+  "isVirtual": false,
+  "images": {
+   "crest": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
+  }
+ },
+ "teams": [
+  {
+   "position": 1,
+   "positionChange": "Up",
+   "gamesPlayed": 26,
+   "gamesWon": 18,
+   "gamesLost": 8,
+   "qualified": false,
+   "club": {
+    "code": "ULK",
+    "name": "Fenerbahce Beko Istanbul",
+    "abbreviatedName": "Fenerbahce",
+    "editorialName": "Fenerbahce",
+    "tvCode": "FBB",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHN/c91466d1-a620-4c0c-b47b-4a0cd9eee944.png"
+    }
+   },
+   "pointDifference1to5": "6-3",
+   "pointDifference6to10": "5-0",
+   "pointDifference11to15": "6-2",
+   "pointDifferenceMoreThan15": "2-2",
+   "rebounds": "15-2",
+   "assists": "12-1",
+   "blocks": "13-1",
+   "threePointers": "13-3",
+   "twoPointers": "11-2",
+   "freeThrows": "10-1",
+   "groupName": "Regular Season"
+  },
+  {
+   "position": 2,
+   "positionChange": "Down",
+   "gamesPlayed": 26,
+   "gamesWon": 17,
+   "gamesLost": 9,
+   "qualified": false,
+   "club": {
+    "code": "OLY",
+    "name": "Olympiacos Piraeus",
+    "abbreviatedName": "Olympiacos",
+    "editorialName": "Olympiacos",
+    "tvCode": "OLY",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
+    }
+   },
+   "pointDifference1to5": "4-3",
+   "pointDifference6to10": "4-3",
+   "pointDifference11to15": "3-3",
+   "pointDifferenceMoreThan15": "6-0",
+   "rebounds": "13-2",
+   "assists": "13-3",
+   "blocks": "9-4",
+   "threePointers": "9-0",
+   "twoPointers": "13-3",
+   "freeThrows": "14-8",
+   "groupName": "Regular Season"
+  },
+  {
+   "position": 3,
+   "positionChange": "Down",
+   "gamesPlayed": 26,
+   "gamesWon": 17,
+   "gamesLost": 9,
+   "qualified": false,
+   "club": {
+    "code": "HTA",
+    "name": "Hapoel IBI Tel Aviv",
+    "abbreviatedName": "Hapoel Tel Aviv",
+    "editorialName": "Hapoel Tel Aviv",
+    "tvCode": "HTA",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/cbb1c3ad-03d5-426a-b5ef-2832a4eee484.png"
+    }
+   },
+   "pointDifference1to5": "3-4",
+   "pointDifference6to10": "7-1",
+   "pointDifference11to15": "2-5",
+   "pointDifferenceMoreThan15": "4-0",
+   "rebounds": "9-3",
+   "assists": "8-3",
+   "blocks": "7-3",
+   "threePointers": "8-7",
+   "twoPointers": "10-0",
+   "freeThrows": "11-2",
+   "groupName": "Regular Season"
+  },
+  {
+   "position": 4,
+   "positionChange": "Up",
+   "gamesPlayed": 26,
+   "gamesWon": 16,
+   "gamesLost": 10,
+   "qualified": false,
+   "club": {
+    "code": "MAD",
+    "name": "Real Madrid",
+    "abbreviatedName": "Real",
+    "editorialName": "Real",
+    "tvCode": "RMB",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/371b0d9b-9250-4c09-bda7-0686cf024657.png"
+    }
+   },
+   "pointDifference1to5": "3-3",
+   "pointDifference6to10": "4-5",
+   "pointDifference11to15": "6-2",
+   "pointDifferenceMoreThan15": "3-0",
+   "rebounds": "14-7",
+   "assists": "12-3",
+   "blocks": "15-3",
+   "threePointers": "9-3",
+   "twoPointers": "11-2",
+   "freeThrows": "10-7",
+   "groupName": "Regular Season"
+  },
+  {
+   "position": 5,
+   "positionChange": "Down",
+   "gamesPlayed": 26,
+   "gamesWon": 16,
+   "gamesLost": 10,
+   "qualified": false,
+   "club": {
+    "code": "PAM",
+    "name": "Valencia Basket",
+    "abbreviatedName": "Valencia",
+    "editorialName": "Valencia",
+    "tvCode": "VBC",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHL/bc3e00b2-fea4-40be-a7ec-1e633129bde3.png"
+    }
+   },
+   "pointDifference1to5": "4-4",
+   "pointDifference6to10": "4-5",
+   "pointDifference11to15": "6-0",
+   "pointDifferenceMoreThan15": "2-1",
+   "rebounds": "11-6",
+   "assists": "12-2",
+   "blocks": "8-4",
+   "threePointers": "13-8",
+   "twoPointers": "7-2",
+   "freeThrows": "10-0",
+   "groupName": "Regular Season"
+  },
+  {
+   "position": 6,
+   "positionChange": "Up",
+   "gamesPlayed": 26,
+   "gamesWon": 16,
+   "gamesLost": 10,
+   "qualified": false,
+   "club": {
+    "code": "PAN",
+    "name": "Panathinaikos AKTOR Athens",
+    "abbreviatedName": "Panathinaikos",
+    "editorialName": "Panathinaikos",
+    "tvCode": "PAO",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/e3dff28a-9ec6-4faf-9d96-ecbc68f75780.png"
+    }
+   },
+   "pointDifference1to5": "4-2",
+   "pointDifference6to10": "5-5",
+   "pointDifference11to15": "4-1",
+   "pointDifferenceMoreThan15": "3-2",
+   "rebounds": "10-2",
+   "assists": "10-1",
+   "blocks": "9-1",
+   "threePointers": "7-1",
+   "twoPointers": "13-5",
+   "freeThrows": "8-5",
+   "groupName": "Regular Season"
+  },
+  {
+   "position": 7,
+   "positionChange": "Up",
+   "gamesPlayed": 26,
+   "gamesWon": 16,
+   "gamesLost": 10,
+   "qualified": false,
+   "club": {
+    "code": "RED",
+    "name": "Crvena Zvezda Meridianbet Belgrade",
+    "abbreviatedName": "Crvena Zvezda",
+    "editorialName": "Crvena Zvezda",
+    "tvCode": "CZV",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/d2eef4a8-62df-4fdd-9076-276004268515.png"
+    }
+   },
+   "pointDifference1to5": "4-2",
+   "pointDifference6to10": "4-5",
+   "pointDifference11to15": "5-0",
+   "pointDifferenceMoreThan15": "3-3",
+   "rebounds": "14-5",
+   "assists": "11-2",
+   "blocks": "6-2",
+   "threePointers": "8-1",
+   "twoPointers": "12-2",
+   "freeThrows": "8-5",
+   "groupName": "Regular Season"
+  },
+  {
+   "position": 8,
+   "positionChange": "Down",
+   "gamesPlayed": 26,
+   "gamesWon": 16,
+   "gamesLost": 10,
+   "qualified": false,
+   "club": {
+    "code": "BAR",
+    "name": "FC Barcelona",
+    "abbreviatedName": "Barcelona",
+    "editorialName": "Barcelona",
+    "tvCode": "BAR",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/35dfa503-e417-481f-963a-bdf6f013763e.png"
+    }
+   },
+   "pointDifference1to5": "4-4",
+   "pointDifference6to10": "8-1",
+   "pointDifference11to15": "1-2",
+   "pointDifferenceMoreThan15": "3-3",
+   "rebounds": "12-2",
+   "assists": "11-4",
+   "blocks": "6-1",
+   "threePointers": "11-5",
+   "twoPointers": "9-3",
+   "freeThrows": "9-1",
+   "groupName": "Regular Season"
+  },
+  {
+   "position": 9,
+   "positionChange": "Up",
+   "gamesPlayed": 26,
+   "gamesWon": 15,
+   "gamesLost": 11,
+   "qualified": false,
+   "club": {
+    "code": "ZAL",
+    "name": "Zalgiris Kaunas",
+    "abbreviatedName": "Zalgiris",
+    "editorialName": "Zalgiris",
+    "tvCode": "ZAL",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/0aa09358-3847-4c4e-b228-3582ee4e536d.png"
+    }
+   },
+   "pointDifference1to5": "4-3",
+   "pointDifference6to10": "1-3",
+   "pointDifference11to15": "3-2",
+   "pointDifferenceMoreThan15": "7-3",
+   "rebounds": "9-4",
+   "assists": "13-3",
+   "blocks": "9-0",
+   "threePointers": "12-4",
+   "twoPointers": "8-2",
+   "freeThrows": "11-3",
+   "groupName": "Regular Season"
+  },
+  {
+   "position": 10,
+   "positionChange": "Down",
+   "gamesPlayed": 26,
+   "gamesWon": 15,
+   "gamesLost": 11,
+   "qualified": false,
+   "club": {
+    "code": "MCO",
+    "name": "AS Monaco",
+    "abbreviatedName": "Monaco",
+    "editorialName": "Monaco",
+    "tvCode": "ASM",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/89ed276a-2ba3-413f-8ea2-b3be209ca129.png"
+    }
+   },
+   "pointDifference1to5": "4-5",
+   "pointDifference6to10": "4-2",
+   "pointDifference11to15": "0-3",
+   "pointDifferenceMoreThan15": "7-1",
+   "rebounds": "8-2",
+   "assists": "13-1",
+   "blocks": "8-3",
+   "threePointers": "9-3",
+   "twoPointers": "10-6",
+   "freeThrows": "11-8",
+   "groupName": "Regular Season"
+  },
+  {
+   "position": 11,
+   "positionChange": "Up",
+   "gamesPlayed": 26,
+   "gamesWon": 13,
+   "gamesLost": 13,
+   "qualified": false,
+   "club": {
+    "code": "MIL",
+    "name": "EA7 Emporio Armani Milan",
+    "abbreviatedName": "Milan",
+    "editorialName": "Milan",
+    "tvCode": "EA7",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/5c2f0ab6-f86a-4df0-b2f3-f9ab92f7267b.png"
+    }
+   },
+   "pointDifference1to5": "2-5",
+   "pointDifference6to10": "6-3",
+   "pointDifference11to15": "4-3",
+   "pointDifferenceMoreThan15": "1-2",
+   "rebounds": "8-4",
+   "assists": "9-6",
+   "blocks": "5-4",
+   "threePointers": "9-4",
+   "twoPointers": "5-4",
+   "freeThrows": "9-7",
+   "groupName": "Regular Season"
+  },
+  {
+   "position": 12,
+   "positionChange": "Down",
+   "gamesPlayed": 26,
+   "gamesWon": 12,
+   "gamesLost": 14,
+   "qualified": false,
+   "club": {
+    "code": "VIR",
+    "name": "Virtus Bologna",
+    "abbreviatedName": "Virtus",
+    "editorialName": "Virtus",
+    "tvCode": "VIR",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.cortextech.io/1362801d-dd09-4fd0-932d-ead56063ab77.png"
+    }
+   },
+   "pointDifference1to5": "4-5",
+   "pointDifference6to10": "5-4",
+   "pointDifference11to15": "1-3",
+   "pointDifferenceMoreThan15": "2-2",
+   "rebounds": "7-3",
+   "assists": "9-6",
+   "blocks": "4-3",
+   "threePointers": "9-3",
+   "twoPointers": "8-7",
+   "freeThrows": "4-7",
+   "groupName": "Regular Season"
+  },
+  {
+   "position": 13,
+   "positionChange": "Equal",
+   "gamesPlayed": 26,
+   "gamesWon": 12,
+   "gamesLost": 14,
+   "qualified": false,
+   "club": {
+    "code": "DUB",
+    "name": "Dubai Basketball",
+    "abbreviatedName": "Dubai",
+    "editorialName": "Dubai",
+    "tvCode": "DUB",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/1efae090-16e2-4963-ae47-4b94f249c244.png"
+    }
+   },
+   "pointDifference1to5": "4-5",
+   "pointDifference6to10": "3-3",
+   "pointDifference11to15": "2-2",
+   "pointDifferenceMoreThan15": "3-4",
+   "rebounds": "10-2",
+   "assists": "7-3",
+   "blocks": "4-8",
+   "threePointers": "5-3",
+   "twoPointers": "10-3",
+   "freeThrows": "9-8",
+   "groupName": "Regular Season"
+  },
+  {
+   "position": 14,
+   "positionChange": "Equal",
+   "gamesPlayed": 26,
+   "gamesWon": 11,
+   "gamesLost": 15,
+   "qualified": false,
+   "club": {
+    "code": "TEL",
+    "name": "Maccabi Rapyd Tel Aviv",
+    "abbreviatedName": "Maccabi",
+    "editorialName": "Maccabi",
+    "tvCode": "MTA",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.cortextech.io/1b533342-78f5-4932-b714-a7d80b5826b5.png"
+    }
+   },
+   "pointDifference1to5": "6-2",
+   "pointDifference6to10": "2-7",
+   "pointDifference11to15": "1-4",
+   "pointDifferenceMoreThan15": "2-2",
+   "rebounds": "4-3",
+   "assists": "5-3",
+   "blocks": "8-6",
+   "threePointers": "7-5",
+   "twoPointers": "8-3",
+   "freeThrows": "3-8",
+   "groupName": "Regular Season"
+  },
+  {
+   "position": 15,
+   "positionChange": "Equal",
+   "gamesPlayed": 26,
+   "gamesWon": 11,
+   "gamesLost": 15,
+   "qualified": false,
+   "club": {
+    "code": "MUN",
+    "name": "FC Bayern Munich",
+    "abbreviatedName": "Bayern",
+    "editorialName": "Bayern",
+    "tvCode": "BAY",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/817b0e58-d595-4b09-ab0b-1e7cc26249ff.png"
+    }
+   },
+   "pointDifference1to5": "2-5",
+   "pointDifference6to10": "5-3",
+   "pointDifference11to15": "2-2",
+   "pointDifferenceMoreThan15": "2-5",
+   "rebounds": "6-4",
+   "assists": "10-4",
+   "blocks": "5-5",
+   "threePointers": "9-8",
+   "twoPointers": "6-3",
+   "freeThrows": "4-3",
+   "groupName": "Regular Season"
+  },
+  {
+   "position": 16,
+   "positionChange": "Equal",
+   "gamesPlayed": 26,
+   "gamesWon": 9,
+   "gamesLost": 17,
+   "qualified": false,
+   "club": {
+    "code": "BAS",
+    "name": "Kosner Baskonia Vitoria-Gasteiz",
+    "abbreviatedName": "Baskonia",
+    "editorialName": "Baskonia",
+    "tvCode": "KBA",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.cortextech.io/cbc49cb0-99ce-4462-bdb7-56983ee03cf4.png"
+    }
+   },
+   "pointDifference1to5": "1-1",
+   "pointDifference6to10": "2-7",
+   "pointDifference11to15": "5-4",
+   "pointDifferenceMoreThan15": "1-5",
+   "rebounds": "7-4",
+   "assists": "9-9",
+   "blocks": "4-5",
+   "threePointers": "5-3",
+   "twoPointers": "6-6",
+   "freeThrows": "5-6",
+   "groupName": "Regular Season"
+  },
+  {
+   "position": 17,
+   "positionChange": "Equal",
+   "gamesPlayed": 26,
+   "gamesWon": 8,
+   "gamesLost": 18,
+   "qualified": false,
+   "club": {
+    "code": "PRS",
+    "name": "Paris Basketball",
+    "abbreviatedName": "Paris",
+    "editorialName": "Paris",
+    "tvCode": "PBB",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/a033e5b3-0de7-48a3-98d9-d9a4b9df1f39.png"
+    }
+   },
+   "pointDifference1to5": "2-7",
+   "pointDifference6to10": "3-5",
+   "pointDifference11to15": "1-2",
+   "pointDifferenceMoreThan15": "2-4",
+   "rebounds": "4-6",
+   "assists": "2-0",
+   "blocks": "6-3",
+   "threePointers": "5-9",
+   "twoPointers": "5-6",
+   "freeThrows": "2-3",
+   "groupName": "Regular Season"
+  },
+  {
+   "position": 18,
+   "positionChange": "Equal",
+   "gamesPlayed": 26,
+   "gamesWon": 8,
+   "gamesLost": 18,
+   "qualified": false,
+   "club": {
+    "code": "PAR",
+    "name": "Partizan Mozzart Bet Belgrade",
+    "abbreviatedName": "Partizan",
+    "editorialName": "Partizan",
+    "tvCode": "PAR",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/2681304e-77dd-4331-88b1-683078c0fb49.png"
+    }
+   },
+   "pointDifference1to5": "5-3",
+   "pointDifference6to10": "2-3",
+   "pointDifference11to15": "1-4",
+   "pointDifferenceMoreThan15": "0-8",
+   "rebounds": "6-4",
+   "assists": "3-5",
+   "blocks": "1-7",
+   "threePointers": "3-4",
+   "twoPointers": "6-5",
+   "freeThrows": "2-5",
+   "groupName": "Regular Season"
+  },
+  {
+   "position": 19,
+   "positionChange": "Equal",
+   "gamesPlayed": 26,
+   "gamesWon": 7,
+   "gamesLost": 19,
+   "qualified": false,
+   "club": {
+    "code": "IST",
+    "name": "Anadolu Efes Istanbul",
+    "abbreviatedName": "Anadolu Efes",
+    "editorialName": "Efes",
+    "tvCode": "EFS",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCxM/a844756c-a58d-4666-93b8-48f7337bc79d.png"
+    }
+   },
+   "pointDifference1to5": "3-5",
+   "pointDifference6to10": "2-6",
+   "pointDifference11to15": "0-5",
+   "pointDifferenceMoreThan15": "2-3",
+   "rebounds": "5-6",
+   "assists": "4-3",
+   "blocks": "3-5",
+   "threePointers": "3-6",
+   "twoPointers": "5-9",
+   "freeThrows": "5-4",
+   "groupName": "Regular Season"
+  },
+  {
+   "position": 20,
+   "positionChange": "Equal",
+   "gamesPlayed": 26,
+   "gamesWon": 7,
+   "gamesLost": 19,
+   "qualified": false,
+   "club": {
+    "code": "ASV",
+    "name": "LDLC ASVEL Villeurbanne",
+    "abbreviatedName": "ASVEL",
+    "editorialName": "ASVEL",
+    "tvCode": "ASV",
+    "isVirtual": false,
+    "images": {
+     "crest": "https://media-cdn.incrowdsports.com/e33c6d1a-95ca-4dbc-b8cb-0201812104cc.png"
+    }
+   },
+   "pointDifference1to5": "4-3",
+   "pointDifference6to10": "3-8",
+   "pointDifference11to15": "0-4",
+   "pointDifferenceMoreThan15": "0-4",
+   "rebounds": "4-5",
+   "assists": "3-4",
+   "blocks": "3-8",
+   "threePointers": "1-7",
+   "twoPointers": "6-1",
+   "freeThrows": "3-5",
+   "groupName": "Regular Season"
+  }
+ ]
+}
